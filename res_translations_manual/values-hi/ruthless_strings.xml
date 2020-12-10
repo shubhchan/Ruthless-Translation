@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title" >
+        कस्टम ऐप नाम रीसेट करें
+    </string>
+
+    <string name="reset_app_names_description" >
+        यह सारे कस्टम ऐप नामों को रीसेट कर देगा
+    </string>
+
+    <string name="tap_to_edit_app_name" >
+        ऐप नाम को बदलने के लिए टैप करें
+    </string>
+
+    <string name="enter_new_app_name" >
+        नया ऐप नाम इंटर करे
+    </string>
+
+    <string name="double_tap_to_lock_title" >
+        दो टैप लॉक
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        होम स्क्रीन पर
+    </string>
+
+    <string name="double_tap_to_lock_hint" >
+        दो टैप लॉक उपयोग करने के लिए Ruthless Launcher
+        को एडमिन एक्सेस दे। यह सेक्योर लॉक है, मतलब आपको अनलॉक करने के लिए पिन या पासवर्ड डालना पड़ेगा।
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning" >
+        एडमिन एक्सेस बंद करने पर आप दो टैप लॉक होम स्क्रीन पर नहीं उपयोग कर पाएंगे।
+
+    </string>
+
+    <string name="state_loading" >
+        लोडिंग
+    </string>
+
+    <string name="action_app_drawer" >
+        ऐप ड्रावर खोले
+    </string>
+
+    <string name="action_app_search" >
+        ऐप सर्च खोले
+    </string>
+
+    <string name="action_canceled" >
+        यूजर ने एक्शन कैंसल कर दिया
+    </string>
+
+    <string name="action_default_screen" >
+        पॉपअप मेन्यू खोले
+    </string>
+
+    <string name="action_nothing" >
+        कुछ नहीं
+    </string>
+
+    <string name="action_notifications" >
+        नोटिफिकेशन पैनल खोले
+    </string>
+
+    <string name="action_notifications_with_settings" >
+        क्वीक सेटिंग पैनल खोले
+    </string>
+
+    <string name="action_overview" >
+        वीजीट पैनल खोले
+    </string>
+
+    <string name="action_quick_search" >
+        क्वीक सर्च
+    </string>
+
+    <string name="action_settings" >
+        डीवाइस सेटिंग
+    </string>
+
+    <string name="action_voice_search" >
+        वॉइस सर्च
+    </string>
+
+    <string name="action_screen_method_admin" >
+        एडमिन लॉक
+    </string>
+
+    <string name="action_lock_screen_timeout" >
+        स्क्रीन टाइम आउट
+    </string>
+
+    <string name="action_screen_method_root" >
+        रूट लॉक
+    </string>
+
+    <string name="action_assistant" >
+        एसिस्टेंट खोले
+    </string>
+
+    <string name="action_google_now" >
+        गूगल नाउ
+    </string>
+
+    <string name="action_lock_accessibility">
+        एडमिन लॉक
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        रूट एक्सेस दे
+    </string>
+
+    <string name="recent_task_option_kill_app" >
+        किल
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        दो ऊंगली से नीचे खीचे
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        एक ऊंगली से नीचे खीचे
+    </string>
+
+    <string name="home_action_title">
+        होम बटन
+    </string>
+
+    <string name="double_tap" >
+        दो टैप
+    </string>
+
+    <string name="long_tap">
+        लॉन्ग प्रेस
+    </string>
+
+    <string name="one_finger_up">
+        एक ऊंगली से उपर खीचे
+    </string>
+
+    <string name="home_button" >
+        Home_button
+    </string>
+
+    <string name="two_finger_up" >
+        दो ऊंगली से उपर खीचे
+    </string>
+
+    <string name="two_finger_up_hotseat" >
+        एक ऊंगली से उपर खीचे from dock
+    </string>
+
+    <string name="one_finger_up_hotseat" >
+        एक ऊंगली से उपर खीचे from dock
+    </string>
+
+    <string name="category_gestures">
+        जेस्चर
+    </string>
+
+    <string name="category_gestures_summary">
+        स्वाइप डॉउन, लॉन्ग प्रेस और स्वाइप अप
+    </string>
+
+    <string name="recents_app_killed" >
+        ऐप रोक दी
+    </string>
+
+    <string name="full_screen_mode">
+        स्टेटस बार दिखाएं
+    </string>
+
+    <string name="icon_text_size_title">
+        आइकन के अक्षर
+    </string>
+
+    <string name="icon_size_title">
+        आइकन माप
+    </string>
+
+    <string name="settings_edit_allow_title">
+        होम स्क्रीन एडिट करने दे
+    </string>
+
+    <string name="theme_system">
+        सिस्टम
+    </string>
+
+    <string name="components_title">
+        विजिबिलिटी
+    </string>
+
+    <string name="components_summary">
+        ऐप के चीजों को शो या हाइड करें
+    </string>
+
+    <string name="components_sum">
+        एक ऑप्शन को बंद करने पर वो चीज हाइड होगी या उसका उयोग बंद हो जायगा
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        डॉक बार को दिखाए
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        डॉक आइकन को दिखाए (इसका उयोग तब करे जब डॉक बार बंद हो)
+    </string>
+
+    <string name="component_scroll_position">
+        स्क्रूल की जगह याद रखें
+    </string>
+
+    <string name="category_grids">
+        ग्रिड कस्टमाइज मेन्यू
+    </string>
+
+    <string name="icon_size_switch">
+        आइकन माप मेन्यू दिखाएं
+    </string>
+
+    <string name="icon_size_menu">
+        आइकन माप मेन्यू
+    </string>
+
+    <string name="Icon_menu_summary">
+        डिफॉल्ट माप 100% होगा दी. पी. आई. के अनुसार
+    </string>
+
+    <string name="grid_menu">
+        ग्रिड  मेन्यू
+    </string>
+
+    <string name="grid_menu_switch">
+        ग्रिड मेन्यू दिखाएं
+    </string>
+
+    <string name="grid">
+        ग्रिड
+    </string>
+
+    <string name="grid_menu_summary">
+        डिफॉल्ट वैल्यू 5 आइकन है
+    </string>
+
+    <string name="dialog_summary">
+        डायलॉग को बंद करे के लिए उसके बाहर टैप करें
+    </string>
+
+    <string name="homescreen_default">
+        होम स्क्रीन
+    </string>
+
+    <string name="allapps_default">
+        ऑल ऐप्स
+    </string>
+
+    <string name="icon_label_default">
+        आइकन लेबल
+    </string>
+
+    <string name="rows_default">
+        रोज
+    </string>
+
+    <string name="allapps_columns_default">
+        ऑल ऐप्स कॉलम
+    </string>
+
+    <string name="hotseat_default">
+        हॉटसीट
+    </string>
+
+    <string name="columns_default">
+        कॉलम
+    </string>
+
+    <string name="components_visibility_icon_label">
+        आइकन लेबल दिखाए
+    </string>
+
+    <string name="backup_title">
+        बैकअप और रीस्टोर
+    </string>
+
+    <string name="perform_backup">
+        बैकअप
+    </string>
+
+    <string name="perform_restore">
+        रीस्टोर
+    </string>
+
+    <string name="no_restore_file"><font color = "#FF939393">
+        रीस्टोर
+    </font></string>
+
+    <string name="override_backup">
+        बैकअप ओवर्राइड करें
+    </string>
+
+    <string name="settings_backup_sum">
+        उपर के चार स्थान से
+    </string>
+
+    <string name="settings_backup_subtitle">
+        फाइल की जगह के लिए क्लीक करें, ब्राउज़ करने के लिए लॉग क्लीक करे
+    </string>
+
+    <string name="restarting">
+        रीस्टार्ट
+    </string>
+
+    <string name="visuals">
+        विजुअल
+    </string>
+
+    <string name="Dockbar">
+        सर्चबार
+    </string>
+
+    <string name="icons">
+        आइकन
+    </string>
+
+    <string name="reset">
+        रीसेट
+    </string>
+
+    <string name="export_error">
+        बैकअप नहीं कर सके
+    </string>
+
+    <string name="icon_import_success">
+        आइकन डाटाबेस रीस्टोर हो गया
+    </string>
+
+    <string name="layout_import_success">
+        लेआउट रीस्टोर हो गया
+    </string>
+
+    <string name="import_error">
+        रीस्टोर नहीं कर सके
+    </string>
+
+    <string name="settings_export_success">
+        बैकअप सफल
+    </string>
+
+    <string name="settings_import_success">
+        प्रिफरेंस रीस्टोर हो गया
+    </string>
+
+    <string name="click">
+        बैकअप के लिए क्लीक करें
+    </string>
+
+    <string name="click2">
+        बैकअप के लिए क्लीक करें
+    </string>
+
+    <string name="state_applying">
+        वैल्यूज एप्लाइड
+    </string>
+
+    <string name="secure_apps_manager_name">
+        सैक्योर वाल्ट
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        सिक्योर ऐप्स को खोलने के लिए ऑथेंटिकेट करना पड़ता है
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        सिक्योर ऐप्स खोलने के लिए सैक्योर वाल्ट अनलॉक करें
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        %1$s को लॉन्च करने के लिए
+    </string>
+
+    <string name="secure_apps_loading">
+        "लोडिंग "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        सिक्योर लॉक को सेटअप करे
+    </string>
+
+    <string name="secure_apps_help">
+        हेल्प
+    </string>
+
+    <string name="secure_apps_info_protected">
+        सिक्योर ऐप्स को खोलने के लिए ऑथेंटिकेट करना पड़ता है
+    </string>
+
+    <string name="secrure_apps_title">
+        फ़ोन का पिन, पासवर्ड, पैटर्न और फिंगरप्रिंट डाले
+    </string>
+
+    <string name="search_secured">
+        सिक्योर
+    </string>
+
+    <string name="default_value">
+        डिफॉल्ट
+    </string>
+
+    <string name="set_value">
+        सेट
+    </string>
+
+    <string name="slide_up">
+        स्लाइड अप
+    </string>
+
+    <string name="blink">
+        ब्लींक
+    </string>
+
+    <string name="fade">फेड</string>
+
+    <string name="zoom">
+        ज़ूम
+    </string>
+
+    <string name="fly_in">
+        फ्लाई इन
+    </string>
+
+    <string name="fall_down">
+        फॉल डॉउन
+    </string>
+
+    <string name="app_open_animation">
+        एनिमेशन
+    </string>
+
+    <string name="gestures_sum">
+        लॉक जेस्चर अपने एक्शन करने के लिए अपनी परमिशन के साथ ही काम करेंगे
+    </string>
+
+    <string name="location_help_1">
+        "एक स्थान चुने"
+    </string>
+
+    <string name="location_help_2">
+        "उपर के चार में से"
+    </string>
+
+    <string name="applying_icon">
+        आइकन अप्लाई कर दिया…
+    </string>
+
+    <string name="available_icon_packs">
+        आइकन पैक जो अवेलेबल है
+    </string>
+
+    <string name="translator_info">
+        ट्रांसलेशन
+    </string>
+
+    <string name="misc">
+        मिसलेनियस
+    </string>
+
+    <string name="icons_customisation">
+        आइकन कस्टमाइजेशन
+    </string>
+
+    <string name="set_as_default_app">
+        डिफॉल्ट ऐप चुने
+    </string>
+
+    <string name="privacy_policy">c
+        प्राइवेसी पॉलिसी
+    </string>
+
+    <string name="layout_editing_is_disabled">
+        लेआउट एडिट बंद हैं
+    </string>
+
+    <string name="action_launch_app">लॉन्च ऐप</string>
+
+    <string name="components_notification">एट ए ग्लांस में नोटिफिकेशन चालू करें</string>
+
+    <string name="components_opacity">ऑल ऐप्स की पारदर्शिता</string>
+
+    <string name="secure_apps_sub_title">दिखता है कि ऐप सिक्योर है</string>
+
+    <string name="launch">लॉच</string>
+
+    <string name="share">शेयर</string>
+
+
+
+</resources>

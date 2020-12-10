@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title">
+        اعادة تعيين الى الاسماء الافتراضية الخاصة بالتطبيقات
+    </string>
+
+    <string name="reset_app_names_description">
+        سيؤدي ذلك إلى إعادة تعيين الاسم المخصص لجميع التطبيقات على الإعدادات الافتراضية الخاصة بها.
+    </string>
+
+    <string name="tap_to_edit_app_name">
+        اضغط لتعديل اسم التطبيق
+    </string>
+
+    <string name="enter_new_app_name">
+        اكتب اسم التطبيق
+    </string>
+
+    <string name="double_tap_to_lock_title">
+        انقر نقرتين متتاليتين من اجل القفل
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        على شاشتك الرئيسية
+    </string>
+
+    <string name="double_tap_to_lock_hint">
+        لتتمكن من استخدام النقر المزدوج للقفل ، يجب عليك تمكين وصول صلاحية المشرف إلى Ruthless Launcher. هذا قفل آمن ،
+        مما يعني أنه يجب عليك إدخال رقم التعريف الشخصي PIN في عملية الفتح التالية ، إذا كان لديك أي قفل.
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning">
+        من خلال تعطيل وصول صلاحية المشرف ، لن تتمكن من استخدام النقر المزدوج للقفل على شاشتك الرئيسية..
+    </string>
+
+    <string name="state_loading">
+        يرجى الانتضار
+    </string>
+
+    <string name="action_app_drawer">
+        فتح درج التطبيقات
+    </string>
+
+    <string name="action_app_search">
+        قتح البحث عن التطبيقات
+    </string>
+
+    <string name="action_canceled">
+        تم إلغاء الإجراء بواسطة المستخدم
+    </string>
+
+    <string name="action_default_screen">
+        فتح القائمة المنبثقة
+    </string>
+
+    <string name="action_nothing">
+        لا يوجد شيء
+    </string>
+
+    <string name="action_notifications">
+        فتح قائمة الاشعارات
+    </string>
+
+    <string name="action_notifications_with_settings">
+        فتح قائمة الاعدادات السريعة
+    </string>
+
+    <string name="action_overview">
+        فتح قائمة الاختصارات الذكية (Widgets)
+    </string>
+
+    <string name="action_quick_search">
+        بحث سريع
+    </string>
+
+    <string name="action_settings">
+        إعادات الجهاز
+    </string>
+
+    <string name="action_voice_search">
+        البحث بأستخدام الصوت
+    </string>
+
+    <string name="action_screen_method_admin">
+        قفل بأستخدام صلاحية المشرف
+    </string>
+
+    <string name="action_lock_screen_timeout">
+        قفل بأستخدام مهلة الشاشة
+    </string>
+
+    <string name="action_screen_method_root">
+        قفل بأستخدام صلاحية الجذر (Root Access)
+    </string>
+
+    <string name="action_assistant">
+        فتح المساعد الشخصي
+    </string>
+
+    <string name="action_google_now">
+        خدمة Google Now
+    </string>
+
+    <string name="action_lock_accessibility">
+        السبات بأستخدام خاصية الوصول
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        قم بتوفير الوصول الى الجذر (Root Access)
+    </string>
+
+    <string name="recent_task_option_kill_app">
+        قتل العملية
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        إسحب بأصبعين الى الاسفل
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        أسحب بأصبع واحد الى الاسفل
+    </string>
+
+    <string name="home_action_title">
+        زر الصفحة الرئيسية (Home)
+    </string>
+
+    <string name="double_tap">
+        أنقر مرتين
+    </string>
+
+    <string name="long_tap">
+        ضغطة مطولة
+    </string>
+
+    <string name="one_finger_up">
+        أسحب بأصبع واحد للاعلى
+    </string>
+
+    <string name="home_button">
+        زر الشاشة الرئيسية (Home)
+    </string>
+
+    <string name="two_finger_up">
+        أسحب للاعلى بأستخدام اصبعين
+    </string>
+
+    <string name="two_finger_up_hotseat">
+        التمرير للاعلى بأصبعين من خلال درج التطبيقات السفلي
+    </string>
+
+    <string name="one_finger_up_hotseat">
+        التمرير للاعلى بأصبع واحد من خلال درج التطبيقات السفلي
+    </string>
+
+    <string name="category_gestures">
+        الايماءات
+    </string>
+
+    <string name="category_gestures_summary">
+        مرر لأسفل والضغط مطولاً والمزيد.
+    </string>
+
+    <string name="recents_app_killed">
+        تم قتل عمليات التطبيق
+    </string>
+
+    <string name="full_screen_mode">
+        أظهار شريط الحالة العلوي (Status Bar)
+    </string>
+
+    <string name="icon_text_size_title">
+        حجم النص الخاص بالايقونة
+    </string>
+
+    <string name="icon_size_title">
+        حجم الايقونة
+    </string>
+
+    <string name="settings_edit_allow_title">
+        السماح بتحرير مساحة العمل
+    </string>
+
+    <string name="theme_system">
+        النظام
+    </string>
+
+    <string name="components_title">
+        الرؤية
+    </string>
+
+    <string name="components_summary">
+        أظهار و اخفاء مكونات اللانشر
+    </string>
+
+    <string name="components_sum">
+        سيؤدي تعطيل الإدخال إلى إخفاء المكون أو تعطيل وظائفه
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        رؤية درج التطبيقات السفلي
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        أيقونات درج التطبيقات السفلي ( من الافضل إخفاءه عندما يكون درج التطبيقات السفلي مخفيًا)
+    </string>
+
+    <string name="component_scroll_position">
+        الاحتفاظ بموضع التمرير
+    </string>
+
+    <string name="category_grids">
+        تخصيص الوضع الشبكي (Grid)
+    </string>
+
+    <string name="icon_size_switch">
+        تمكين القائمة الخاصة بحجم الايقونات المخصص
+    </string>
+
+    <string name="icon_size_menu">
+        قائمة حجم الايقونة
+    </string>
+
+    <string name="Icon_menu_summary">
+        القيم الافتراضية هي 100% مع الاخذ بعين الاعتبار قيمة عدد البكسلات نسبة الى البوصة الواحدة للشاشة (DPI)
+    </string>
+
+    <string name="grid_menu">
+        قائمة الشبكة
+    </string>
+
+    <string name="grid_menu_switch">
+        تمكين قائمة الشبكة المخصصة
+    </string>
+
+    <string name="grid">
+        شبكة
+    </string>
+
+    <string name="grid_menu_summary">
+        القيم الافتراضية هي 5 ايقونات في جميع الحقول
+    </string>
+
+    <string name="dialog_summary">
+        انقر خارج منطقة القائمة المنبثقة للإلغاء.
+    </string>
+
+    <string name="homescreen_default">
+        الشاشة الرئيسية (HomeScreen)
+    </string>
+
+    <string name="allapps_default">
+        كل التطبيقات
+    </string>
+
+    <string name="icon_label_default">
+        بطاقة الايقونة
+    </string>
+
+    <string name="rows_default">
+        الصفوف
+    </string>
+
+    <string name="allapps_columns_default">
+        أعمدة الخاصة بكل التطبيقات
+    </string>
+
+    <string name="hotseat_default">
+        المنطقة الخاصة بالدرج السفلي للتطبيقات (hotseat)
+    </string>
+
+    <string name="columns_default">
+        الأعمدة
+    </string>
+
+    <string name="components_visibility_icon_label">
+        رؤية بطاقة الايقونة
+    </string>
+
+    <string name="backup_title">
+        نسخ احتياطي &amp; إستعادة
+    </string>
+
+    <string name="perform_backup">
+        نسخ احتياطي
+    </string>
+
+    <string name="perform_restore">
+        إستعادة
+    </string>
+
+    <string name="no_restore_file">
+        <font color="#FF939393">
+            إستعادة
+        </font>
+    </string>
+
+    <string name="override_backup">
+        تجاوز النسخ الاحتياطي
+    </string>
+
+    <string name="settings_backup_sum">
+        من أحد المواقع الاربعة.
+    </string>
+
+    <string name="settings_backup_subtitle">
+        اضغط هنا للحصول على مكان الملف ، اضغط مطولاً لتصفح الملفات.
+    </string>
+
+    <string name="restarting">
+        إعادة التشغيل (Restart)
+    </string>
+
+    <string name="visuals">
+        المرئيات
+    </string>
+
+    <string name="Dockbar">
+        شريط البحث
+    </string>
+
+    <string name="icons">
+        الايقونات
+    </string>
+
+    <string name="reset">
+        إعادة تعيين
+    </string>
+
+    <string name="export_error">
+        تعذر النسخ الاحتياطي
+    </string>
+
+    <string name="icon_import_success">
+        تمت أستعادة الايقونات
+    </string>
+
+    <string name="layout_import_success">
+        تمت أستعادة التخطيط
+    </string>
+
+    <string name="import_error">
+        تعذرت الاستعادة
+    </string>
+
+    <string name="settings_export_success">
+        تم النسخ الاحتياطي بنجاح
+    </string>
+
+    <string name="settings_import_success">
+        تمت أستعادة الاعدادات
+    </string>
+
+    <string name="click">
+        إنقر للنسخ الاحتياطي
+    </string>
+
+    <string name="click2">
+        إنقر للاستعادة
+    </string>
+
+    <string name="state_applying">
+        تم تطبيق القيم
+    </string>
+
+    <string name="secure_apps_manager_name">
+        الخزنة الأمنة
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        تتطلب التطبيقات المؤمنة في الخزنة الأمنة أستخدام المصادقة من قبل اللانشر
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        افتح لإدارة التطبيقات الآمنة في الخزنة الآمنة
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        للبدء %1$s
+    </string>
+
+    <string name="secure_apps_loading">
+        "يرجى الانتظار "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        يرجى إعداد ققل شاشة آمن لتقييد الوصول إلى التطبيق
+    </string>
+
+    <string name="secure_apps_help">
+        المساعدة
+    </string>
+
+    <string name="secure_apps_info_protected">
+        التطبيقات المؤمنة في الخزنة الامنة تتطلب استخدام المصادقة من اللانشر
+    </string>
+
+    <string name="secrure_apps_title">
+        أدخل نمط قفل شاشة الهاتف أو PIN أو كلمة المرور أو بصمة الإصبع
+    </string>
+
+    <string name="search_secured">
+        مؤمن
+    </string>
+
+    <string name="default_value">
+        الافتراضي
+    </string>
+
+    <string name="set_value">
+        إستخدام
+    </string>
+
+    <string name="slide_up">
+        ألسحب للاعلى
+    </string>
+
+    <string name="blink">
+        الوميض (Blink)
+    </string>
+
+    <string name="fade">
+        الاختفاء (Fade)
+    </string>
+
+    <string name="zoom">
+        التكبير (Zoom)
+    </string>
+
+    <string name="fly_in">
+        التحرك للداخل (Fly in)
+    </string>
+
+    <string name="fall_down">
+        السقوط للاسفل (Fly down)
+    </string>
+
+    <string name="app_open_animation">
+        الحركة
+    </string>
+
+    <string name="gestures_sum">
+        تتطلب إيماءات القفل أذوناتهم الخاصة من قبل المستخدم لأداء إجراءاتهم.
+    </string>
+
+    <string name="location_help_1">
+        "إختر موقعاً"
+    </string>
+
+    <string name="location_help_2">
+        "من الاعلى أربعة"
+    </string>
+
+    <string name="applying_icon">
+        تطبيق الايقونة…
+    </string>
+
+    <string name="available_icon_packs">
+        حزم الايقونات المتوفرة
+    </string>
+
+
+    <string name="translator_info">
+        الترجمة
+    </string>
+
+    <string name="misc">
+        أعدادات اخرى
+    </string>
+
+    <string name="icons_customisation">
+        تخصيص الأيقونات
+    </string>
+
+    <string name="layout_editing_is_disabled">
+        تعديل المخطط تم تعطيلهُ
+    </string>
+
+    <string name="action_launch_app">بدء التطبيق</string>
+
+    <string name="components_notification">
+        تمكين الإشعارات في اللمحة (At Glance)
+    </string>
+
+    <string name="components_opacity">
+        درجة شفافية خلفية جميع التطبيقات
+    </string>
+
+    <string name="secure_apps_sub_title">
+        أن التطبيق  تم تأمينهُ
+    </string>
+
+    <string name="launch">
+        بدء
+    </string>
+
+    <string name="share">
+        مشاركة
+    </string>
+</resources>

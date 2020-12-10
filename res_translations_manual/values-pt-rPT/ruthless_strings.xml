@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title" >
+        Redefinir o nome das aplicações
+    </string>
+
+    <string name="reset_app_names_description" >
+        Esta opção vai alterar os nomes editados das aplicações para eu seu nome original.
+    </string>
+
+    <string name="tap_to_edit_app_name" >
+        Toque para editar o nome da aplicação
+    </string>
+
+    <string name="enter_new_app_name" >
+        Insira o novo nome da aplicação
+    </string>
+
+    <string name="double_tap_to_lock_title" >
+        Duplo toque para bloquear
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        No seu ecrã principal
+    </string>
+
+    <string name="double_tap_to_lock_hint" >
+        Para ser possível utilizar o duplo toque para bloquear, é necessário ativar acesso de administrador para o Ruthless Launcher. Este é um bloqueio seguro, o ir significa que é necessário inserir o PIN no próximo desbloqueio, claro se houver um PIN definido.
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning" >
+        Ao desativar o acesso de administrador, não vai ser possível utilizar o duplo toque para bloquear o ecrã.
+    </string>
+
+    <string name="state_loading" >
+        Loading
+    </string>
+
+    <string name="action_app_drawer" >
+        Abrir gaveta de aplicações
+    </string>
+
+    <string name="action_app_search" >
+        Abrir pesquisa de aplicações
+    </string>
+
+    <string name="action_canceled" >
+        Ação cancelada pelo utilizador
+    </string>
+
+    <string name="action_default_screen" >
+        Abrir menu pop-up de opções
+    </string>
+
+    <string name="action_nothing" >
+        Nada
+    </string>
+
+    <string name="action_notifications" >
+        Abrir painel de notificações
+    </string>
+
+    <string name="action_notifications_with_settings" >
+        Abrir painel de definições rápidas
+    </string>
+
+    <string name="action_overview" >
+        Abrir painel de widgets
+    </string>
+
+    <string name="action_quick_search" >
+        Pesquisa rápida
+    </string>
+
+    <string name="action_settings" >
+        Definições do dispositivo
+    </string>
+
+    <string name="action_voice_search" >
+        Pesquisa por voz
+    </string>
+
+    <string name="action_screen_method_admin" >
+        Bloquear utilizando Administrador
+    </string>
+
+    <string name="action_lock_screen_timeout" >
+        Bloquear utilizando o temporizador de ecrã ligado
+    </string>
+
+    <string name="action_screen_method_root" >
+        Bloquear utilizando acesso ROOT
+    </string>
+
+    <string name="action_assistant" >
+        Abrir assistente
+    </string>
+
+    <string name="action_google_now" >
+        Google Now
+    </string>
+
+    <string name="action_lock_accessibility">
+        Bloquear utilizando opção de acessibilidade
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        Conceder acesso ROOT
+    </string>
+
+    <string name="recent_task_option_kill_app" >
+        Fechar Aplicações
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        Deslizar para baixo com dois dedos
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        Deslizar para baixo com um dedo
+    </string>
+
+    <string name="home_action_title">
+        Botão Home
+    </string>
+
+    <string name="double_tap" >
+        Duplo toque
+    </string>
+
+    <string name="long_tap">
+        Pressionar continuamente
+    </string>
+
+    <string name="one_finger_up">
+        Deslizar para cima com um dedo
+    </string>
+
+    <string name="home_button" >
+        Botão_Home
+    </string>
+
+    <string name="two_finger_up" >
+        Deslizar para cima com dois dedos
+    </string>
+
+    <string name="two_finger_up_hotseat" >
+        Deslizar para cima com dois dedos a partir da doca
+    </string>
+
+    <string name="one_finger_up_hotseat" >
+        Deslizar para cima com um dedo a partir da doca
+    </string>
+
+    <string name="category_gestures">
+        Gestos
+    </string>
+
+    <string name="category_gestures_summary">
+        Deslizar para baixo, pressionar continuamente e outros.
+    </string>
+
+    <string name="recents_app_killed" >
+        Aplicação fechada
+    </string>
+
+    <string name="full_screen_mode">
+        Mostrar a barra de estado
+    </string>
+
+    <string name="icon_text_size_title">
+        Tamanho do texto do ícone
+    </string>
+
+    <string name="icon_size_title">
+        Tamanho do ícone
+    </string>
+
+    <string name="settings_edit_allow_title">
+        Permitir mudanças no ambiente de trabalho
+    </string>
+
+    <string name="theme_system">
+        Sistema
+    </string>
+
+    <string name="components_title">
+        Aspecto visual
+    </string>
+
+    <string name="components_summary">
+        Mostrar ou ocultar componentes do navegador.
+    </string>
+
+    <string name="components_sum">
+        Inativar uma opção vai esconder o componente ou desativar a sua funcionalidade.
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        Mostrar a doca
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        Ícones na doca (recomendado inativar quando a doca está oculta)
+    </string>
+
+    <string name="component_scroll_position">
+        Manter a posição ao fazer scroll
+    </string>
+
+    <string name="category_grids">
+        Configuração da grelha
+    </string>
+
+    <string name="icon_size_switch">
+        Ativar o menu para editar tamanho dos ícones
+    </string>
+
+    <string name="icon_size_menu">
+        Menu do tamanho dos ícones
+    </string>
+
+    <string name="Icon_menu_summary">
+        Os valores pré-definidos são 100%.
+    </string>
+
+    <string name="grid_menu">
+        Definir tamanho da grelha de ícones
+    </string>
+
+    <string name="grid_menu_switch">
+        Ativar edição da grelha de ícones
+    </string>
+
+    <string name="grid">
+        Grelha de ícones
+    </string>
+
+    <string name="grid_menu_summary">
+        Os valores pré-definidos são de 5 ícones em todos os campos
+    </string>
+
+    <string name="dialog_summary">
+        Clica fora da área de texto para cancelar.
+    </string>
+
+    <string name="homescreen_default">
+        Ecrã principal
+    </string>
+
+    <string name="allapps_default">
+        Todas as aplicações
+    </string>
+
+    <string name="icon_label_default">
+        Texto do ícone
+    </string>
+
+    <string name="rows_default">
+        Linhas
+    </string>
+
+    <string name="allapps_columns_default">
+        Colunas de todas as aplicações
+    </string>
+
+    <string name="hotseat_default">
+        Hotseat
+    </string>
+
+    <string name="columns_default">
+        Colunas
+    </string>
+
+    <string name="components_visibility_icon_label">
+        Mostrar texto do ícone
+    </string>
+
+    <string name="backup_title">
+        Backup &amp; Restauro
+    </string>
+
+    <string name="perform_backup">
+        Backup
+    </string>
+
+    <string name="perform_restore">
+        Restauro
+    </string>
+
+    <string name="no_restore_file"><font color = "#FF939393">
+        Restauro
+    </font></string>
+
+    <string name="override_backup">
+        Forçar backup
+    </string>
+
+    <string name="settings_backup_sum">
+        Através de uma das quatro localizações.
+    </string>
+
+    <string name="settings_backup_subtitle">
+        Backups são guardados aqui, clica aqui para escolher o local
+    </string>
+
+    <string name="restarting">
+        Reiniciar
+    </string>
+
+    <string name="visuals">
+        Visuais
+    </string>
+
+    <string name="Dockbar">
+        Barra de Pesquisa
+    </string>
+
+    <string name="icons">
+        Ícones
+    </string>
+
+    <string name="reset">
+        Reset
+    </string>
+
+    <string name="export_error">
+        Não foi possível fazer backup
+    </string>
+
+    <string name="icon_import_success">
+        Informação dos ícones restaurada
+    </string>
+
+    <string name="layout_import_success">
+        Disposição restaurada
+    </string>
+
+    <string name="import_error">
+        Não foi possivel restaurar
+    </string>
+
+    <string name="settings_export_success">
+        Backup feito com sucesso
+    </string>
+
+    <string name="settings_import_success">
+        Preferências restauradas
+    </string>
+
+    <string name="click">
+        Clica para fazer backup
+    </string>
+
+    <string name="click2">
+        Clica para restaurar
+    </string>
+
+    <string name="state_applying">
+        Valores aplicados
+    </string>
+
+    <string name="secure_apps_manager_name">
+        Aplicações protegidas
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        Aplicações protegidas requerem uma autenticação para serem abertas através do navegador
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        Desbloquear para editar as aplicações seguras no menu de aplicações protegidas
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        Lançar %1$s
+    </string>
+
+    <string name="secure_apps_loading">
+        "Loading "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        Por favor, confirma a segurança de bloqueio do ecrã para restringir o acesso às aplicações
+    </string>
+
+    <string name="secure_apps_help">
+        Ajuda
+    </string>
+
+    <string name="secure_apps_info_protected">
+        Aplicações seguras necessitam de autenticação de segurança para poderem ser abertas através do navegador
+    </string>
+
+    <string name="secrure_apps_title">
+        Confirma o padrão de bloqueio, PIN, password ou impressão digital do ecrã de bloqueio.
+    </string>
+
+    <string name="search_secured">
+        Seguro
+    </string>
+
+    <string name="default_value">
+        Valor por defeito
+    </string>
+
+    <string name="set_value">
+        Definir
+    </string>
+
+    <string name="slide_up">
+        Deslizar para cima
+    </string>
+
+    <string name="blink">
+        Piscar
+    </string>
+
+    <string name="fade">
+        Desvanecer
+    </string>
+
+    <string name="zoom">
+        Zoom
+    </string>
+
+    <string name="fly_in">
+        Voar para dentro
+    </string>
+
+    <string name="fall_down">
+        Em queda
+    </string>
+
+    <string name="app_open_animation">
+        Animação
+    </string>
+
+    <string name="gestures_sum">
+        Gestos de bloqueio requerem as respetivas permissões dadas pelo utilizador para poderem efetuar as suas ações.
+    </string>
+
+    <string name="location_help_1">
+        "Definir a Localização"
+    </string>
+
+    <string name="location_help_2">
+        "umas da quatro acima"
+    </string>
+
+    <string name="applying_icon">
+        A aplicar ícone…
+    </string>
+
+    <string name="available_icon_packs">
+        Packs de ícones disponíveis
+    </string>
+
+    <string name="translator_info">
+        Tradução
+    </string>
+
+    <string name="misc">
+        Diversos
+    </string>
+
+    <string name="icons_customisation">
+        Costumização dos ícones
+    </string>
+
+    <string name="set_as_default_app">
+        Definir como aplicação pré-definida
+    </string>
+
+    <string name="privacy_policy">
+        Políticas de Privacidade
+    </string>
+
+    <string name="layout_editing_is_disabled">
+        A edição do aspecto do navegador está inativa
+    </string>
+
+</resources>

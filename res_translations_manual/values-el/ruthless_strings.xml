@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title" >
+        Επαναφορά ονομάτων εφαρμογών
+    </string>
+
+    <string name="reset_app_names_description" >
+        Επαναφορά των ονομάτων των εφαρμογών στην αρχική τους.
+    </string>
+
+    <string name="tap_to_edit_app_name" >
+        Αλλαγή ονόματος εφαρμογής
+    </string>
+
+    <string name="enter_new_app_name" >
+        Εισαγωγή νέου ονόματος
+    </string>
+
+    <string name="double_tap_to_lock_title" >
+        Διπλό άγγιγμα για κλείδωμα
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        Στην αρχική οθόνη
+    </string>
+
+    <string name="double_tap_to_lock_hint" >
+        Για να χρησιμοποιήσετε το διπλό άγγιγμα για κλείδωμα της οθόνης θα πρέπει να ενεργοποιήσετε την λειτουργία διαχειριστή για τον Ruthless Launcher. Με την ενεργοποίηση θα πρέπει να βάλετε τον κωδικό ξεκλειδώματος (εφόσον υπάρχει) την επόμενη φορά που θα ανοίξετε την οθόνη σας.
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning" >
+        Με την απενεργοποίηση της λειτουργίας διαχειριστή θα καταργηθεί το διπλό άγγιγμα στην οθόνη για κλείδωμα της συσκευής.
+    </string>
+
+    <string name="state_loading" >
+        Φόρτωση
+    </string>
+
+    <string name="action_app_drawer" >
+        Άνοιγμα συρταριού εφαρμογών
+    </string>
+
+    <string name="action_app_search" >
+        Άνοιγμα εφαρμογής αναζήτησης
+    </string>
+
+    <string name="action_canceled" >
+        Η ενέργεια ακυρώθηκε
+    </string>
+
+    <string name="action_default_screen" >
+        Άνοιγμα αναδυόμενου μενού
+    </string>
+
+    <string name="action_nothing" >
+        Τίποτα
+    </string>
+
+    <string name="action_notifications" >
+        Άνοιγμα πίνακα ειδοποιήσεων
+    </string>
+
+    <string name="action_notifications_with_settings" >
+        Ρυθμίσεις γρήγορου πίνακα
+    </string>
+
+    <string name="action_overview" >
+        Ρυθμίσεις γραφικού στοιχείου
+    </string>
+
+    <string name="action_quick_search" >
+        Γρήγορη αναζήτηση
+    </string>
+
+    <string name="action_settings" >
+        Ρυθμίσεις συσκευής
+    </string>
+
+    <string name="action_voice_search" >
+        Φωνητική αναζήτηση
+    </string>
+
+    <string name="action_screen_method_admin" >
+        Κλείδωμα με διαχειριστή συσκευής
+    </string>
+
+    <string name="action_lock_screen_timeout" >
+        Κλείδωμα με χρόνο
+    </string>
+
+    <string name="action_screen_method_root" >
+        Κλείδωμα με root
+    </string>
+
+    <string name="action_assistant" >
+        Άνοιγμα βοηθού
+    </string>
+
+    <string name="action_google_now" >
+        Google Now
+    </string>
+
+    <string name="action_lock_accessibility">
+        Ύπνος με υπηρεσία πρόσβασης
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        Δώστε δικαιώματα root
+    </string>
+
+    <string name="recent_task_option_kill_app" >
+        Βίαιος τερματισμός
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        Ολίσθηση κάτω με δύο δάκτυλα
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        Ολίσθηση κάτω με ένα δάκτυλο
+    </string>
+
+    <string name="home_action_title">
+        Πλήκτρο αρχικής οθόνης
+    </string>
+
+    <string name="double_tap" >
+        Διπλό άγγιγμα
+    </string>
+
+    <string name="long_tap">
+        Παρατεταμένο άγγιγμα
+    </string>
+
+    <string name="one_finger_up">
+        Ολίσθηση πάνω με ένα δάκτυλο
+    </string>
+
+    <string name="home_button" >
+        Πλήκτρο αρχικής οθόνης
+    </string>
+
+    <string name="two_finger_up" >
+        Ολίσθηση επάνω με δύο δάκτυλα
+    </string>
+
+    <string name="two_finger_up_hotseat" >
+        Ολίσθηση επάνω με δύο δάκτυλα από την γραμμή πλοήγησης
+    </string>
+
+    <string name="one_finger_up_hotseat" >
+        Ολίσθηση επάνω με ενα δάκτυλο από την γραμμή πλοήγησης
+    </string>
+
+    <string name="category_gestures">
+        Χειρονομίες
+    </string>
+
+    <string name="category_gestures_summary">
+        Ολίσθηση κάτω, παρατεταμένο άγγιγμα κτλ.
+    </string>
+
+    <string name="recents_app_killed" >
+        Η εφαρμογή τερματίστηκε
+    </string>
+
+    <string name="full_screen_mode">
+        Εμφάνιση της γραμμής κατάστασης
+    </string>
+
+    <string name="icon_text_size_title">
+        Μέγεθος γραμματοσειράς εικονιδίου
+    </string>
+
+    <string name="icon_size_title">
+        Μέγεθος εικονιδίου
+    </string>
+
+    <string name="settings_edit_allow_title">
+        Επιτρέψτε την επεξεργασία της αρχικής οθόνης
+    </string>
+
+    <string name="theme_system">
+        Σύστημα
+    </string>
+
+    <string name="components_title">
+        Ρυθμίσεις προβολής
+    </string>
+
+    <string name="components_summary">
+        Εμφάνιση/απόκρυψη στοιχείων
+    </string>
+
+    <string name="components_sum">
+        Η απενεργοποίηση θα αποκρύψει την λειτουργία
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        Ορατότητα γραμμής πλοήγησης
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        Εικονίδια γραμμής πλοήγησης  (Συνιστάται η απόκρυψη των εικονιδίων όταν η γραμμή πλοήγησης είναι κρυμμένη)
+    </string>
+
+    <string name="component_scroll_position">
+        Ενθύμηση θέσης
+    </string>
+
+    <string name="category_grids"> Εξατομίκευση πλέγματος
+    </string>
+
+    <string name="icon_size_switch">
+        Εξατομίκευση μεγέθους εικονιδίων μενού
+    </string>
+
+    <string name="icon_size_menu">
+        Μέγεθος εικονιδίων
+    </string>
+
+    <string name="Icon_menu_summary">
+        Οι προκαθορισμένες τιμές είναι στο 100% DPI.
+    </string>
+
+    <string name="grid_menu">
+        Μενού πλέγματος
+    </string>
+
+    <string name="grid_menu_switch">
+        Εξατομίκευση μενού πλέγματος
+    </string>
+
+    <string name="grid">
+        Πλέγμα
+    </string>
+
+    <string name="grid_menu_summary">
+        Οι προκαθορισμένες τιμές είναι 5 εικονίδια σε όλα τα πεδία.
+    </string>
+
+    <string name="dialog_summary">
+        Αγγίξτε εκτός του διαλόγου για ακύρωση.
+    </string>
+
+    <string name="homescreen_default">
+        Αρχική οθόνη
+    </string>
+
+    <string name="allapps_default">
+        Όλες οι εφαρμογές
+    </string>
+
+    <string name="icon_label_default">
+        Όνομα εικονιδίου
+    </string>
+
+    <string name="rows_default">
+        Σειρές
+    </string>
+
+    <string name="allapps_columns_default">
+        Στήλες εφαρμογών
+    </string>
+
+    <string name="hotseat_default">
+        Hotseat
+    </string>
+
+    <string name="columns_default">
+        Στήλες
+    </string>
+
+    <string name="components_visibility_icon_label">
+        Εμφάνιση ονομάτων στα εικονίδια
+    </string>
+
+    <string name="backup_title">
+        Αποθήκευση &amp; Επαναφορά
+    </string>
+
+    <string name="perform_backup">
+        Αποθήκευση
+    </string>
+
+    <string name="perform_restore">
+        Επαναφορά
+    </string>
+
+    <string name="no_restore_file"><font color = "#FF939393">
+        Επαναφορά
+    </font></string>
+
+    <string name="override_backup">
+        Αντικατάσταση αρχείου
+    </string>
+
+    <string name="settings_backup_sum">
+        Επιλέξτε τοποθεσία.
+    </string>
+
+    <string name="settings_backup_subtitle">
+        Αγγίξτε εδώ για να μάθετε που είναι το αρχείο, αγγίξτε παρατεταμένα για αναζήτηση
+    </string>
+
+    <string name="restarting">
+        Επανεκκίνηση
+    </string>
+
+    <string name="visuals">
+        Εμφάνιση
+    </string>
+
+    <string name="Dockbar">
+        Πεδίο αναζήτησης
+    </string>
+
+    <string name="icons">
+        Εικονίδια
+    </string>
+
+    <string name="reset">
+        Επαναφορά
+    </string>
+
+    <string name="export_error">
+        Αποτυχία αποθήκευσης
+    </string>
+
+    <string name="icon_import_success">
+        Επιτυχής επαναφορά εικονιδίων
+    </string>
+
+    <string name="layout_import_success">
+        Επιτυχής επαναφορά θέσης εφαρμογών
+    </string>
+
+    <string name="import_error">
+        Αποτυχία επαναφοράς
+    </string>
+
+    <string name="settings_export_success">
+        Επιτυχής αποθήκευση
+    </string>
+
+    <string name="settings_import_success">
+        Επιτυχής επαναφορά ρυθμίσεων
+    </string>
+
+    <string name="click">
+        Αγγίξτε για  αποθήκευση
+    </string>
+
+    <string name="click2">
+        Αγγίξτε για επαναφορά
+    </string>
+
+    <string name="state_applying">
+        Οι τιμές εφαρμόστηκαν
+    </string>
+
+    <string name="secure_apps_manager_name">
+        Κλείδωμα εφαρμογών
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        Κλείδωμα εφαρμογών με κωδικό ασφαλείας
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        Ξεκλειδώστε για τροποποίηση
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        Για έναρξη %1$s
+    </string>
+
+    <string name="secure_apps_loading">
+        " Έναρξη "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        Παρακαλώ θέστε κωδικό ασφαλείας
+    </string>
+
+    <string name="secure_apps_help">
+        Βοήθεια
+    </string>
+
+    <string name="secure_apps_info_protected">
+        Οι ασφαλείς εφαρμογές απαιτούν κωδικό για να ανοίξουν
+    </string>
+
+    <string name="secrure_apps_title">
+        Εισάγετε μοτίβο, PIN, κωδικό ή δακτυλικό αποτύπωμα
+    </string>
+
+    <string name="search_secured">
+        Ασφαλές
+    </string>
+
+    <string name="default_value">
+        Προκαθορισμένο
+    </string>
+
+    <string name="set_value">
+        Θέστε
+    </string>
+
+    <string name="slide_up">
+        Ολίσθηση πάνω
+    </string>
+
+    <string name="blink">
+        Αναβόσβημα
+    </string>
+
+    <string name="fade"> Ξεθώριασμα </string>
+
+    <string name="zoom">
+        Μεγένθυση
+    </string>
+
+    <string name="fly_in">
+        Πέταγμα
+    </string>
+
+    <string name="fall_down">
+        Πτώση
+    </string>
+
+    <string name="app_open_animation">
+        Κίνηση αρχικής οθόνης
+    </string>
+
+    <string name="gestures_sum">
+        Οι χειρονομίες απαιτούν δικαιώματα για να ενεργοποιηθούν
+    </string>
+
+    <string name="location_help_1">
+        "Επιλέξτε τοποθεσία"
+    </string>
+
+    <string name="location_help_2">
+        "από τα παραπάνω"
+    </string>
+
+    <string name="applying_icon">
+        Εφαρμογή εικονιδίων…
+    </string>
+
+    <string name="available_icon_packs">
+        Διαθέσιμα πακέτα εικονιδίων
+    </string>
+
+    <string name="translator_info">
+        Μεταγλώττιση
+    </string>
+
+    <string name="misc">
+        Διάφορα
+    </string>
+
+    <string name="icons_customisation">
+        Παραμετροποίηση εικονιδίων
+    </string>
+
+    <string name="set_as_default_app">
+        θέστε ως τον προεπιλεγμένο Launcher
+    </string>
+
+    <string name="privacy_policy">
+        Πολιτική απορρήτου
+    </string>
+
+    <string name="layout_editing_is_disabled">
+        Η επεξεργασία σχεδίου είναι ανενεργή
+    </string>
+
+   
+    <string name="action_launch_app">Εκκίνηση εφαρμογής</string>
+
+    <string name="components_notification">
+        Ενεργοποίηση ειδοποιήσεων με μια ματιά
+    </string>
+
+    <string name="components_opacity">
+        Αδιαφάνεια συρταριού εφαρμογών
+    </string>
+
+    <string name="secure_apps_sub_title">
+        Υποδηλώνει ότι εφαρμογή είναι ασφαλής
+    </string>
+
+    <string name="launch">
+        Εκκίνηση
+    </string>
+
+    <string name="share">
+        Διαμοιρασμός
+    </string>
+</resources>

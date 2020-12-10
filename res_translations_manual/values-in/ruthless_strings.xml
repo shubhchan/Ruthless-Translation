@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title" >
+        Reset nama kustom aplikasi
+    </string>
+
+    <string name="reset_app_names_description" >
+        Ini akan mereset nama kustom aplikasi ke nama defaultnya.
+    </string>
+
+    <string name="tap_to_edit_app_name" >
+        Ketuk untuk menyunting nama aplikasi
+    </string>
+
+    <string name="enter_new_app_name" >
+        Masukkan nama baru aplikasi
+    </string>
+
+    <string name="double_tap_to_lock_title" >
+        Ketuk dua kali untuk mengunci
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        Di layar utama Anda
+    </string>
+
+    <string name="double_tap_to_lock_hint" >
+        Agar dapat menggunakan ketuk dua kali untuk mengunci, Anda harus mengizinkan akses admin untuk Ruthless Launcher. Ini adalah kunci aman, artinya Anda harus memasukkan PIN Anda pada pembukaan kunci berikutnya, jika ada.
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning" >
+        Menonaktifkan akses admin, membuat Anda tidak bisa menggunakan ketuk dua kali untuk mengunci layar utama Anda.
+    </string>
+
+    <string name="state_loading" >
+        Memuat
+    </string>
+
+    <string name="action_app_drawer" >
+        Buka laci aplikasi
+    </string>
+
+    <string name="action_app_search" >
+        Buka pencarian aplikasi
+    </string>
+
+    <string name="action_canceled" >
+        Tindakan dibatalkan pengguna
+    </string>
+
+    <string name="action_default_screen" >
+        Buka menu popup
+    </string>
+
+    <string name="action_nothing" >
+        Tidak ada aksi
+    </string>
+
+    <string name="action_notifications" >
+        Buka panel notifikasi
+    </string>
+
+    <string name="action_notifications_with_settings" >
+        Buka panel pengaturan cepat
+    </string>
+
+    <string name="action_overview" >
+        Buka panel widget
+    </string>
+
+    <string name="action_quick_search" >
+        Pencarian cepat
+    </string>
+
+    <string name="action_settings" >
+        Pengaturan perangkat
+    </string>
+
+    <string name="action_voice_search" >
+        Pencarian suara
+    </string>
+
+    <string name="action_screen_method_admin" >
+        Kunci menggunakan admin
+    </string>
+
+    <string name="action_lock_screen_timeout" >
+        Kunci menggunakan batas waktu layar
+    </string>
+
+    <string name="action_screen_method_root" >
+        Kunci menggunakan root
+    </string>
+
+    <string name="action_assistant" >
+        Buka asisten
+    </string>
+
+    <string name="action_google_now" >
+        Google Now
+    </string>
+
+    <string name="action_lock_accessibility">
+        Tidur menggunakan layanan aksesibilitas
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        Berikan akses root
+    </string>
+
+    <string name="recent_task_option_kill_app" >
+        Matikan aplikasi
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        Geser ke bawah dengan dua jari
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        Geser ke bawah dengan satu jari
+    </string>
+
+    <string name="home_action_title">
+        Tombol layar utama
+    </string>
+
+    <string name="double_tap" >
+        Ketuk dua kali
+    </string>
+
+    <string name="long_tap">
+        Tekan lama
+    </string>
+
+    <string name="one_finger_up">
+        Geser ke atas dengan satu jari
+    </string>
+
+    <string name="home_button" >
+        Tombol_layar utama
+    </string>
+
+    <string name="two_finger_up" >
+        Geser ke atas dengan dua jari
+    </string>
+
+    <string name="two_finger_up_hotseat" >
+        Geser ke atas dengan dua jari dari dok
+    </string>
+
+    <string name="one_finger_up_hotseat" >
+        Geser ke atas dengan satu jari dari dok
+    </string>
+
+    <string name="category_gestures">
+        Gestur
+    </string>
+
+    <string name="category_gestures_summary">
+        Geser ke bawah, tekan lama, dan lainnya.
+    </string>
+
+    <string name="recents_app_killed" >
+        Aplikasi dimatikan
+    </string>
+
+    <string name="full_screen_mode">
+        Tampilkan bilah status
+    </string>
+
+    <string name="icon_text_size_title">
+        Ukuran label ikon
+    </string>
+
+    <string name="icon_size_title">
+        Ukuran ikon
+    </string>
+
+    <string name="settings_edit_allow_title">
+        Izinkan penyuntingan ruang kerja
+    </string>
+
+    <string name="theme_system">
+        Sistem
+    </string>
+
+    <string name="components_title">
+        Visibilitas
+    </string>
+
+    <string name="components_summary">
+        Tampilkan &amp; Sembunyikan komponen peluncur.
+    </string>
+
+    <string name="components_sum">
+        Menonaktifkan entri akan menyembunyikan komponen atau menonaktifkan fungsinya
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        Visibilitas bilah dok
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        Ikon dok (disarankan untuk disembunyikan saat bilah dok tersembunyi)
+    </string>
+
+    <string name="component_scroll_position">
+        Pertahankan posisi gulir
+    </string>
+
+    <string name="category_grids">
+        Kustomisasi kisi
+    </string>
+
+    <string name="icon_size_switch">
+        Aktifkan menu ukuran kustom ikon
+    </string>
+
+    <string name="icon_size_menu">
+        Menu ukuran ikon
+    </string>
+
+    <string name="Icon_menu_summary">
+        Nilai default adalah 100% w.r.t DPI.
+    </string>
+
+    <string name="grid_menu">
+        Menu kisi
+    </string>
+
+    <string name="grid_menu_switch">
+        Aktikan menu kustom kisi
+    </string>
+
+    <string name="grid">
+        Kisi
+    </string>
+
+    <string name="grid_menu_summary">
+        Nilai default adalah 5 ikon di semua tempat.
+    </string>
+
+    <string name="dialog_summary">
+        Ketuk di luar area dialog untuk membatalkan.
+    </string>
+
+    <string name="homescreen_default">
+        Layar utama
+    </string>
+
+    <string name="allapps_default">
+        Semua aplikasi
+    </string>
+
+    <string name="icon_label_default">
+        Label ikon
+    </string>
+
+    <string name="rows_default">
+        Baris
+    </string>
+
+    <string name="allapps_columns_default">
+        Kolom semua aplikasi
+    </string>
+
+    <string name="hotseat_default">
+        Hotseat
+    </string>
+
+    <string name="columns_default">
+        Kolom
+    </string>
+
+    <string name="components_visibility_icon_label">
+        Tampilkan label ikon
+    </string>
+
+    <string name="backup_title">
+        Cadangkan &amp; Pulihkan
+    </string>
+
+    <string name="perform_backup">
+        Cadangkan
+    </string>
+
+    <string name="perform_restore">
+        Pulihkan
+    </string>
+
+    <string name="no_restore_file"><font color = "#FF939393">
+        Pulihkan
+    </font></string>
+
+    <string name="override_backup">
+        Kesampingkan cadangan
+    </string>
+
+    <string name="settings_backup_sum">
+        Salah satu dari empat lokasi.
+    </string>
+
+    <string name="settings_backup_subtitle">
+        Cadangan disimpan di sini, klik di sini untuk menelusuri.
+    </string>
+
+    <string name="restarting">
+        Mulai ulang
+    </string>
+
+    <string name="visuals">
+        Visual
+    </string>
+
+    <string name="Dockbar">
+        Bilah pencarian
+    </string>
+
+    <string name="icons">
+        Ikon
+    </string>
+
+    <string name="reset">
+        Reset
+    </string>
+
+    <string name="export_error">
+        Gagal mencadangkan
+    </string>
+
+    <string name="icon_import_success">
+        Pangkalan data ikon dipulihkan
+    </string>
+
+    <string name="layout_import_success">
+        Tata letak dipulihkan
+    </string>
+
+    <string name="import_error">
+        Gagal memulihkan
+    </string>
+
+    <string name="settings_export_success">
+        Pencadangan berhasil
+    </string>
+
+    <string name="settings_import_success">
+        Preferensi dipulihkan
+    </string>
+
+    <string name="click">
+        Klik untuk mencadangkan
+    </string>
+
+    <string name="click2">
+        Klik untuk memulihkan
+    </string>
+
+    <string name="state_applying">
+        Nilai diterapkan
+    </string>
+
+    <string name="secure_apps_manager_name">
+        Brankas
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        Aplikasi yang diamankan memerlukan otentikasi untuk dibuka dari peluncur
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        Buka kunci untuk mengelola aplikasi yang diamankan di brankas
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        Meluncurkan %1$s
+    </string>
+
+    <string name="secure_apps_loading">
+        "Memuat "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        Harap atur layar kunci aman untuk membatasi akses ke aplikasi
+    </string>
+
+    <string name="secure_apps_help">
+        Bantuan
+    </string>
+
+    <string name="secure_apps_info_protected">
+        Aplikasi yang diamankan memerlukan otentikasi untuk dibuka dari peluncur
+    </string>
+
+    <string name="secrure_apps_title">
+        Masukkan pola kunci layar, PIN, kata sandi atau sidik jari
+    </string>
+
+    <string name="search_secured">
+        Diamankan
+    </string>
+
+    <string name="default_value">
+        Default
+    </string>
+
+    <string name="set_value">
+        Set
+    </string>
+
+    <string name="slide_up">
+        Bergeser ke atas
+    </string>
+
+    <string name="blink">
+        Berkedip
+    </string>
+
+    <string name="fade">Memudar</string>
+
+    <string name="zoom">
+        Membesar
+    </string>
+
+    <string name="fly_in">
+        Melayang ke dalam
+    </string>
+
+    <string name="fall_down">
+        Jatuh
+    </string>
+
+    <string name="app_open_animation">
+        Animasi
+    </string>
+
+    <string name="gestures_sum">
+        Gestur kunci memerlukan izin masing-masing dari pengguna untuk menjalankan tindakannya.
+    </string>
+
+    <string name="location_help_1">
+        "pilih lokasi"
+    </string>
+
+    <string name="location_help_2">
+        "dari empat di atas"
+    </string>
+
+    <string name="applying_icon">
+        Menerapkan ikon…
+    </string>
+
+    <string name="available_icon_packs">
+        Paket ikon yang tersedia
+    </string>
+
+    <string name="translator_info">
+        Terjemahan
+    </string>
+
+    <string name="misc">
+        Serbaneka
+    </string>
+
+    <string name="icons_customisation">
+        Kustomisasi ikon
+    </string>
+
+    <string name="set_as_default_app">
+        Tetapkan sebagai aplikasi default
+    </string>
+
+    <string name="privacy_policy">
+        Kebijakan privasi
+    </string>
+
+    <string name="layout_editing_is_disabled">
+        Penyuntingan tata letak dinonaktifkan
+    </string>
+
+    <string name="components_opacity">Transparansi laci aplikasi</string>
+    <string name="launch">Luncurkan</string>
+
+    <string name="share">Bagikan</string>
+
+    <string name="hidden_vault">Brankas tersembunyi</string>
+    <string name= "hidden_vault_desc">Sembunyikan aplikasi dari laci aplikasi</string>
+
+    <string name="full_width_width_widgets_pref_title">Lebar widget sepenuhnya</string>
+
+    <string name="components_notification">Aktifkan notifikasi di At A Glance</string>
+
+    <string name="component_page_indicator">Tampilkan indikator laman</string>
+
+</resources>

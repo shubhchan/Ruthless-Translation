@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title" >
+        Сбросить пользовательские названия приложений
+    </string>
+
+    <string name="reset_app_names_description" >
+        Это сбросит все пользовательские названия приложений
+    </string>
+
+    <string name="tap_to_edit_app_name" >
+        Нажми чтобы изменить название приложения
+    </string>
+
+    <string name="enter_new_app_name" >
+        Введи новое название
+    </string>
+
+    <string name="double_tap_to_lock_title" >
+        Тапни дважды на рабочем столе
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        Чтобы заблокировать экран
+    </string>
+
+    <string name="double_tap_to_lock_hint" >
+        Чтобы заблокировать экран двойным тапом, нужно дать доступ администратора в приложениях администратора устройства. Также тебе придется вводитьй пароль чтобы разблокировать, если он у тебя есть.
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning" >
+        Отменяя доступ администратора, ты не сможешь блокировать устройство двойным тапом
+    </string>
+
+    <string name="state_loading" >
+        Загрузка
+    </string>
+
+    <string name="action_app_drawer" >
+        Вызвать меню приложений
+    </string>
+
+    <string name="action_app_search" >
+        Вызвать строку поиска приложений
+    </string>
+
+    <string name="action_canceled" >
+        Действие отменено пользователем
+    </string>
+
+    <string name="action_default_screen" >
+        Вызвать всплывающее меню
+    </string>
+
+    <string name="action_nothing" >
+        Ничего
+    </string>
+
+    <string name="action_notifications" >
+        Вызвать панель уведомлений
+    </string>
+
+    <string name="action_notifications_with_settings" >
+        Вызвать панель быстрых настроек
+    </string>
+
+    <string name="action_overview" >
+        Вызвать панель виджетов
+    </string>
+
+    <string name="action_quick_search" >
+        Быстрый поиск
+    </string>
+
+    <string name="action_settings" >
+        Настройки устройства
+    </string>
+
+    <string name="action_voice_search" >
+        Голосовой поиск
+    </string>
+
+    <string name="action_screen_method_admin" >
+        Выключить экран, как админ
+    </string>
+
+    <string name="action_lock_screen_timeout" >
+        Выключить экран за тайм-аутом экрана
+    </string>
+
+    <string name="action_screen_method_root" >
+        Выключить экран с помощью рут-прав
+    </string>
+
+    <string name="action_assistant" >
+        Вызвать ассистента
+    </string>
+
+    <string name="action_google_now" >
+        Google Now
+    </string>
+
+    <string name="action_lock_accessibility">
+        "Выключить экран используя \"Спец. возможности\""
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        Дать рут-права
+    </string>
+
+    <string name="recent_task_option_kill_app" >
+        Убить
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        Свайп двумя пальцами вниз
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        Свайп пальцем вниз
+    </string>
+
+    <string name="home_action_title">
+        "Кнопка \"Домой\""
+    </string>
+
+    <string name="double_tap" >
+        Двойной тап
+    </string>
+
+    <string name="long_tap">
+        Долгое нажатие
+    </string>
+
+    <string name="one_finger_up">
+        Свайп пальцем вверх
+    </string>
+
+    <string name="home_button" >
+        "Кнопка \"Домой\""
+    </string>
+
+    <string name="two_finger_up" >
+        Свайп двумя пальцами вверх
+    </string>
+
+    <string name="two_finger_up_hotseat" >
+        Свайп двумя пальцами вверх от дока
+    </string>
+
+    <string name="one_finger_up_hotseat" >
+        Свайп пальцем вверх от дока
+    </string>
+
+    <string name="category_gestures">
+        Жесты
+    </string>
+
+    <string name="category_gestures_summary">
+        Свайп вниз, Долгое нажатие и т.д.
+    </string>
+
+    <string name="recents_app_killed" >
+        Приложение убито
+    </string>
+
+    <string name="full_screen_mode">
+        Показывать статусбар
+    </string>
+
+    <string name="icon_text_size_title">
+        Размер названия приложения
+    </string>
+
+    <string name="icon_size_title">
+        Размер иконки
+    </string>
+
+    <string name="settings_edit_allow_title">
+        Разрешать изменять рабочий стол
+    </string>
+
+    <string name="theme_system">
+        Системная
+    </string>
+
+    <string name="components_title">
+        Отображение
+    </string>
+
+    <string name="components_summary">
+        Отобразить и скрыть компоненты лончера
+    </string>
+
+    <string name="components_sum">
+        Отключение пункта скроет компонент или отключит его функции
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        Отображать док
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        Иконки в доке (рекомендуется отключить, если док отключен)
+    </string>
+
+    <string name="component_scroll_position">
+        Запоминать позицию прокрутки
+    </string>
+
+    <string name="category_grids">
+        Настройки сетки
+    </string>
+
+    <string name="icon_size_switch">
+        Включить изменение размера иконок
+    </string>
+
+    <string name="icon_size_menu">
+        Размер иконок
+    </string>
+
+    <string name="Icon_menu_summary">
+        Значение по умолчанию - 100% относительно DPI
+    </string>
+
+    <string name="grid_menu">
+        Сетка
+    </string>
+
+    <string name="grid_menu_switch">
+        Включить дополнительные настройки сетки
+    </string>
+
+    <string name="grid">
+        Сетка
+    </string>
+
+    <string name="grid_menu_summary">
+        Значение по умолчанию во всех полях: 5
+    </string>
+
+    <string name="dialog_summary">
+        Тапни за пределами диалога, чтобы отменить
+    </string>
+
+    <string name="homescreen_default">
+        Домашний экран
+    </string>
+
+    <string name="allapps_default">
+        Все приложения
+    </string>
+
+    <string name="icon_label_default">
+        Название приложения
+    </string>
+
+    <string name="rows_default">
+        Строки
+    </string>
+
+    <string name="allapps_columns_default">
+        Столбцы всех приложений
+    </string>
+
+    <string name="hotseat_default">
+        Док
+    </string>
+
+    <string name="columns_default">
+        Столбцы
+    </string>
+
+    <string name="components_visibility_icon_label">
+        Отображать названия приложений
+    </string>
+
+    <string name="backup_title">
+        Резервное копирование и восстановление
+    </string>
+
+    <string name="perform_backup">
+        Выполнить резервное копирование
+    </string>
+
+    <string name="perform_restore">
+        Восстановить
+    </string>
+
+    <string name="no_restore_file"><font color = "#FF939393">
+        Восстановить
+    </font></string>
+
+    <string name="override_backup">
+        Перезаписать резервную копию
+    </string>
+
+    <string name="settings_backup_sum">
+        С одной из четырех местоположений
+    </string>
+
+    <string name="settings_backup_subtitle">
+        Нажми здесь, чтобы узнать расположение файла. Нажми и удердживай, чтобы открыть
+    </string>
+
+    <string name="restarting">
+        Перезапустить
+    </string>
+
+    <string name="visuals">
+        Графика
+    </string>
+
+    <string name="Dockbar">
+        Строка поиска
+    </string>
+
+    <string name="icons">
+        Иконки
+    </string>
+
+    <string name="reset">
+        Сбросить
+    </string>
+
+    <string name="export_error">
+        Не смог выполнить резервное копирование
+    </string>
+
+    <string name="icon_import_success">
+        База данных иконок восстановлена
+    </string>
+
+    <string name="layout_import_success">
+        Разметка восстановлена
+    </string>
+
+    <string name="import_error">
+        Не смог восстановить
+    </string>
+
+    <string name="settings_export_success">
+        Резервное копирование завершено успешно
+    </string>
+
+    <string name="settings_import_success">
+        Настройки восстановлены
+    </string>
+
+    <string name="click">
+        Нажми, чтобы выполнить резервное копирование
+    </string>
+
+    <string name="click2">
+        Нажми, чтобы восстановить
+    </string>
+
+    <string name="state_applying">
+        Значения применены
+    </string>
+
+    <string name="secure_apps_manager_name">
+        Безопасное хранилище
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        Чтобы запустить защищённые приложения с лончера - нужно ввести пароль
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        Введи пароль, чтобы управлять защищенными приложениями
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        Чтобы запустить %1$s
+    </string>
+
+    <string name="secure_apps_loading">
+        "Загрузка "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        Чтобы ограничить доступ к приложениям, нужно настроить блокировку экрана
+    </string>
+
+    <string name="secure_apps_help">
+        Помощь
+    </string>
+
+    <string name="secure_apps_info_protected">
+        Чтобы запустить защищённые приложения с лончера - нужно ввести пароль
+    </string>
+
+    <string name="secrure_apps_title">
+        Введи пароль с экрана блокировки
+    </string>
+
+    <string name="search_secured">
+        Защищены
+    </string>
+
+    <string name="default_value">
+        По умолчанию
+    </string>
+
+    <string name="set_value">
+        Выбрать
+    </string>
+
+    <string name="slide_up">
+        Скольжение
+    </string>
+
+    <string name="blink">
+        Моргание
+    </string>
+
+    <string name="fade">Исчезновение</string>
+
+    <string name="zoom">
+        Приближение
+    </string>
+
+    <string name="fly_in">
+        Влетание
+    </string>
+
+    <string name="fall_down">
+        Падение
+    </string>
+
+    <string name="app_open_animation">
+        Анимация
+    </string>
+
+    <string name="gestures_sum">
+        Жесты блокировки требуют соответствующих разрешений от пользователя для выполнения своих действий
+    </string>
+
+    <string name="location_help_1">
+        "выбери путь"
+    </string>
+
+    <string name="location_help_2">
+        "из четырех выше"
+    </string>
+
+    <string name="applying_icon">
+        Применяю иконку…
+    </string>
+
+    <string name="available_icon_packs">
+        Доступные иконпаки
+    </string>
+
+    <string name="translator_info">
+        Перевод
+    </string>
+
+    <string name="misc">
+        Другое
+    </string>
+
+    <string name="icons_customisation">
+        Кастомизация иконок
+    </string>
+
+    <string name="set_as_default_app">
+        Установить как приложение по умолчанию
+    </string>
+
+    <string name="privacy_policy">
+        Политика конфиденциальности
+    </string>
+
+    <string name="layout_editing_is_disabled">
+        Запрещено изменять разметку
+    </string>
+
+
+    <string name="action_launch_app">Запустить приложение</string>
+
+    <string name="components_notification">
+        Включить уведомления в "Самое главное"
+    </string>
+
+    <string name="components_opacity">
+        Прозрачность фона в "Все приложения"
+    </string>
+
+    <string name="secure_apps_sub_title">
+        Помечает приложение как защищенное
+    </string>
+
+    <string name="launch">
+        Запустить
+    </string>
+
+    <string name="share">
+        Поделиться
+    </string>
+</resources>
