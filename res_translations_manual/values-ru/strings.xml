@@ -18,7 +18,7 @@
     <string name="grid_division">Размер сетки</string>
     <string name="grid_division_dense">Компактный (6 на 6)</string>
     <string name="grid_division_normal">Нормальный (5 к 5)</string>
-    <string name="grid_division_reasonable">Средний (4 на 50)</string>
+    <string name="grid_division_reasonable">Средний (4 на 5)</string>
     <string name="grid_division_big">Большой (4 на 4)</string>
     <string name="grid_division_crazybig">Гигантский (3 на 3)</string>
     <string name="fading_transition">Затухающий переход</string>
@@ -32,6 +32,7 @@
     <string name="icon_shape_tapered_rect">
         Рубленый квадрат</string>
     <string name="icon_shape_vessel">Горшок</string>
+    <string name="icon_shape_clover">Клевер</string>
     <string name="amoled_mode">Использовать amoled чёрную тему</string>
     <string name="device_theme_black">Чёрный</string>
 </resources>
