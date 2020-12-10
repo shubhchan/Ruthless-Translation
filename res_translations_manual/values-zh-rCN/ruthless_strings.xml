@@ -9,7 +9,7 @@
     </string>
 
     <string name="tap_to_edit_app_name" >
-        点按以编辑应用名称
+        点击编辑应用名称
     </string>
 
     <string name="enter_new_app_name" >
@@ -25,11 +25,11 @@
     </string>
 
     <string name="double_tap_to_lock_hint" >
-        为了能够正常息屏，您需要授予 Ruthless Launcher 设备管理权限。Ruthless Launcher 仅将管理员权限用于息屏操作。由于安卓系统的限制，下次解锁将会要求您输入解锁密码。
+        为了能够正常息屏，您需要授予 Ruthless Launcher 设备管理权限。 Ruthless Launcher 仅将管理员权限用于息屏操作。由于安卓系统的限制，下次解锁将会要求您输入解锁密码。
     </string>
 
     <string name="double_tap_to_lock_disable_warning" >
-        禁用管理员权限后，您可能无法再次使用双击空白息屏功能。
+        禁用管理员权限后，您可能无法再次使用双击息屏功能。
     </string>
 
     <string name="state_loading" >
@@ -49,7 +49,7 @@
     </string>
 
     <string name="action_default_screen" >
-        打开弹出菜单
+        打开气泡菜单
     </string>
 
     <string name="action_nothing" >
@@ -185,15 +185,15 @@
     </string>
 
     <string name="components_title">
-        可见性
+        个性化
     </string>
 
     <string name="components_summary">
-        显示或者隐藏启动器的部分元素
+        个性化各种功能
     </string>
 
     <string name="components_sum">
-        关闭选项会导致元素被隐藏或者对应功能被禁用。
+        关闭选项会导致对应功能被禁用。
     </string>
 
     <string name="component_dock_bar_visibility">
@@ -201,7 +201,7 @@
     </string>
 
     <string name="component_dock_icons_visibility">
-        显示 Dock 应用（建议与上面保持一致）
+        显示 Dock 应用
     </string>
 
     <string name="component_scroll_position">
@@ -345,7 +345,7 @@
     </string>
 
     <string name="settings_import_success">
-        首选项已恢复
+        设置已恢复
     </string>
 
     <string name="click">
