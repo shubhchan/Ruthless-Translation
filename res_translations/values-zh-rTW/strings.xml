@@ -45,7 +45,7 @@
 	<string name="icon_shape_teardrop">"淚珠形"</string>
 	<string name="icon_shape_rounded_square">"圓角正方形"</string>
 	<string name="icon_shape_cylinder">"圓柱形"</string>
-	<string name="device_theme_tone">"⾊調"</string>
+	<string name="device_theme_tone">"介面"</string>
 	<string name="device_theme_wallpaper">"自動 (根據桌布)"</string>
 	<string name="device_theme_light">"淺色"</string>
 	<string name="device_theme_dark">"深色"</string>
@@ -65,6 +65,6 @@
 	<string name="font">"字體"</string>
 	<string name="icon_shape">"形狀"</string>
 	<string name="loading">"正在開啟..."</string>
-	<string name="about_donate">"捐"</string>
+	<string name="about_donate">"捐贈"</string>
 	<string name="any_activity_shortcut">"選擇活動"</string>
 </resources>
