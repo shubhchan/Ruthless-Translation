@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reset_app_names_title" >Reset Custom app names</string>
+    <string name="reset_app_names_description" >This will reset the custom name of all apps to their default.</string>
+
+    <string name="tap_to_edit_app_name" >Tap to edit app name</string>
+    <string name="enter_new_app_name" >Enter new app name</string>
+
+    <!--RUTHLESS STRINGS-->
+
+    <string name="double_tap_to_lock_title" >Double tap to lock</string>
+    <string name="double_tap_to_lock_summary" >On your home screen</string>
+    <string name="double_tap_to_lock_hint" >To be able to use double tap to lock, you have to enable admin access for Ruthless Launcher. This is a secure lock, meaning you have to enter your PIN on the next unlock, if you have any.</string>
+    <string name="double_tap_to_lock_disable_warning">By disabling admin access, you will not be able to use double tap to lock on your home screen.</string>
+    <string name="state_loading" >Loading</string>
+
+<!-- GESTURES-->
+
+    <string name="action_app_drawer" >Open app drawer</string>
+    <string name="action_app_search" >Open app search</string>
+    <string name="action_canceled" >Action canceled by user</string>
+    <string name="action_default_screen" >Open popup menu</string>
+    <string name="action_nothing" >Nothing</string>
+    <string name="action_notifications" >Open notifications panel</string>
+    <string name="action_notifications_with_settings" >Open quick settings panel</string>
+    <string name="action_overview" >Open widget panel</string>
+    <string name="action_quick_search" >Quick search</string>
+    <string name="action_settings" >Device settings</string>
+    <string name="action_voice_search" >Voice search</string>
+    <string name="action_screen_method_admin" >Lock using admin</string>
+    <string name="action_lock_screen_timeout" >Lock using screen timeout</string>
+    <string name="action_screen_method_root" >Lock using root </string>
+    <string name="action_assistant" >Open assistant</string>
+    <string name="action_google_now" >Google Now</string>
+    <string name="action_lock_accessibility">Lock using accessibility service</string>
+    <string name="action_launch_app">Launch app</string>
+
+    <string name="double_tap_to_lock_no_root">Provide root access</string>
+    <string name="recent_task_option_kill_app" >Kill</string>
+    <string name="action_swipe_down_two_fingers">Swipe down two fingers</string>
+    <string name="action_swipe_down_one_fingers">Swipe down one finger</string>
+    <string name="home_action_title">Home button</string>
+    <string name="double_tap" >Double tap</string>
+    <string name="long_tap">Long press</string>
+    <string name="one_finger_up" >Swipe up one finger</string>
+    <string name="home_button" >Home_button</string>
+    <string name="two_finger_up" >Swipe up two finger</string>
+    <string name="two_finger_up_hotseat" >Swipe up two finger from dock</string>
+    <string name="one_finger_up_hotseat">Swipe up one finger from dock</string>
+    <string name="category_gestures">Gestures</string>
+    <string name="category_gestures_summary">Swipe down, Long press and more.</string>
+
+    <string name="recents_app_killed" translatable="false">App killed</string>
+
+    <string name="full_screen_mode">Show status bar</string>
+
+    <!--ICON SIZES-->
+    <string name="icon_text_size_title">Icon label size</string>
+    <string name="icon_size_title">Icon size</string>
+
+    <!-- Edit workspace -->
+    <string name="settings_edit_allow_title">Allow workspace edit</string>
+
+    <string name="theme_system">System</string>
+
+    <string name="components_title">Visibility</string>
+    <string name="components_summary">Show &amp; Hide components of launcher.</string>
+    <string name="components_sum">Disabling a entry will hide the component or disable its functionality</string>
+
+    <string name="component_dock_bar_visibility">Show search bar</string>
+    <string name="component_dock_icons_visibility">Show icons (recommended to hide when search bar is hidden)</string>
+
+    <string name="component_scroll_position">Retain scroll position</string>
+
+
+    <string name="category_grids">Grid customisation</string>
+
+    <string name="icon_size_switch">Enable custom icon size menu</string>
+    <string name="icon_size_menu">Icon size menu</string>
+    <string name="Icon_menu_summary">Default values are 100% w.r.t DPI.</string>
+
+    <string name="grid_menu">Grid menu</string>
+    <string name="grid_menu_switch">Enable custom grid menu</string>
+    <string name="grid">Grid</string>
+    <string name="grid_menu_summary">Default values are 5 icons in all fields.</string>
+    <string name="dialog_summary">Tap outside dialog area to cancel.</string>
+
+    <string name="homescreen_default">Homescreen</string>
+    <string name="allapps_default">Allapps</string>
+    <string name="icon_label_default">Icon label</string>
+    <string name="rows_default">Rows</string>
+    <string name="allapps_columns_default">Allapps columns</string>
+    <string name="hotseat_default">Hotseat</string>
+    <string name="columns_default">Columns</string>
+
+    <string name="components_visibility_icon_label">Show icon label</string>
+
+
+
+
+    <string name="backup_title">Backup &amp; Restore</string>
+    <string name="perform_backup">Backup</string>
+    <string name="perform_restore">Restore</string>
+    <string name="no_restore_file"><font color = "#FF939393">Restore</font></string>
+    <string name="override_backup">Override backup</string>
+    <string name="settings_backup_sum">From one of the four locations.</string>
+
+    <string name="settings_backup_subtitle" >Click here for file location, long click to browse.</string>
+    <string name="restarting">Restart</string>
+
+    <string name="visuals">Visuals</string>
+    <string name="Dockbar">Searchbar</string>
+
+
+
+    <string name="developer">Brought to you by</string>
+    <string name="icons">Icons</string>
+    <string name="reset">Reset</string>
+
+   <!-- <string name="permission_not_ok">Permission denied</string>
+    <string name="permission_ok">Permission granted</string>
+    <string name="permission_sum">Storage permission</string>-->
+    <string name="export_error">Couldn\'t backup</string>
+    <string name="icon_import_success">Icons database restored</string>
+    <string name="layout_import_success">Layout restored </string>
+    <string name="import_error">Couldn\'t restore</string>
+    <string name="settings_export_success">Backup successful</string>
+    <string name="settings_import_success">Preference restored</string>
+
+
+
+
+
+
+    <string name="state_applying">Values applied</string>
+
+    <!-- Trust apps -->
+    <string name="secure_apps_manager_name">Secured vault</string>
+    <string name="secure_apps_dialog_title">Secured apps require authentication to be opened from the launcher</string>
+    <string name="secure_apps_auth_manager">Unlock to manage the secured apps in Secured vault</string>
+    <string name="secure_apps_auth_open_app">To Launch %1$s</string>
+    <string name="secure_apps_loading">"Loading "</string>
+    <string name="secure_apps_no_lock_error">Please set up a secure lock screen to restrict app access</string>
+    <string name="secure_apps_help">Help</string>
+    <string name="secure_apps_info_protected">Secured apps require authentication to be opened from the launcher</string>
+    <string name="secure_apps_sub_title">Indicates app is secured</string>
+
+
+    <string name="secrure_apps_title">Enter phone screen lock pattern, PIN, password or fingerprint</string>
+
+    <string name="information_backup_detailed">Because of recent changes in storage access by google in android 10 and further, now apps are not allowed to access storage apart
+        from their own folders. These folders are temporary and will get removed when app is uninstalled. You can manually move files in another place before uninstalling ruthless.</string>
+
+    <string name="search_secured">Secured</string>
+
+    <string name="default_value">Default</string>
+    <string name="set_value">Set</string>
+
+
+
+    <string name="slide_up">Slide up</string>
+
+    <string name="blink">Blink</string>
+    <string name="fade">Fade</string>
+    <string name="zoom">Zoom</string>
+    <string name="fly_in">Fly in</string>
+    <string name="fall_down">Fall down</string>
+    <string name="app_open_animation">Animation</string>
+
+    <string name="gestures_sum">Lock gestures require their respective permissions by the user to perform their actions.</string>
+
+    <string name="location_help_1">"select a location"</string>
+    <string name="location_help_2">"from above four"</string>
+
+
+    <!--icons-->
+    <string name="custom_icon_cleared">Custom icon cleared!</string>
+    <string name="applying_icon">Applying icon…</string>
+
+    <string name="available_icon_packs">Available icon packs</string>
+
+    <string name="translator_info">Translation</string>
+
+    <string name="misc">Miscellaneous</string>
+    <string name="icons_customisation">Icons customisation</string>
+    <string name="set_as_default_app">Set as default app"</string>
+    <string name="privacy_policy">Privacy policy</string>
+
+
+
+    <string name="layout_editing_is_disabled">Layout editing is disabled</string>
+
+    <string name="components_opacity">All apps background opacity</string>
+    <string name="launch">Launch</string>
+
+    <string name="share">Share</string>
+
+    <string name="hidden_vault">Hidden vault</string>
+    <string name= "hidden_vault_desc">Hide apps from All apps</string>
+
+    <string name="full_width_width_widgets_pref_title">Full width widgets</string>
+
+    <string name="components_notification">Enable notification in at a glance</string>
+    <string name="market">Market</string>
+
+    <string name="component_page_indicator">Show page indicator</string>
+
+    <string name="icon_shape_pebble">Pebble</string>
+    <string name="icon_shape_tapered_rect">Tapered rect</string>
+    <string name="icon_shape_vessel">Vessel</string>
+    <string name="amoled_mode">Use amoled black theme</string>
+    <string name="get_feed">Get News feed</string>
+    <string name="get_feed_desc">On left of homescreen</string>
+    <string name="wallpaper_scrolling">Allow wallpaper scroll</string>
+
+    <string name="reset_app_icons_description">This will reset all app icons to their system default.</string>
+    <string name="reset_app_icons_summary">To system default</string>
+    <string name="reset_app_icons_title">Reset app icons</string>
+
+    <string name="allow_two_lines_label">Allow two lines label</string>
+    <string name="allow_accent_hotseat">Allow accent in search bar icons</string>
+    <string name="allow_full_width_widget">Full width widget</string>
+    <string name="icon_shape_clover">Clover</string>
+
+
+    <string name="translator_desc" translatable="false">
+        Thanks to \n
+        \t  1- Luciano Garcia Montes for Spanish\n
+        \t  2- Dana Bakr for Arabic\n
+        \t  3- Mylonas Nikos for Greek\n
+        \t  4- Toujour for Simplified Chinese\n
+        \t  5- Richard Pariath for Portuguese (BR)\n
+        \t  6- JSPiRiT1337 for Russian\n
+        \t  7- Tiago Pucarinho for Portuguese (PT)\n
+        \t  8- Vanderci for Portuguese (BR)\n
+        \t  9- Arya for Indonesian (IDN)\n
+        \t 10- elea11 for German (DE)\n
+        \t 11- Ｍｒ．Ｋ１０™ for Italian (it)\n
+        Contact me if you want to translate Ruthless Launcher in your language.</string>
+</resources>
