@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset_app_names_title" >
+        重置程式名稱
+    </string>
+    <string name="reset_app_names_description" >
+        所有應用程式的名稱將被重置。
+    </string>
+
+    <string name="tap_to_edit_app_name" >
+        點按編輯應用程式的名稱
+    </string>
+
+    <string name="enter_new_app_name" >
+        輸入新的名稱
+    </string>
+
+    <string name="double_tap_to_lock_title" >
+        雙擊息屏
+    </string>
+
+    <string name="double_tap_to_lock_summary">
+        於桌面之上
+    </string>
+
+    <string name="double_tap_to_lock_hint" >
+        為了能夠正常息屏，您需要授予 Ruthless Launcher 設備管理權限。 Ruthless Launcher 僅將管理員權限用於息屏操作。由於安卓系統的限制，下次解鎖將會要求您輸入解鎖密碼。
+    </string>
+
+    <string name="double_tap_to_lock_disable_warning" >
+        禁用管理員權限後，您可能無法再次使用雙擊息屏功能。
+    </string>
+
+    <string name="state_loading" >
+        加載中
+    </string>
+
+    <string name="action_app_drawer" >
+        打開應用程式列表
+    </string>
+
+    <string name="action_app_search" >
+        打開應用程式搜索
+    </string>
+
+    <string name="action_canceled" >
+        已取消操作
+    </string>
+
+    <string name="action_default_screen" >
+        打開氣泡菜單
+    </string>
+
+    <string name="action_nothing" >
+        無動作
+    </string>
+
+    <string name="action_notifications" >
+        展開通知面板
+    </string>
+
+    <string name="action_notifications_with_settings" >
+        展開快速設置面板
+    </string>
+
+    <string name="action_overview" >
+        添加桌面微件
+    </string>
+
+    <string name="action_quick_search" >
+        打開搜索工具
+    </string>
+
+    <string name="action_settings" >
+        打開系統設置
+    </string>
+
+    <string name="action_voice_search" >
+        打開語音搜索
+    </string>
+
+    <string name="action_screen_method_admin" >
+        使用設備管理息屏
+    </string>
+
+    <string name="action_lock_screen_timeout" >
+        使用屏幕超時息屏
+    </string>
+
+    <string name="action_screen_method_root" >
+        使用ROOT權限息屏
+    </string>
+
+    <string name="action_assistant" >
+        打開Google Assistant
+    </string>
+
+    <string name="action_google_now" >
+        打開Google Feed
+    </string>
+
+    <string name="action_lock_accessibility">
+        使用無障礙休眠
+    </string>
+
+    <string name="double_tap_to_lock_no_root">
+        申請ROOT權限
+    </string>
+
+    <string name="recent_task_option_kill_app" >
+        停止應用
+    </string>
+
+    <string name="action_swipe_down_two_fingers">
+        雙指下滑
+    </string>
+
+    <string name="action_swipe_down_one_fingers">
+        單指下滑
+    </string>
+
+    <string name="home_action_title">
+        主頁鍵
+    </string>
+
+    <string name="double_tap" >
+        雙擊
+    </string>
+
+    <string name="long_tap">
+        長按
+    </string>
+
+    <string name="one_finger_up">
+        單指上滑
+    </string>
+
+    <string name="home_button" >
+        主頁鍵
+    </string>
+
+    <string name="two_finger_up" >
+        雙指上滑
+    </string>
+
+    <string name="two_finger_up_hotseat" >
+        從 Dock 欄雙指上滑
+    </string>
+
+    <string name="one_finger_up_hotseat" >
+        從 Dock 欄單指上滑
+    </string>
+
+    <string name="category_gestures">
+        手勢
+    </string>
+
+    <string name="category_gestures_summary">
+        下滑，長按等快捷操作。
+    </string>
+
+    <string name="recents_app_killed" >
+        停止應用
+    </string>
+
+    <string name="full_screen_mode">
+        顯示狀態欄
+    </string>
+
+    <string name="icon_text_size_title">
+        應用名稱大小
+    </string>
+
+    <string name="icon_size_title">
+        圖標大小
+    </string>
+
+    <string name="settings_edit_allow_title">
+        開啟客製化功能
+    </string>
+
+    <string name="theme_system">
+        系統
+    </string>
+
+    <string name="components_title">
+        客製化
+    </string>
+
+    <string name="components_summary">
+        製化各種功能
+    </string>
+
+    <string name="components_sum">
+        關閉選項會導致對應功能被禁用。
+    </string>
+
+    <string name="component_dock_bar_visibility">
+        顯示 Dock 搜索工具
+    </string>
+
+    <string name="component_dock_icons_visibility">
+        顯示 Dock 應用
+    </string>
+
+    <string name="component_scroll_position">
+        保留上次位置
+    </string>
+
+    <string name="category_grids">
+        圖標密度
+    </string>
+
+    <string name="icon_size_switch">
+        啟用自定義圖標大小功能
+    </string>
+
+    <string name="icon_size_menu">
+        圖標大小
+    </string>
+
+    <string name="Icon_menu_summary">
+        默認為100%
+    </string>
+
+    <string name="grid_menu">
+        圖標密度
+    </string>
+
+    <string name="grid_menu_switch">
+        啟用自定義圖標密度功能
+    </string>
+
+    <string name="grid">
+        密度
+    </string>
+
+    <string name="grid_menu_summary">
+        默認為5個圖標
+    </string>
+
+    <string name="dialog_summary">
+        點擊對話框區域外取消
+    </string>
+
+    <string name="homescreen_default">
+        主屏幕
+    </string>
+
+    <string name="allapps_default">
+        應用程式列表
+    </string>
+
+    <string name="icon_label_default">
+        應用程式名稱
+    </string>
+
+    <string name="components_visibility_icon_label">
+        顯示應用程式名稱
+    </string>
+
+    <string name="backup_title">
+        備份
+    </string>
+
+    <string name="perform_backup">
+        備份
+    </string>
+
+    <string name="perform_restore">
+        恢復
+    </string>
+
+    <string name="no_restore_file"><font color = "#FF939393">
+        恢復
+    </font></string>
+
+    <string name="override_backup">
+        覆蓋舊備份
+    </string>
+
+    <string name="settings_backup_sum">
+        桌面設置的備份與恢復
+    </string>
+
+    <string name="settings_backup_subtitle">
+        單擊此處查看文件位置，長按瀏覽。
+    </string>
+
+    <string name="restarting">
+        重啟桌面
+    </string>
+
+    <string name="visuals">
+        可視化
+    </string>
+
+    <string name="Dockbar">
+        搜索工具
+    </string>
+
+    <string name="icons">
+        圖標
+    </string>
+
+    <string name="reset">
+        重置
+    </string>
+
+    <string name="export_error">
+        備份失敗！
+    </string>
+
+    <string name="icon_import_success">
+        圖標已恢復
+    </string>
+
+    <string name="layout_import_success">
+        佈局已恢復
+    </string>
+
+    <string name="import_error">
+        恢復失敗！
+    </string>
+
+    <string name="settings_export_success">
+        備份成功！
+    </string>
+
+    <string name="settings_import_success">
+        設置已恢復
+    </string>
+
+    <string name="click">
+        點按備份
+    </string>
+
+    <string name="click2">
+        點按恢復
+    </string>
+
+    <string name="state_applying">
+        已應用
+    </string>
+
+    <string name="secure_apps_manager_name">
+        應用程式保護
+    </string>
+
+    <string name="secure_apps_dialog_title">
+        開啟被保護的應用程式需要驗證密碼
+    </string>
+
+    <string name="secure_apps_auth_manager">
+        解鎖以管理被保護的應用程式
+    </string>
+
+    <string name="secure_apps_auth_open_app">
+        啟動 %1$s
+    </string>
+
+    <string name="secure_apps_loading">
+        "加載中 "
+    </string>
+
+    <string name="secure_apps_no_lock_error">
+        請設置屏幕鎖屏密碼限制對應用程式的訪問
+    </string>
+
+    <string name="secure_apps_help">
+        幫助
+    </string>
+
+    <string name="secure_apps_info_protected">
+        開啟被保護的應用程式需要驗證密碼
+    </string>
+
+    <string name="secrure_apps_title">
+        請輸入密碼
+    </string>
+
+    <string name="search_secured">
+        被保護
+    </string>
+
+    <string name="default_value">
+        默認
+    </string>
+
+    <string name="set_value">
+        設置
+    </string>
+
+    <string name="slide_up">
+        向上滑入
+    </string>
+
+    <string name="blink">
+        閃入
+    </string>
+
+    <string name="fade">淡入</string>
+
+    <string name="zoom">
+        快速
+    </string>
+
+    <string name="fly_in">
+        中心縮放
+    </string>
+
+    <string name="fall_down">
+        落下
+    </string>
+
+    <string name="app_open_animation">
+        動畫
+    </string>
+
+    <string name="gestures_sum">
+        息屏手勢需要用戶授予對應的權限。
+    </string>
+
+    <string name="location_help_1">
+        "從四個槽位中"
+    </string>
+
+    <string name="location_help_2">
+        "選擇一個位置"
+    </string>
+
+    <string name="applying_icon">
+        應用程式圖標
+    </string>
+    <string name="available_icon_packs">
+        可用圖標包
+    </string>
+
+    <string name="translator_info">
+        翻譯
+    </string>
+    <string name="misc">
+        其他
+    </string>
+    <string name="icons_customisation">
+        自定義圖標
+    </string>
+    <string name="set_as_default_app">
+        設為默認桌面
+    </string>
+    <string name="privacy_policy">
+        隱私權政策
+    </string>
+    <string name="layout_editing_is_disabled">
+        編輯功能已被關閉
+    </string>
+
+    <!--<string name="layout_editing_is_disabled">
+        佈局編輯功能已關閉
+    </string>-->
+
+    <string name="action_launch_app">啟動應用程式</string>
+
+    <string name="components_notification">
+        一目了然顯示通知
+    </string>
+
+    <string name="components_opacity">
+        背景不透明度
+    </string>
+
+    <string name="secure_apps_sub_title">
+        應用程式已被加入保險櫃
+    </string>
+
+    <string name="launch">
+        啟動
+    </string>
+
+    <string name="share">
+        分享
+    </string>
+</resources>
