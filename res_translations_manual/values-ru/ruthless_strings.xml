@@ -501,4 +501,32 @@
     <string name="share">
         Поделиться
     </string>
+    
+    <string name="hidden_vault">
+        Скрытое хранилище
+    </string>
+    
+    <string name="hidden_vault_desc">
+        Скрыть приложения из списка всех приложений
+    </string>
+    
+    <string name="component_page_indicator">
+        Показывать индикатор страниц
+    </string>
+    
+    <string name="wallpaper_scrolling">
+        Разрешить прокрутку обоев
+    </string>
+    
+    <string name="allow_two_lines_label">
+        Разрешить перенос названий в две строки
+    </string>
+    
+    <string name="get_feed">
+        Получить Ленту новостей
+    </string>
+    
+    <string name="get_feed_desc">
+        Слева от рабочего стола
+    </string>
 </resources>
