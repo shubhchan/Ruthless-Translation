@@ -2,35 +2,35 @@
 <resources>
 
     <string name="reset_app_names_title" >
-        Redefinir nomes de aplicativos personalizados
+        Redefinir nomes personalizados de apps
     </string>
 
     <string name="reset_app_names_description" >
-        Isso redefinirá o nome personalizado de todos os aplicativos ao seu padrão.
+        Isso ira redefinir o nome de todos seus apps ao padrão
     </string>
 
     <string name="tap_to_edit_app_name" >
-        Toque para editar o nome do aplicativo
+        Toque para editar o nome do app
     </string>
 
     <string name="enter_new_app_name" >
-        Digite o novo nome do aplicativo
+        Digite o novo nome do app
     </string>
 
     <string name="double_tap_to_lock_title" >
-        Toque duplo para travar
+        Toque duplo para bloquear
     </string>
 
     <string name="double_tap_to_lock_summary">
-        Na sua tela inicial
+        Em sua tela inicial
     </string>
 
     <string name="double_tap_to_lock_hint" >
-        Para poder usar o toque duplo para bloquear, você tem que habilitar o acesso administrativo para o Ruthless Launcher. Esta é uma trava segura, o que significa que você tem que digitar seu PIN no próximo desbloqueio, se tiver algum.
+        Para poder usar o toque duplo para bloquear, você precisa habilitar o acesso de administrador para o Ruthless Launcher. Este é um bloqueio seguro, então você terá que desbloquear seu dispositivo usando o seu PIN sempre que iniciar novamente
     </string>
 
     <string name="double_tap_to_lock_disable_warning" >
-        Ao desativar o acesso administrativo, você não poderá usar o toque duplo para bloquear a tela inicial.
+        Ao desativar o acesso de administrador, você não poderá mais usar o gesto de toque duplo para bloquear em sua tela inicial
     </string>
 
     <string name="state_loading" >
@@ -38,11 +38,11 @@
     </string>
 
     <string name="action_app_drawer" >
-        Abrir gaveta de aplicativos
+        Abrir gaveta de apps
     </string>
 
     <string name="action_app_search" >
-        Pesquisa de aplicativo aberto
+        Pesquisar app
     </string>
 
     <string name="action_canceled" >
@@ -50,31 +50,31 @@
     </string>
 
     <string name="action_default_screen" >
-        Abra o menu popup
+        Abra o menu do launcher
     </string>
 
     <string name="action_nothing" >
-        Nada
+        Desativado
     </string>
 
     <string name="action_notifications" >
-        Painel de notificações abertas
+        Abrir painel de notificações
     </string>
 
     <string name="action_notifications_with_settings" >
-        Abra o painel de configurações rápidas
+        Abrir painel de configurações rápidas
     </string>
 
     <string name="action_overview" >
-        Painel de widget aberto
+        Abrir gaveta de widgets
     </string>
 
     <string name="action_quick_search" >
-        Pesquisa rápida
+        Pesquisar na internet
     </string>
 
     <string name="action_settings" >
-        Configurações do dispositivo
+        Configurações de sistema
     </string>
 
     <string name="action_voice_search" >
@@ -82,75 +82,75 @@
     </string>
 
     <string name="action_screen_method_admin" >
-        Bloquear usando administração
+        Bloquear (administrador do dispositivo)
     </string>
 
     <string name="action_lock_screen_timeout" >
-        Bloquear usando o tempo limite da tela
+        Bloquear (tempo limite da tela)
     </string>
 
     <string name="action_screen_method_root" >
-        Bloquear usando raiz
+        Bloquear (root)
     </string>
 
     <string name="action_assistant" >
-        Assistente aberto
+        Google Assistant
     </string>
 
     <string name="action_google_now" >
-        Google Now
+        Google Discover
     </string>
 
     <string name="action_lock_accessibility">
-        Sono usando serviço de acessibilidade
+        Bloquear (serviço de acessibilidade)
     </string>
 
     <string name="double_tap_to_lock_no_root">
-        Fornecer acesso raiz
+        Conceda acesso root
     </string>
 
     <string name="recent_task_option_kill_app" >
-        Mato
+        Fechar
     </string>
 
     <string name="action_swipe_down_two_fingers">
-        Deslize para baixo dois dedos
+        Deslizar para baixo (dois dedos)
     </string>
 
     <string name="action_swipe_down_one_fingers">
-        Deslize para baixo um dedo
+        Deslizar para baixo (um dedo)
     </string>
 
     <string name="home_action_title">
-        Home botao
+        Botão home
     </string>
 
     <string name="double_tap" >
-        Toque duplo
+        Toque duplo 
     </string>
 
     <string name="long_tap">
-        Longa imprensa
+        Pressionar 
     </string>
 
     <string name="one_finger_up">
-        Deslize um dedo para cima
+        Deslizar para cima (um dedo)
     </string>
 
     <string name="home_button" >
-        Home botao
+        Botão home
     </string>
 
     <string name="two_finger_up" >
-        Deslize dois dedos para cima
+        Deslizar para cima (dois dedos)
     </string>
 
     <string name="two_finger_up_hotseat" >
-        Deslize dois dedos da doca
+        Deslizar dois dedos (dock)
     </string>
 
     <string name="one_finger_up_hotseat" >
-        Deslize um dedo da doca
+        Deslizar um dedo (dock)
     </string>
 
     <string name="category_gestures">
@@ -158,19 +158,19 @@
     </string>
 
     <string name="category_gestures_summary">
-        Deslize para baixo, pressione comprido e muito mais.
+        Deslizar, pressionar, entre outros
     </string>
 
     <string name="recents_app_killed" >
-        Aplicativo morto
+        Aplicativo encerrado
     </string>
 
     <string name="full_screen_mode">
-        Ocultar a barra de status
+        Ocultar barra de status
     </string>
 
     <string name="icon_text_size_title">
-        Tamanho do rótulo do ícone
+        Tamanho do títulos dos ícones
     </string>
 
     <string name="icon_size_title">
@@ -178,60 +178,59 @@
     </string>
 
     <string name="settings_edit_allow_title">
-        Impedir alterações na área de trabalho
+        Bloquer layout da tela inicial
     </string>
 
     <string name="theme_system">
-        sistema
+        Sistema
     </string>
 
     <string name="components_title">
-        Visibilidade
+        Visibilidade de componentes
     </string>
 
     <string name="components_summary">
-        mostrar e ocultar componentes do launcher.
+        Exibir, ocultar e alterar o comportamento de componentes 
     </string>
 
     <string name="components_sum">
-        Desativar uma entrada ocultará o componente ou desativará sua funcionalidade
+        Ao desativar uma opção o componente será oculto e sua função desativada
     </string>
 
     <string name="component_dock_bar_visibility">
-        Exibir barra de pesquisa no dock
+        Exibir barra de pesquisa na dock
     </string>
 
-    Richard Pariath, [04.08.20 21:51]
     <string name="component_dock_icons_visibility">
-        Ícones de doca (recomendado para ocultar quando a barra de doca estiver escondida)
+        Ícones da dock (recomendado ocultar junto a barra de pesquisa)
     </string>
 
     <string name="component_scroll_position">
-        Lembre-se da posição de rolagem
+        Lembrar posição de rolagem
     </string>
 
     <string name="category_grids">
-        Personalização da grade
+        Grade de apps
     </string>
 
     <string name="icon_size_switch">
-        Habilite o menu de tamanho do ícone personalizado
+        Habilitar tamanho de ícones personalizado
     </string>
 
     <string name="icon_size_menu">
-        Menu de tamanho de ícone
+        Tamanho dos ícones
     </string>
 
     <string name="Icon_menu_summary">
-        Os valores padrão são 100% em relação ao DPI
+        O tamanho padrão é (100%) de acordo com a DPI
     </string>
 
     <string name="grid_menu">
-        Menu de grade
+        Tamanho da grade
     </string>
 
     <string name="grid_menu_switch">
-        Habilite o menu de grade personalizado
+        Habilitar tamanho da grade personalizado
     </string>
 
     <string name="grid">
@@ -239,11 +238,11 @@
     </string>
 
     <string name="grid_menu_summary">
-        Os valores padrão são 5 ícones em todos os campos.
+        O tamanho padrão é (5) de acordo com a DPI
     </string>
 
     <string name="dialog_summary">
-        Toque na área de diálogo externa para cancelar.
+        Selecione os tamanhos
     </string>
 
     <string name="homescreen_default">
@@ -251,11 +250,11 @@
     </string>
 
     <string name="allapps_default">
-        Gaveta de aplicativos
+        Gaveta de apps
     </string>
 
     <string name="icon_label_default">
-        Rótulo de ícone
+        Título do ícone
     </string>
 
     <string name="rows_default">
@@ -271,15 +270,15 @@
     </string>
 
     <string name="columns_default">
-        Colunas
+        Colunas (gaveta de apps)
     </string>
 
     <string name="components_visibility_icon_label">
-        Ocultar nomes dos aplicativos
+        Ocultar nomes dos apps
     </string>
 
     <string name="backup_title">
-        Backup &amp; Restauração
+        Backup & Restauração
     </string>
 
     <string name="perform_backup">
@@ -287,7 +286,7 @@
     </string>
 
     <string name="perform_restore">
-        Restauração
+        Restaurar
     </string>
 
     <string name="no_restore_file"><font color = "#FF939393">
@@ -299,11 +298,11 @@
     </string>
 
     <string name="settings_backup_sum">
-        De um dos quatro locais.
+        Faça backup e restaure configurações 
     </string>
 
     <string name="settings_backup_subtitle">
-        Backup são salvos aqui, clique aqui para navegar.
+        Selecione um espaço para fazer backup ou restaurar abaixo
     </string>
 
     <string name="restarting">
@@ -327,11 +326,11 @@
     </string>
 
     <string name="export_error">
-        Não poderia fazer backup
+        Não foi possível fazer backup
     </string>
 
     <string name="icon_import_success">
-        Banco de dados de ícones restaurado
+        Resatauração de ícones concluída
     </string>
 
     <string name="layout_import_success">
@@ -339,43 +338,43 @@
     </string>
 
     <string name="import_error">
-        Não poderia restaurar
+        Não foi possível restaurar backup
     </string>
 
     <string name="settings_export_success">
-        Backup bem sucedido
+        Backup concluído
     </string>
 
     <string name="settings_import_success">
-        Preferência restaurada
+        Configurações restauradas com sucesso
     </string>
 
     <string name="click">
-        Clique para fazer backup
+        Toque para fazer backup
     </string>
 
     <string name="click2">
-        Clique para restaurar
+        Toque para restaurar
     </string>
 
     <string name="state_applying">
-        Valores aplicados
+        Definições aplicadas
     </string>
 
     <string name="secure_apps_manager_name">
-        Cofre protegido
+        Bloquear apps
     </string>
 
     <string name="secure_apps_dialog_title">
-        Aplicativos protegidos exigem que a autenticação seja aberta a partir do launcher
+        Aplicativos bloqueados exigem senha ou impressão digital para ser iniciado 
     </string>
 
     <string name="secure_apps_auth_manager">
-        Desbloqueie para gerenciar os aplicativos protegidos no cofre Secured
+        Desbloqueie para gerenciar os aplicativos bloqueados
     </string>
 
     <string name="secure_apps_auth_open_app">
-        de iniciar %1$s
+        Abrir %1$s
     </string>
 
     <string name="secure_apps_loading">
@@ -383,23 +382,23 @@
     </string>
 
     <string name="secure_apps_no_lock_error">
-        Por favor, configure uma tela de bloqueio segura para restringir o acesso ao aplicativo
+        Por favor defina uma tela de bloqueio para utilizar esta opção
     </string>
 
     <string name="secure_apps_help">
-        Help
+        Ajuda
     </string>
 
     <string name="secure_apps_info_protected">
-        Aplicativos protegidos exigem que a autenticação seja aberta a partir do launcher
+        Aplicativos bloqueados exigem senha ou impressão digital para ser iniciado
     </string>
 
     <string name="secrure_apps_title">
-        Digite o padrão de bloqueio da tela do telefone, PIN, senha ou impressão digital
+        Digite o padrão da tela de bloqueio, PIN, senha, ou impressão digital
     </string>
 
     <string name="search_secured">
-        Seguro
+        Bloqueado
     </string>
 
     <string name="default_value">
@@ -407,54 +406,54 @@
     </string>
 
     <string name="set_value">
-        Definir valor
+        Selecionar valor
     </string>
 
     <string name="slide_up">
-        Lado para cima
+        Deslizar para cima
     </string>
 
     <string name="blink">
         Piscar
     </string>
 
-    <string name="fade">Fade</string>
+    <string name="fade">
+        Desvanecer
+    </string>
 
     <string name="zoom">
         Zoom
     </string>
 
     <string name="fly_in">
-        Voe
+        Voar
     </string>
 
     <string name="fall_down">
-        Caia
+        Cair
     </string>
 
     <string name="app_open_animation">
-        Animação ao abrir aplicativos
+        Animação ao abrir apps
     </string>
 
-    Richard Pariath, [04.08.20 21:51]
     <string name="gestures_sum">
-        Gestos de bloqueio exigem sua permissão pelo usuário para realizar suas respectivas ações.
+        Gestos de bloqueio exigem permissões extras para poder funcionar
     </string>
 
     <string name="location_help_1">
-        "selecionar um local"
+        Selecionar um local
     </string>
 
     <string name="location_help_2">
-        "De cima quattro"
+        Dos quatro acima
     </string>
 
     <string name="applying_icon">
-        Ícone de aplicação
+      Aplicando ícones
     </string>
-
     <string name="available_icon_packs">
-        Pacote de ícones disponível
+        Pacote de ícones disponíveis 
     </string>
 
     <string name="translator_info">
@@ -470,43 +469,51 @@
     </string>
 
     <string name="set_as_default_app">
-        Definir como aplicativo padrão
+        Definir como app padrão
     </string>
 
     <string name="privacy_policy">
         Política de privacidade
     </string>
 
-
     <string name="layout_editing_is_disabled">
         A edição do layout está desativada
     </string>
 
-    <string name="action_launch_app">Lançamento do Aplicativo</string>
+    <string name="action_launch_app">
+        Íniciar aplicativo
+    </string>
 
     <string name="components_notification">
-        Ativar notificação em um piscar de olhos
+        Ativar notificações no widget de resumo
     </string>
 
     <string name="components_opacity">
-        Opacidade da gaveta de aplicativos
-        #App drawer opacity
+        Opacidade do fundo da gaveta de apps
     </string>
 
     <string name="secure_apps_sub_title">
-        Indica que o aplicativo está protegido
+        Indicador de apps bloqueados
     </string>
 
     <string name="launch">
-        lançar
+        Abrir
     </string>
 
     <string name="share">
         Compartilhar
     </string>
-    <string name="app_info_icon_pack">Pacote de ícones</string>
 
-    <string name="hidden_vault">Selecionar apps(s) para esconder</string>
-    <string name= "hidden_vault_desc">Mostrar e esconder aplicações da gaveta</string>
+    <string name="app_info_icon_pack">
+        Pacote de ícones
+    </string>
+
+    <string name="hidden_vault">
+        Ocultar apps
+    </string>
+
+    <string name="hidden_vault_desc">
+        Ocultar apps da gaveta
+    </string>
 
 </resources>
