@@ -2,46 +2,46 @@
 <resources>
 
     <string name="reset_app_names_title" >
-        重置应用名称
+        重置程式名稱
     </string>
     <string name="reset_app_names_description" >
-        所有应用程序的名称将会被重置。
+        所有應用程式的名稱將被重置。
     </string>
 
     <string name="tap_to_edit_app_name" >
-        点击编辑应用名称
+        點按編輯應用程式的名稱
     </string>
 
     <string name="enter_new_app_name" >
-        输入新的名称
+        輸入新的名稱
     </string>
 
     <string name="double_tap_to_lock_title" >
-        双击息屏
+        雙擊息屏
     </string>
 
     <string name="double_tap_to_lock_summary">
-        在桌面上
+        於桌面之上
     </string>
 
     <string name="double_tap_to_lock_hint" >
-        为了能够正常息屏，您需要授予 Ruthless Launcher 设备管理权限。 Ruthless Launcher 仅将管理员权限用于息屏操作。由于安卓系统的限制，下次解锁将会要求您输入解锁密码。
+        為了能夠正常息屏，您需要授予 Ruthless Launcher 設備管理權限。 Ruthless Launcher 僅將管理員權限用於息屏操作。由於安卓系統的限制，下次解鎖將會要求您輸入解鎖密碼。
     </string>
 
     <string name="double_tap_to_lock_disable_warning" >
-        禁用管理员权限后，您可能无法再次使用双击息屏功能。
+        禁用管理員權限後，您可能無法再次使用雙擊息屏功能。
     </string>
 
     <string name="state_loading" >
-        加载中
+        加載中
     </string>
 
     <string name="action_app_drawer" >
-        打开应用列表
+        打開應用程式列表
     </string>
 
     <string name="action_app_search" >
-        打开应用搜索
+        打開應用程式搜索
     </string>
 
     <string name="action_canceled" >
@@ -49,19 +49,19 @@
     </string>
 
     <string name="action_default_screen" >
-        打开气泡菜单
+        打開氣泡菜單
     </string>
 
     <string name="action_nothing" >
-        无动作
+        無動作
     </string>
 
     <string name="action_notifications" >
-        展开通知面板
+        展開通知面板
     </string>
 
     <string name="action_notifications_with_settings" >
-        展开快速设置面板
+        展開快速設置面板
     </string>
 
     <string name="action_overview" >
@@ -69,139 +69,139 @@
     </string>
 
     <string name="action_quick_search" >
-        打开搜索工具
+        打開搜索工具
     </string>
 
     <string name="action_settings" >
-        打开系统设置
+        打開系統設置
     </string>
 
     <string name="action_voice_search" >
-        打开语音搜索
+        打開語音搜索
     </string>
 
     <string name="action_screen_method_admin" >
-        使用设备管理息屏
+        使用設備管理息屏
     </string>
 
     <string name="action_lock_screen_timeout" >
-        使用屏幕超时息屏
+        使用屏幕超時息屏
     </string>
 
     <string name="action_screen_method_root" >
-        使用ROOT权限息屏
+        使用ROOT權限息屏
     </string>
 
     <string name="action_assistant" >
-        打开Google Assistant
+        打開Google Assistant
     </string>
 
     <string name="action_google_now" >
-        打开Google Feed
+        打開Google Feed
     </string>
 
     <string name="action_lock_accessibility">
-        使用无障碍休眠
+        使用無障礙休眠
     </string>
 
     <string name="double_tap_to_lock_no_root">
-        申请ROOT权限
+        申請ROOT權限
     </string>
 
     <string name="recent_task_option_kill_app" >
-        停止应用
+        停止應用
     </string>
 
     <string name="action_swipe_down_two_fingers">
-        双指下滑
+        雙指下滑
     </string>
 
     <string name="action_swipe_down_one_fingers">
-        单指下滑
+        單指下滑
     </string>
 
     <string name="home_action_title">
-        主页键
+        主頁鍵
     </string>
 
     <string name="double_tap" >
-        双击
+        雙擊
     </string>
 
     <string name="long_tap">
-        长按
+        長按
     </string>
 
     <string name="one_finger_up">
-        单指上滑
+        單指上滑
     </string>
 
     <string name="home_button" >
-        主页键
+        主頁鍵
     </string>
 
     <string name="two_finger_up" >
-        双指上滑
+        雙指上滑
     </string>
 
     <string name="two_finger_up_hotseat" >
-        从 Dock 栏双指上滑
+        從 Dock 欄雙指上滑
     </string>
 
     <string name="one_finger_up_hotseat" >
-        从 Dock 栏单指上滑
+        從 Dock 欄單指上滑
     </string>
 
     <string name="category_gestures">
-        手势
+        手勢
     </string>
 
     <string name="category_gestures_summary">
-        下滑，长按等快捷操作。
+        下滑，長按等快捷操作。
     </string>
 
     <string name="recents_app_killed" >
-        停止应用
+        停止應用
     </string>
 
     <string name="full_screen_mode">
-        显示状态栏
+        顯示狀態欄
     </string>
 
     <string name="icon_text_size_title">
-        应用名称大小
+        應用名稱大小
     </string>
 
     <string name="icon_size_title">
-        图标大小
+        圖標大小
     </string>
 
     <string name="settings_edit_allow_title">
-        开启自定义功能
+        開啟客製化功能
     </string>
 
     <string name="theme_system">
-        系统
+        系統
     </string>
 
     <string name="components_title">
-        个性化
+        客製化
     </string>
 
     <string name="components_summary">
-        个性化各种功能
+        製化各種功能
     </string>
 
     <string name="components_sum">
-        关闭选项会导致对应功能被禁用。
+        關閉選項會導致對應功能被禁用。
     </string>
 
     <string name="component_dock_bar_visibility">
-        显示 Dock 搜索工具
+        顯示 Dock 搜索工具
     </string>
 
     <string name="component_dock_icons_visibility">
-        显示 Dock 应用
+        顯示 Dock 應用
     </string>
 
     <string name="component_scroll_position">
@@ -209,27 +209,27 @@
     </string>
 
     <string name="category_grids">
-        图标密度
+        圖標密度
     </string>
 
     <string name="icon_size_switch">
-        启用自定义图标大小功能
+        啟用自定義圖標大小功能
     </string>
 
     <string name="icon_size_menu">
-        图标大小
+        圖標大小
     </string>
 
     <string name="Icon_menu_summary">
-        默认为100%
+        默認為100%
     </string>
 
     <string name="grid_menu">
-        图标密度
+        圖標密度
     </string>
 
     <string name="grid_menu_switch">
-        启用自定义图标密度功能
+        啟用自定義圖標密度功能
     </string>
 
     <string name="grid">
@@ -237,11 +237,11 @@
     </string>
 
     <string name="grid_menu_summary">
-        默认为5个图标
+        默認為5個圖標
     </string>
 
     <string name="dialog_summary">
-        点击对话框区域外取消
+        點擊對話框區域外取消
     </string>
 
     <string name="homescreen_default">
@@ -249,67 +249,51 @@
     </string>
 
     <string name="allapps_default">
-        应用列表
+        應用程式列表
     </string>
 
     <string name="icon_label_default">
-        应用名称
-    </string>
-
-    <string name="rows_default">
-        列（主屏幕）
-    </string>
-
-    <string name="allapps_columns_default">
-        应用列表
-    </string>
-
-    <string name="hotseat_default">
-        Dock
-    </string>
-
-    <string name="columns_default">
-        行（主屏幕）
+        應用程式名稱
     </string>
 
     <string name="components_visibility_icon_label">
-        显示应用名称
+        顯示應用程式名稱
     </string>
 
     <string name="backup_title">
-        备份
+        備份
     </string>
 
     <string name="perform_backup">
-        备份
+        備份
     </string>
 
     <string name="perform_restore">
-        恢复
+        恢復
     </string>
 
     <string name="no_restore_file"><font color = "#FF939393">
-        恢复
+        恢復
     </font></string>
 
     <string name="override_backup">
-        覆盖旧备份
+        覆蓋舊備份
     </string>
 
     <string name="settings_backup_sum">
-        桌面设置的备份与恢复
+        桌面設置的備份與恢復
     </string>
 
     <string name="settings_backup_subtitle">
-        单击此处查看文件位置，长按浏览。
+        單擊此處查看文件位置，長按瀏覽。
     </string>
 
     <string name="restarting">
-        重启应用
+        重啟桌面
     </string>
 
     <string name="visuals">
-        可视化
+        可視化
     </string>
 
     <string name="Dockbar">
@@ -317,7 +301,7 @@
     </string>
 
     <string name="icons">
-        图标
+        圖標
     </string>
 
     <string name="reset">
@@ -325,87 +309,87 @@
     </string>
 
     <string name="export_error">
-        备份失败！
+        備份失敗！
     </string>
 
     <string name="icon_import_success">
-        图标已恢复
+        圖標已恢復
     </string>
 
     <string name="layout_import_success">
-        布局已恢复
+        佈局已恢復
     </string>
 
     <string name="import_error">
-        恢复失败！
+        恢復失敗！
     </string>
 
     <string name="settings_export_success">
-        备份成功！
+        備份成功！
     </string>
 
     <string name="settings_import_success">
-        设置已恢复
+        設置已恢復
     </string>
 
     <string name="click">
-        点按备份
+        點按備份
     </string>
 
     <string name="click2">
-        点按恢复
+        點按恢復
     </string>
 
     <string name="state_applying">
-        已应用
+        已應用
     </string>
 
     <string name="secure_apps_manager_name">
-        应用保护
+        應用程式保護
     </string>
 
     <string name="secure_apps_dialog_title">
-        开启被保护的应用需要验证密码
+        開啟被保護的應用程式需要驗證密碼
     </string>
 
     <string name="secure_apps_auth_manager">
-        解锁以管理被保护的应用
+        解鎖以管理被保護的應用程式
     </string>
 
     <string name="secure_apps_auth_open_app">
-        启动 %1$s
+        啟動 %1$s
     </string>
 
     <string name="secure_apps_loading">
-        "加载中 "
+        "加載中 "
     </string>
 
     <string name="secure_apps_no_lock_error">
-        请设置屏幕锁屏密码限制对应用程序的访问
+        請設置屏幕鎖屏密碼限制對應用程式的訪問
     </string>
 
     <string name="secure_apps_help">
-        帮助
+        幫助
     </string>
 
     <string name="secure_apps_info_protected">
-        开启被保护的应用需要验证密码
+        開啟被保護的應用程式需要驗證密碼
     </string>
 
     <string name="secrure_apps_title">
-        请输入密码
+        請輸入密碼
     </string>
 
     <string name="search_secured">
-        被保护
+        被保護
     </string>
 
     <string name="default_value">
-        默认
+        默認
     </string>
 
     <string name="set_value">
-        设置
+        設置
     </string>
 
     <string name="slide_up">
@@ -413,7 +397,7 @@
     </string>
 
     <string name="blink">
-        闪入
+        閃入
     </string>
 
     <string name="fade">淡入</string>
@@ -423,7 +407,7 @@
     </string>
 
     <string name="fly_in">
-        中心缩放
+        中心縮放
     </string>
 
     <string name="fall_down">
@@ -431,55 +415,55 @@
     </string>
 
     <string name="app_open_animation">
-        动画
+        動畫
     </string>
 
     <string name="gestures_sum">
-        息屏手势需要用户授予对应的权限。
+        息屏手勢需要用戶授予對應的權限。
     </string>
 
     <string name="location_help_1">
-        "从四个槽位中"
+        "從四個槽位中"
     </string>
 
     <string name="location_help_2">
-        "选择一个位置"
+        "選擇一個位置"
     </string>
 
     <string name="applying_icon">
-        应用图标
+        應用程式圖標
     </string>
     <string name="available_icon_packs">
-        可用图标包
+        可用圖標包
     </string>
 
     <string name="translator_info">
-        翻译
+        翻譯
     </string>
     <string name="misc">
         其他
     </string>
     <string name="icons_customisation">
-        自定义图标
+        自定義圖標
     </string>
     <string name="set_as_default_app">
-        设为默认桌面
+        設為默認桌面
     </string>
     <string name="privacy_policy">
-        隐私权政策
+        隱私權政策
     </string>
     <string name="layout_editing_is_disabled">
-        编辑功能已被关闭
+        編輯功能已被關閉
     </string>
 
     <!--<string name="layout_editing_is_disabled">
-        布局编辑功能已关闭
+        佈局編輯功能已關閉
     </string>-->
 
-    <string name="action_launch_app">启动软件</string>
+    <string name="action_launch_app">啟動應用程式</string>
 
     <string name="components_notification">
-        一目了然显示通知
+        一目了然顯示通知
     </string>
 
     <string name="components_opacity">
@@ -487,11 +471,11 @@
     </string>
 
     <string name="secure_apps_sub_title">
-        应用已被加入保险柜
+        應用程式已被加入保險櫃
     </string>
 
     <string name="launch">
-        启动
+        啟動
     </string>
 
     <string name="share">
