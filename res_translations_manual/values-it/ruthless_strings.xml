@@ -1,142 +1,224 @@
 <?xml version = "1.0" encoding = "utf-8"?>
 <resources>
-    <string name = "reset_app_names_title"> Reimposta nomi app personalizzati </string>
-    <string name = "reset_app_names_description"> Questo reimposterà il nome personalizzato di tutte le app al valore predefinito. </string>
-    <string name = "tap_to_edit_app_name"> "Tocca per modificare il nome dell'app" </string>
-    <string name = "enter_new_app_name"> "Inserisci il nuovo nome dell'app" </string>
-    <string name = "double_tap_to_lock_title"> Tocca due volte per bloccare </string>
-    <string name = "double_tap_to_lock_summary"> Nella schermata iniziale </string>
-    <string name = "double_tap_to_lock_hint"> "Per poter utilizzare il doppio tocco per bloccare, devi abilitare l'accesso amministratore per Ruthless Launcher. Questo è un lucchetto sicuro, il che significa che devi inserire il tuo PIN al successivo sblocco, se ne hai." </string>
-    <string name = "double_tap_to_lock_disable_warning"> "Disattivando l'accesso come amministratore, non sarai in grado di utilizzare il doppio tocco per bloccare la schermata iniziale." </string>
-    <string name = "state_loading"> Caricamento </string>
-    <string name = "action_app_drawer"> Apri app drawer </string>
-    <string name = "action_app_search"> Apri ricerca app </string>
-    <string name = "action_canceled"> "Azione annullata dall'utente" </string>
-    <string name = "action_default_screen"> Apri menu popup </string>
-    <string name = "action_nothing"> Niente </string>
-    <string name = "action_notifications"> Apri pannello notifiche </string>
-    <string name = "action_notifications_with_settings"> Apri pannello impostazioni rapide </string>
-    <string name = "action_overview"> Apri pannello widget </string>
-    <string name = "action_quick_search"> Ricerca rapida </string >
-    <string name = "action_settings"> Impostazioni dispositivo </string>
-    <string name = "action_voice_search"> Ricerca vocale </string>
-    <string name = "action_screen_method_admin"> Blocca utilizzando admin </string>
-    <string name = "action_lock_screen_timeout"> Blocca usando il timeout dello schermo </string>
-    <string name ="action_screen_method_root"> Blocca usando root </string>
-    <string name ="action_assistant"> Apri assistente </string>
-    <string name ="action_google_now"> Google Now </string>
-    <string name ="action_lock_accessibility"> Dormi utilizzando il servizio di accessibilità </string>
-    <string name ="double_tap_to_lock_no_root"> Fornisci accesso root </string>
-    <string name = "recent_task_option_kill_app"> Kill </string>
-    <string name = "action_swipe_down_two_fingers"> Scorri verso il basso con due dita </string>
-    <string name = "action_swipe_down_one_fingers"> Scorri verso il basso con un dito </string>
-    <string name = "home_action_title"> Pulsante Home </string>
-    <string name = "double_tap"> Doppio tocco </string>
-    <string name = "long_tap"> Pressione lunga </string>
-    <string name = "one_finger_up"> Scorri su un dito </string>
-    <string name = "home_button"> Home_button </string>
-    <string name = "two_finger_up"> "Scorri verso l'alto con due dita" </string>
-    <string name = "two_finger_up_hotseat"> "Scorri verso l'alto con due dita dal dock" </string>
-    <string name = "one_finger_up_hotseat"> "Scorri verso l'alto con un dito dal dock"</string>
-    <string name = "category_gestures"> Gesti </string>
-    <string name = "category_gestures_summary"> Scorri verso il basso, premi a lungo e altro ancora. </string>
-    <string name = "recents_app_killed"> App interrotta </string>
-    <string name = "full_screen_mode"> Mostra barra di stato </string>
-    <string name = "icon_text_size_title"> Dimensione etichetta icona </string>
-    <string name = "icon_size_title"> Dimensione icona </string>
-    <string name = "settings_edit_allow_title"> Consenti modifica area di lavoro </string>
-    <string name = "theme_system"> Sistema </string>
-    <string name = "components_title"> Visibilità </string>
-    <string name = "components_summary"> Mostra e nasconde i componenti del programma di avvio. </string>
-    <string name = "components_sum"> La disabilitazione di una voce nasconderà il componente o ne disabiliterà la funzionalità </string>
-    <string name = "component_dock_bar_visibility"> Visibilità della barra del dock </string>
-    <string name = "component_dock_icons_visibility"> Icone del dock (consigliato per nascondere quando la barra del dock è nascosta) </string>
-    <string name = "component_scroll_position"> Mantieni posizione di scorrimento </string>
-    <string name = "category_grids"> Personalizzazione della griglia </string>
-    <string name = "icon_size_switch"> Abilita menu dimensione icona personalizzata </string>
-    <string name ="icon_size_menu"> Menu dimensione icona </string>
-    <string name ="Icon_menu_summary"> Predefinito</string>
-    <string name = "grid_menu"> Menu griglia </string>
-    <string name = "grid_menu_switch"> Abilita menu griglia personalizzato </string>
-    <string name = "grid"> Griglia </string>
-    <string name = "grid_menu_summary"> I valori predefiniti sono 5 icone in tutti i campi. </string>
-    <string name = "dialog_summary"> "Tocca fuori dall'area di dialogo per annullare." </string>
-    <string name = "homescreen_default"> Homescreen </string>
-    <string name = "allapps_default"> Allapps </string>
-    <string name = "icon_label_default"> Etichetta icona </string>
-    <string name = "rows_default"> Righe </string>
-    <string name ="allapps_columns_default"> Allapps colonne </string>
-    <string name ="hotseat_default"> Hotseat </string>
-    <string name ="columns_default"> Colonne </string>
-    <string name = "components_visibility_icon_label"> Mostra etichetta icona </string>
-    <string name = "backup_title"> Backup e ripristino </string>
-    <string name = "perform_backup"> Backup </string>
-    <string name = "perform_restore"> Ripristina </string>
-    <string name = "no_restore_file"> Ripristina </string>
-    <string name = "override_backup"> Sostituisci backup </string>
-    <string name = "settings_backup_sum"> Da una delle quattro posizioni. </string>
-    <string name = "settings_backup_subtitle"> I backup vengono salvati qui, fai clic qui per sfogliarli. </string>
-    <string name = "restarting"> Riavvia </string>
-    <string name = "visuals"> Visuals </string>
-    <string name = "Dockbar"> Searchbar </string>
-    <string name = "icons" > Icone </string>
-    <string name = "reset"> Reimposta </string>
-    <string name = "export_error"> Impossibile eseguire il backup </string>
-    <string name = "icon_import_success"> Database di icone ripristinato </string>
-    <string name = "layout_import_success"> Layout ripristinato </string>
-    <string name = "import_error"> Impossibile ripristinare </string>
-    <string name = "settings_export_success"> Backup riuscito </string>
-    <string name = "settings_import_success"> Preferenze ripristinate </string>
-    <string name = "click"> Fare clic per eseguire il backup </string>
-    <string name= "click2"> Fare clic per ripristinare </string>
-    <string name = "state_applying"> Valori applicati </string>
-    <string name = "secure_apps_manager_name"> Vault protetto </string>
-    <string name = "secure_apps_dialog_title"> "Le app protette richiedono l'apertura dell'autenticazione dal programma di avvio" </string>
-    <string name = "secure_apps_auth_manager"> Sblocca per gestire il app protette in Vault protetto </string>
-    <string name = "secure_apps_auth_open_app"> Per avviare% 1 $ s </string>
-    <string name = "secure_apps_loading"> "Caricamento" </string>
-    <string name = "secure_apps_no_lock_error"> Imposta una schermata di blocco sicuro per limitare accesso alle app </string>
-    <string name = "secure_apps_help"> Guida </string>
-    <string name = "secure_apps_info_protected"> "Le app protette richiedono che l'autenticazione venga aperta dal programma di avvio </string>
-    <string name = "secrure_apps_title"> Invio sequenza di blocco dello schermo del telefono, PIN, password o impronta digitale" </string>
-    <string name = "search_secured"> Protetto </string>
-    <string name = "default_value"> Predefinito </string>
-    <string name = "set_value"> Imposta </string>
-    <string name = "slide_up"> "Scorri verso l'alto" </string>
-    <string name = "blink"> Blink </string>
-    <string name = "fade"> Dissolvenza </string>
-    <string name = "zoom" > Zoom </string>
-    <string name = "fly_in"> Vola in </string>
-    <string name = "fall_down"> Caduta </string>
-    <string name = "app_open_animation"> Animazione </string>
-    <string name = "gestures_sum"> "I gesti di blocco richiedono la rispettiva risposta autorizzazioni effettive da parte dell'utente per eseguire le proprie azioni."</string>
-    <string name = "location_help_1"> "seleziona una posizione" </string>
+   <string name="reset_app_names_title" >"Reimposta nomi app personalizzati"</string>
+    <string name="reset_app_names_description" >Questa azione ripristinerà il nome di tutte le app al loro valore predefinito.</string>
 
-    <string name = "launch"> Avvia </string>
+    <string name="tap_to_edit_app_name" >"Tocca per modificare il nome dell'app"</string>
+    <string name="enter_new_app_name" >"Inserisci il nuovo nome dell'app"</string>
 
-    <string name = "share"> Condividi </string>
+    <!--RUTHLESS STRINGS-->
 
-    <string name = "hidden_vault"> Vault nascosto </string>
-    <string name = "hidden_vault_desc"> Nascondi app da tutte le app </string>
+    <string name="double_tap_to_lock_title" >Doppio tocco per bloccare</string>
+    <string name="double_tap_to_lock_summary" >Nella schermata iniziale</string>
+    <string name="double_tap_to_lock_hint" >"Per usare il doppio tocco per bloccare, devi attivare l'app di amministrazione per Ruthless Launcher. Questo è un metodo di blocco, perciò dovrai inserire il PIN al prossimo sblocco, se ne hai impostato uno."</string>
+    <string name="double_tap_to_lock_disable_warning">"Disattivando l'app di amministrazione, non sarai in grado di usare il doppio tocco per bloccare la tua schermata iniziale"</string>
+    <string name="state_loading" >Caricamento</string>
 
-    <string name = "full_width_width_widgets_pref_title"> Widget a larghezza intera </string>
+	<!-- GESTURES-->
 
-    <string name = "components_notification"> "Abilita la notifica a colpo d'occhio" </string>
-    <string name = "market"> Mercato </string>
+    <string name="action_app_drawer" >Apri app drawer</string>
+    <string name="action_app_search" >Apri ricerca app</string>
+    <string name="action_canceled" >"Azione annullata dall'utente"</string>
+    <string name="action_default_screen" >Apri menu a comparsa</string>
+    <string name="action_nothing" >Niente</string>
+    <string name="action_notifications" >Apri pannello notifiche</string>
+    <string name="action_notifications_with_settings" >Apri pannello impostazioni veloci</string>
+    <string name="action_overview" >Apri pannello widget</string>
+    <string name="action_quick_search" >Ricerca veloce</string>
+    <string name="action_settings" >Impostazioni telefono</string>
+    <string name="action_voice_search" >Ricerca vocale</string>
+    <string name="action_screen_method_admin" >Blocca usando admin</string>
+    <string name="action_lock_screen_timeout" >Blocca usando il timeout dello schermo</string>
+    <string name="action_screen_method_root" >Blocca usando root</string>
+    <string name="action_assistant" >Apri assistente</string>
+    <string name="action_google_now" >Google Now</string>
+    <string name="action_lock_accessibility">Blocca usando il servizio di accessibilità</string>
+    <string name="action_launch_app">Avvia app</string>
 
-    <string name = "component_page_indicator"> Mostra indicatore di pagina </string>
+    <string name="double_tap_to_lock_no_root">Concedi i permessi di root</string>
+    <string name="recent_task_option_kill_app" >Termina</string>
+    <string name="action_swipe_down_two_fingers">Scorri verso il basso con due dita</string>
+    <string name="action_swipe_down_one_fingers">Scorri verso il basso con un dito</string>
+    <string name="home_action_title">Pulsante home</string>
+    <string name="double_tap" >Doppio tocco</string>
+    <string name="long_tap">Pressione prolungata</string>
+    <string name="one_finger_up" >"Scorri verso l'alto con un dito"</string>
+    <string name="home_button" >Pulsante home</string>
+    <string name="two_finger_up" >"Scorri verso l'alto con due dita"</string>
+    <string name="two_finger_up_hotseat" >"Scorri verso l'alto con due dita dalla dock"</string>
+    <string name="one_finger_up_hotseat">"Scorri verso l'alto con un dito dalla dock"</string>
+    <string name="category_gestures">Gesti</string>
+    <string name="category_gestures_summary">Scorri verso il basso, pressione prolungata etc.</string>
 
-    <string name = "icon_shape_pebble">Ciottolo</string>
-    <string name = "icon_shape_tapered_rect"> Ottagono </string>
-    <string name = "icon_shape_vessel"> Vessel </string>
-    <string name = "amoled_mode"> Usa tema nero amoled </string>
-    <string name = "get_feed"> Ottieni feed di notizie </string>
-    <string name = "get_feed_desc"> A sinistra della schermata iniziale </string>
-    <string name = "wallpaper_scrolling"> Consenti lo scorrimento dello sfondo </string>
+    <string name="recents_app_killed" translatable="false">App terminata</string>
 
-    <string name = "reset_app_icons_description"> Ciò ripristinerà tutte le icone delle app al loro sistema predefinito. </string>
-    <string name = "reset_app_icons_summary"> Per impostazione predefinita di sistema </string>
-    <string name = "reset_app_icons_title"> Reimposta le icone delle app </string>
+    <string name="full_screen_mode">Mostra barra di stato</string>
 
-    <string name ="allow_two_lines_label"> Abilita la mascheratura delle icone </string>
+    <!--ICON SIZES-->
+    <string name="icon_text_size_title">Dimensione etichetta icona</string>
+    <string name="icon_size_title">Dimensione icona</string>
+
+    <!-- Edit workspace -->
+    <string name="settings_edit_allow_title">Permetti modifica area di lavoro</string>
+
+    <string name="theme_system">Sistema</string>
+
+    <string name="components_title">Visibilità</string>
+    <string name="components_summary">Mostra e nasconde i componenti del launcher.</string>
+    <string name="components_sum">La disattivazione di una voce nasconderà il componente o ne disattiverà le funzionalità</string>
+
+    <string name="component_dock_bar_visibility">Mostra barra di ricerca</string>
+    <string name="component_dock_icons_visibility">Mostra le icone(consigliato quando la barra di ricerca è nascosta)</string>
+
+    <string name="component_scroll_position">Mantieni posizione di scorrimento</string>
+
+
+    <string name="category_grids">Personalizzazione griglia</string>
+
+    <string name="icon_size_switch">Abilita menu dimensione icona personalizzata</string>
+    <string name="icon_size_menu">Menu dimensione icona</string>
+    <string name="Icon_menu_summary">Predefinito.</string>
+
+    <string name="grid_menu">Menu griglia</string>
+    <string name="grid_menu_switch">Abilita menu opzioni griglia</string>
+    <string name="grid">Griglia</string>
+    <string name="grid_menu_summary">Il valore predefinito è 5.</string>
+    <string name="dialog_summary">Tocca fuori dal dialog per cancellare.</string>
+
+    <string name="homescreen_default">Schermata iniziale</string>
+    <string name="allapps_default">App drawer</string>
+    <string name="icon_label_default">Etichetta icone</string>
+    <string name="rows_default">Righe</string>
+    <string name="allapps_columns_default">Colonne app drawer</string>
+    <string name="hotseat_default">Hotseat</string>
+    <string name="columns_default">Colonne</string>
+
+    <string name="components_visibility_icon_label">Mostra etichetta icone</string>
+
+
+
+
+    <string name="backup_title">Backup e ripristino</string>
+    <string name="perform_backup">Backup</string>
+    <string name="perform_restore">Ripristino</string>
+    <string name="no_restore_file"><font color = "#FF939393">Ripristino</font></string>
+    <string name="override_backup">Sostituzione backup</string>
+    <string name="settings_backup_sum">Da una delle quattro posizioni.</string>
+
+    <string name="settings_backup_subtitle" >Clicca qui per individuare un file, pressione prolungata per navigare.</string>
+    <string name="restarting">Riavvia</string>
+
+    <string name="visuals">Aspetto</string>
+    <string name="Dockbar">Barra di ricerca</string>
+
+
+
+    <string name="developer">Brought to you by</string>
+    <string name="icons">Icone</string>
+    <string name="reset">Reimposta</string>
+
+   <!-- <string name="permission_not_ok">Permission denied</string>
+    <string name="permission_ok">Permission granted</string>
+    <string name="permission_sum">Storage permission</string>-->
+    <string name="export_error">Impossibile fare il backup</string>
+    <string name="icon_import_success">Database icone ripristinato</string>
+    <string name="layout_import_success">Layout ripristinato</string>
+    <string name="import_error">Impossibile ripristinare</string>
+    <string name="settings_export_success">Backup avvenuto con successo</string>
+    <string name="settings_import_success">Le impostazioni sono state ripristinate</string>
+
+
+
+
+
+
+    <string name="state_applying">Valori applicati</string>
+
+    <!-- Trust apps -->
+    <string name="secure_apps_manager_name">Vault protetto</string>
+    <string name="secure_apps_dialog_title">"Le app protette richiedono l'autenticazione per essere aperte dal launcher"</string>
+    <string name="secure_apps_auth_manager">Sblocca per gestire le app protette del vault</string>
+    <string name="secure_apps_auth_open_app">Per avviare %1$s</string>
+    <string name="secure_apps_loading">Caricamento</string>
+    <string name="secure_apps_no_lock_error">"Per favore imposta un metodo di sblocco per limitare l'accesso alle app"</string>
+    <string name="secure_apps_help">Aiuto</string>
+    <string name="secure_apps_info_protected">"Le app protette richiedono l'autenticazione per essere aperte dal launcher"</string>
+    <string name="secure_apps_sub_title">"Indica che l'app è protetta"</string>
+
+
+    <string name="secrure_apps_title">Usa la sequenza di sblocco, PIN, password o impronta</string>
+
+    <string name="information_backup_detailed">"A causa dei recenti cambiamenti nella gestione della memoria da parte di google, le app non hanno più il permesso di accedere alla memoria
+        ma solo alla cartella dedicata. Queste cartelle vengono rimosse quando l'app viene disinstallata. Puoi copiare i file manualmente prima di disinstallare ruthless."</string>
+
+    <string name="search_secured">Protetto</string>
+
+    <string name="default_value">Predefinito</string>
+    <string name="set_value">Imposta</string>
+
+
+
+    <string name="slide_up">"Scorrimento verso l'alto"</string>
+
+    <string name="blink">Lampeggiamento</string>
+    <string name="fade">Dissolvenza</string>
+    <string name="zoom">Zoom</string>
+    <string name="fly_in">Entrata veloce</string>
+    <string name="fall_down">Cascata</string>
+    <string name="app_open_animation">Animazione</string>
+
+    <string name="gestures_sum">"I gesti di blocco richiedono l'abilitazione dei permessi necessari da parte dell'utente per poter funzionare."</string>
+
+    <string name="location_help_1">"scegli una posizione"</string>
+    <string name="location_help_2">"dalle quattro sopra"</string>
+
+
+    <!--icons-->
+    <string name="custom_icon_cleared">Icone personalizza riavviate!</string>
+    <string name="applying_icon">Applicazione icona …</string>
+
+    <string name="available_icon_packs">Pacchetti icone disponibili</string>
+
+    <string name="translator_info">Traduzione</string>
+
+    <string name="misc">Varie</string>
+    <string name="icons_customisation">Personalizzazione icone</string>
+    <string name="set_as_default_app">Imposta come launcher predefinito</string>
+    <string name="privacy_policy">Informativa sulla privacy</string>
+
+
+
+    <string name="layout_editing_is_disabled">La personalizzazione del layout è disattivata</string>
+
+    <string name="components_opacity">Trasparenza sfondo app drawer</string>
+    <string name="launch">Avvia</string>
+
+    <string name="share">Condividi</string>
+
+    <string name="hidden_vault">Vault nascosto</string>
+    <string name= "hidden_vault_desc">"Nascondi le app dall'app drawer"</string>
+
+    <string name="full_width_width_widgets_pref_title">Widgets a larghezza piena</string>
+
+    <string name="components_notification">Attiva notifiche nel widget at a glance</string>
+    <string name="market">Store</string>
+
+    <string name="component_page_indicator">Mostra indicatore pagine</string>
+
+    <string name="icon_shape_pebble">Ciottolo</string>
+    <string name="icon_shape_tapered_rect">Ottagono</string>
+    <string name="icon_shape_vessel">Vaso</string>
+    <string name="amoled_mode">Usa tema nero amoled</string>
+    <string name="get_feed">Ottieni news feed</string>
+    <string name="get_feed_desc">A sinistra della schermata iniziale</string>
+    <string name="wallpaper_scrolling">Permetti scorrimento sfondo</string>
+
+    <string name="reset_app_icons_description">Le app verranno ripristinate alle loro icone predefinite.</string>
+    <string name="reset_app_icons_summary">Predefinite di sistema</string>
+    <string name="reset_app_icons_title">Ripristina icone apps</string>
+
+    <string name="allow_two_lines_label">Permetti etichette a due righe</string>
+    <string name="allow_accent_hotseat">Mostra accento nelle icone della barra di ricerca</string>
+    <string name="allow_full_width_widget">Widget a larghezza piena</string>
+    <string name="icon_shape_clover">Clover</string>
 </resources>
