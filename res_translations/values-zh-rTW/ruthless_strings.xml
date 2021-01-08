@@ -25,11 +25,11 @@
     </string>
 
     <string name="double_tap_to_lock_hint" >
-        為了能夠正常息屏，您需要授予 Ruthless Launcher 設備管理權限。 Ruthless Launcher 僅將管理員權限用於息屏操作。由於安卓系統的限制，下次解鎖將會要求您輸入解鎖密碼。
+        為了能夠正常息屏，您需要授予 Ruthless Launcher 設備管理許可權。 Ruthless Launcher 僅將設備管理許可權用於息屏操作。由於安卓系統的限制，下次解鎖將會要求您輸入解鎖密碼。
     </string>
 
     <string name="double_tap_to_lock_disable_warning" >
-        禁用管理員權限後，您可能無法再次使用雙擊息屏功能。
+        禁用設備管理許可權後，您可能無法再次使用雙擊息屏功能。
     </string>
 
     <string name="state_loading" >
