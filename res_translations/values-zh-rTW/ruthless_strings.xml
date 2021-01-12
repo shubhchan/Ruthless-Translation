@@ -21,15 +21,15 @@
     </string>
 
     <string name="double_tap_to_lock_summary">
-        於桌面之上
+        於桌布之上
     </string>
 
     <string name="double_tap_to_lock_hint" >
-        為了能夠正常息屏，您需要授予 Ruthless Launcher 設備管理權限。 Ruthless Launcher 僅將管理員權限用於息屏操作。由於安卓系統的限制，下次解鎖將會要求您輸入解鎖密碼。
+        為了能夠正常息屏，您需要授予 Ruthless Launcher 設備管理許可權。 Ruthless Launcher 僅將設備管理許可權用於息屏操作。由於安卓系統的限制，下次解鎖將會要求您輸入解鎖密碼。
     </string>
 
     <string name="double_tap_to_lock_disable_warning" >
-        禁用管理員權限後，您可能無法再次使用雙擊息屏功能。
+        禁用設備管理許可權後，您可能無法再次使用雙擊息屏功能。
     </string>
 
     <string name="state_loading" >
@@ -41,7 +41,7 @@
     </string>
 
     <string name="action_app_search" >
-        打開應用程式搜索
+        打開應用程式搜尋
     </string>
 
     <string name="action_canceled" >
@@ -69,7 +69,7 @@
     </string>
 
     <string name="action_quick_search" >
-        打開搜索工具
+        打開搜尋工具
     </string>
 
     <string name="action_settings" >
@@ -77,7 +77,7 @@
     </string>
 
     <string name="action_voice_search" >
-        打開語音搜索
+        打開語音搜尋
     </string>
 
     <string name="action_screen_method_admin" >
@@ -89,15 +89,15 @@
     </string>
 
     <string name="action_screen_method_root" >
-        使用ROOT權限息屏
+        使用 ROOT 權限息屏
     </string>
 
     <string name="action_assistant" >
-        打開Google Assistant
+        打開 Google Assistant
     </string>
 
     <string name="action_google_now" >
-        打開Google Feed
+        打開 Google Feed
     </string>
 
     <string name="action_lock_accessibility">
@@ -105,7 +105,7 @@
     </string>
 
     <string name="double_tap_to_lock_no_root">
-        申請ROOT權限
+        申請 ROOT 權限
     </string>
 
     <string name="recent_task_option_kill_app" >
@@ -173,7 +173,7 @@
     </string>
 
     <string name="icon_size_title">
-        圖標大小
+        圖示大小
     </string>
 
     <string name="settings_edit_allow_title">
@@ -189,7 +189,7 @@
     </string>
 
     <string name="components_summary">
-        製化各種功能
+        客製化各種功能
     </string>
 
     <string name="components_sum">
@@ -197,7 +197,7 @@
     </string>
 
     <string name="component_dock_bar_visibility">
-        顯示 Dock 搜索工具
+        顯示 Dock 搜尋工具
     </string>
 
     <string name="component_dock_icons_visibility">
@@ -209,27 +209,27 @@
     </string>
 
     <string name="category_grids">
-        圖標密度
+        圖示密度
     </string>
 
     <string name="icon_size_switch">
-        啟用自定義圖標大小功能
+        啟用自定義圖示大小功能
     </string>
 
     <string name="icon_size_menu">
-        圖標大小
+        圖示大小
     </string>
 
     <string name="Icon_menu_summary">
-        默認為100%
+        預設為100%
     </string>
 
     <string name="grid_menu">
-        圖標密度
+        圖示密度
     </string>
 
     <string name="grid_menu_switch">
-        啟用自定義圖標密度功能
+        啟用自定義圖示密度功能
     </string>
 
     <string name="grid">
@@ -237,7 +237,7 @@
     </string>
 
     <string name="grid_menu_summary">
-        默認為5個圖標
+        預設為5個圖標
     </string>
 
     <string name="dialog_summary">
@@ -289,7 +289,7 @@
     </string>
 
     <string name="restarting">
-        重啟桌面
+        重啟桌布
     </string>
 
     <string name="visuals">
@@ -297,11 +297,11 @@
     </string>
 
     <string name="Dockbar">
-        搜索工具
+        搜尋工具
     </string>
 
     <string name="icons">
-        圖標
+        圖示
     </string>
 
     <string name="reset">
@@ -313,7 +313,7 @@
     </string>
 
     <string name="icon_import_success">
-        圖標已恢復
+        圖示已恢復
     </string>
 
     <string name="layout_import_success">
@@ -381,11 +381,11 @@
     </string>
 
     <string name="search_secured">
-        被保護
+        被保護的
     </string>
 
     <string name="default_value">
-        默認
+        預設
     </string>
 
     <string name="set_value">
@@ -431,10 +431,10 @@
     </string>
 
     <string name="applying_icon">
-        應用程式圖標
+        應用程式圖示
     </string>
     <string name="available_icon_packs">
-        可用圖標包
+        可用圖示包
     </string>
 
     <string name="translator_info">
@@ -444,10 +444,10 @@
         其他
     </string>
     <string name="icons_customisation">
-        自定義圖標
+        自定義圖示
     </string>
     <string name="set_as_default_app">
-        設為默認桌面
+        設為預設桌面
     </string>
     <string name="privacy_policy">
         隱私權政策
