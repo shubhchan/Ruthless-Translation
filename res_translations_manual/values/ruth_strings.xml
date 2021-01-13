@@ -212,7 +212,7 @@
     <string name="icon_shape_tapered_rect">Tapered rect</string>
     <string name="icon_shape_vessel">Vessel</string>
     <string name="icon_shape_mallow">Mallow</string>
-    <string name="icon_shape_rounder_hexagon">Rounded hexagonF</string>
+    <string name="icon_shape_rounder_hexagon">Rounded hexagon</string>
     <string name="amoled_mode">Use amoled black theme</string>
     <string name="get_feed">Get News feed</string>
     <string name="get_feed_desc">On left of homescreen</string>
