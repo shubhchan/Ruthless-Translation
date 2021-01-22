@@ -185,7 +185,7 @@
 
     <string name="misc">Miscellaneous</string>
     <string name="icons_customisation">Icons customisation</string>
-    <string name="set_as_default_app">Set as default app"</string>
+    <string name="set_as_default_app">Set as default app</string>
     <string name="privacy_policy">Privacy policy</string>
 
 
@@ -198,7 +198,7 @@
     <string name="share">Share</string>
 
     <string name="hidden_vault">Hidden vault</string>
-    <string name= "hidden_vault_desc">Hide apps from All apps</string>
+    <string name="hidden_vault_desc">Hide apps from All apps</string>
 
     <string name="full_width_width_widgets_pref_title">Full width widgets</string>
 
