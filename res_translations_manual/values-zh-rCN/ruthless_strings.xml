@@ -228,7 +228,7 @@
 	    <string name="crash">应用异常退出，正在重启。</string>
 	    <string name="icon_masking">启用图标遮罩</string>
 	    <string name="about_donate_new_desc">通过 Paypal 或 UPI 进行捐赠</string>
-	    <string name="welcome_info">"感谢您使用 Ruthless Launcher.\n \n 正如您所见，Ruthless 是一个没有任何广告的免费应用，所以不会从中获得任何收入。如果您喜欢此应用，欢迎通过捐赠的方式为后续开发提供贡献。\n\n 今年对我们所有人来说，都是充满挑战的一年，希望2021年会变的更好，新年快乐！ \n\n- Shubby 😅"
+	    <string name="welcome_info">"感谢您使用 Ruthless Launcher.\n \n 正如您所见，Ruthless 是一个没有任何广告的免费应用，所以不会从中获得任何收入。如果您喜欢此应用，欢迎通过捐赠的方式为后续开发提供贡献。\n\n 去年对我们所有人来说，都是充满挑战的一年，希望2021年会变的更好，新年快乐！ \n\n- Shubby 😅"
 	    </string>
 	    <string name="error_msg">似乎 Ruthless 遇到了一个未知的错误，您愿意提供错误日志给开发者吗？</string>
 	    <string name="report">报告</string>
