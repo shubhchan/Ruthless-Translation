@@ -1,52 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="reset_app_names_title" >Reset Custom app names</string>
-    <string name="reset_app_names_description" >This will reset the custom name of all apps to their default.</string>
+    <string name="reset_app_names_title">Reset Custom app names</string>
+    <string name="reset_app_names_description">This will reset the custom name of all apps to their default.</string>
 
-    <string name="tap_to_edit_app_name" >Tap to edit app name</string>
-    <string name="enter_new_app_name" >Enter new app name</string>
+    <string name="tap_to_edit_app_name">Tap to edit app name</string>
+    <string name="enter_new_app_name">Enter new app name</string>
 
     <!--RUTHLESS STRINGS-->
 
-    <string name="double_tap_to_lock_title" >Double tap to lock</string>
-    <string name="double_tap_to_lock_summary" >On your home screen</string>
-    <string name="double_tap_to_lock_hint" >To be able to use double tap to lock, you have to enable admin access for Ruthless Launcher. This is a secure lock, meaning you have to enter your PIN on the next unlock, if you have any.</string>
-    <string name="double_tap_to_lock_disable_warning">By disabling admin access, you will not be able to use double tap to lock on your home screen.</string>
-    <string name="state_loading" >Loading</string>
+    <string name="double_tap_to_lock_title">Double tap to lock</string>
+    <string name="double_tap_to_lock_summary">On your home screen</string>
+    <string name="double_tap_to_lock_hint">To be able to use double tap to lock, you have to enable admin access for
+        Ruthless Launcher. This is a secure lock, meaning you have to enter your PIN on the next unlock, if you have
+        any.
+    </string>
+    <string name="double_tap_to_lock_disable_warning">By disabling admin access, you will not be able to use double tap
+        to lock on your home screen.
+    </string>
+    <string name="state_loading">Loading</string>
 
-<!-- GESTURES-->
+    <!-- GESTURES-->
 
-    <string name="action_app_drawer" >Open app drawer</string>
-    <string name="action_app_search" >Open app search</string>
-    <string name="action_canceled" >Action canceled by user</string>
-    <string name="action_default_screen" >Open popup menu</string>
-    <string name="action_nothing" >Nothing</string>
-    <string name="action_notifications" >Open notifications panel</string>
-    <string name="action_notifications_with_settings" >Open quick settings panel</string>
-    <string name="action_overview" >Open widget panel</string>
-    <string name="action_quick_search" >Quick search</string>
-    <string name="action_settings" >Device settings</string>
-    <string name="action_voice_search" >Voice search</string>
-    <string name="action_screen_method_admin" >Lock using admin</string>
-    <string name="action_lock_screen_timeout" >Lock using screen timeout</string>
-    <string name="action_screen_method_root" >Lock using root </string>
-    <string name="action_assistant" >Open assistant</string>
-    <string name="action_google_now" >Google Now</string>
+    <string name="action_app_drawer">Open app drawer</string>
+    <string name="action_app_search">Open app search</string>
+    <string name="action_canceled">Action canceled by user</string>
+    <string name="action_default_screen">Open popup menu</string>
+    <string name="action_nothing">Nothing</string>
+    <string name="action_notifications">Open notifications panel</string>
+    <string name="action_notifications_with_settings">Open quick settings panel</string>
+    <string name="action_overview">Open widget panel</string>
+    <string name="action_quick_search">Quick search</string>
+    <string name="action_settings">Device settings</string>
+    <string name="action_voice_search">Voice search</string>
+    <string name="action_screen_method_admin">Lock using admin</string>
+    <string name="action_lock_screen_timeout">Lock using screen timeout</string>
+    <string name="action_screen_method_root">Lock using root</string>
+    <string name="action_assistant">Open assistant</string>
+    <string name="action_google_now">Google Now</string>
     <string name="action_lock_accessibility">Lock using accessibility service</string>
     <string name="action_launch_app">Launch app</string>
 
     <string name="double_tap_to_lock_no_root">Provide root access</string>
-    <string name="recent_task_option_kill_app" >Kill</string>
+    <string name="recent_task_option_kill_app">Kill</string>
     <string name="action_swipe_down_two_fingers">Swipe down two fingers</string>
     <string name="action_swipe_down_one_fingers">Swipe down one finger</string>
     <string name="home_action_title">Home button</string>
-    <string name="double_tap" >Double tap</string>
+    <string name="double_tap">Double tap</string>
     <string name="long_tap">Long press</string>
-    <string name="one_finger_up" >Swipe up one finger</string>
-    <string name="home_button" >Home_button</string>
-    <string name="two_finger_up" >Swipe up two finger</string>
-    <string name="two_finger_up_hotseat" >Swipe up two finger from dock</string>
+    <string name="one_finger_up">Swipe up one finger</string>
+    <string name="home_button">Home_button</string>
+    <string name="two_finger_up">Swipe up two finger</string>
+    <string name="two_finger_up_hotseat">Swipe up two finger from dock</string>
     <string name="one_finger_up_hotseat">Swipe up one finger from dock</string>
     <string name="category_gestures">Gestures</string>
     <string name="category_gestures_summary">Swipe down, Long press and more.</string>
@@ -69,7 +74,7 @@
     <string name="components_sum">Disabling a entry will hide the component or disable its functionality</string>
 
     <string name="component_dock_bar_visibility">Show search bar</string>
-    <string name="component_dock_icons_visibility">Show icons </string>
+    <string name="component_dock_icons_visibility">Show icons</string>
 
     <string name="component_scroll_position">Retain scroll position</string>
 
@@ -98,16 +103,16 @@
     <string name="components_visibility_icon_label">Show icon label</string>
 
 
-
-
     <string name="backup_title">Backup &amp; Restore</string>
     <string name="perform_backup">Backup</string>
     <string name="perform_restore">Restore</string>
-    <string name="no_restore_file"><font color = "#FF939393">Restore</font></string>
+    <string name="no_restore_file">
+        <font color="#FF939393">Restore</font>
+    </string>
     <string name="override_backup">Override backup</string>
     <string name="settings_backup_sum">From one of the four locations.</string>
 
-    <string name="settings_backup_subtitle" >Click here for file location, long click to browse.</string>
+    <string name="settings_backup_subtitle">Click here for file location, long click to browse.</string>
     <string name="restarting">Restart</string>
 
     <string name="visuals">Visuals</string>
@@ -115,23 +120,18 @@
 
 
 
-    <string name="developer">Brought to you by</string>
     <string name="icons">Icons</string>
     <string name="reset">Reset</string>
 
-   <!-- <string name="permission_not_ok">Permission denied</string>
-    <string name="permission_ok">Permission granted</string>
-    <string name="permission_sum">Storage permission</string>-->
+    <!-- <string name="permission_not_ok">Permission denied</string>
+     <string name="permission_ok">Permission granted</string>
+     <string name="permission_sum">Storage permission</string>-->
     <string name="export_error">Couldn\'t backup</string>
     <string name="icon_import_success">Icons database restored</string>
-    <string name="layout_import_success">Layout restored </string>
+    <string name="layout_import_success">Layout restored</string>
     <string name="import_error">Couldn\'t restore</string>
     <string name="settings_export_success">Backup successful</string>
     <string name="settings_import_success">Preference restored</string>
-
-
-
-
 
 
     <string name="state_applying">Values applied</string>
@@ -144,20 +144,19 @@
     <string name="secure_apps_loading">"Loading "</string>
     <string name="secure_apps_no_lock_error">Please set up a secure lock screen to restrict app access</string>
     <string name="secure_apps_help">Help</string>
-    <string name="secure_apps_info_protected">Secured apps require authentication to be opened from the launcher</string>
+    <string name="secure_apps_info_protected">Secured apps require authentication to be opened from the launcher
+    </string>
     <string name="secure_apps_sub_title">Indicates app is secured</string>
 
 
     <string name="secrure_apps_title">Enter phone screen lock pattern, PIN, password or fingerprint</string>
 
-    <string name="information_backup_detailed">Because of recent changes in storage access by google in android 10 and further, now apps are not allowed to access storage apart
-        from their own folders. These folders are temporary and will get removed when app is uninstalled. You can manually move files in another place before uninstalling ruthless.</string>
+
 
     <string name="search_secured">Secured</string>
 
     <string name="default_value">Default</string>
     <string name="set_value">Set</string>
-
 
 
     <string name="slide_up">Slide up</string>
@@ -169,36 +168,35 @@
     <string name="fall_down">Fall down</string>
     <string name="app_open_animation">Animation</string>
 
-    <string name="gestures_sum">Lock gestures require their respective permissions by the user to perform their actions.</string>
+    <string name="gestures_sum">Lock gestures require their respective permissions by the user to perform their
+        actions.
+    </string>
 
     <string name="location_help_1">"select a location"</string>
     <string name="location_help_2">"from above four"</string>
 
 
-    <!--icons-->
-    <string name="custom_icon_cleared">Custom icon cleared!</string>
-    <string name="applying_icon">Applying icon…</string>
+
 
     <string name="available_icon_packs">Available icon packs</string>
 
     <string name="translator_info">Translation</string>
 
     <string name="misc">Miscellaneous</string>
-    <string name="icons_customisation">Icons customisation</string>
+    <string name="icons_customisation">Icon customisation</string>
     <string name="set_as_default_app">Set as default app"</string>
     <string name="privacy_policy">Privacy policy</string>
 
 
+    <string name="layout_editing_is_disabled">Desktop editing is disabled</string>
 
-    <string name="layout_editing_is_disabled">Layout editing is disabled</string>
-
-    <string name="components_opacity">All apps background opacity</string>
+    <string name="components_opacity">Background opacity</string>
     <string name="launch">Launch</string>
 
     <string name="share">Share</string>
 
     <string name="hidden_vault">Hidden vault</string>
-    <string name= "hidden_vault_desc">Hide apps from All apps</string>
+    <string name="hidden_vault_desc">Hide apps from All apps</string>
 
     <string name="full_width_width_widgets_pref_title">Full width widgets</string>
 
@@ -229,11 +227,13 @@
     <string name="crash">Something went wrong … restarting Ruthless Launcher.</string>
     <string name="icon_masking">Enable Icon masking</string>
     <string name="about_donate_new_desc">Using Paypal or UPI</string>
-    <string name="welcome_info">"Thank you for choosing Ruthless Launcher.\n \n Ruthless is completely free application with no advertisement, hence no revenue is generated by it. If you like this application and want regular updates then kindly contribute in it's development by donating.\n\n It's been a challenging year for all of us, hope 2021 will be better, Happy New Year! \n\n- Shubby 😅"
+    <string name="welcome_info">"Thank you for choosing Ruthless Launcher.\n \n Ruthless is completely free application with no advertisement, hence no revenue is generated by it. If you like this application and want regular updates then kindly contribute in it's development by donating.\n\n- Shubby 😅"
     </string>
-    <string name="error_msg">Ah, shoot. Seems like Ruthless faced an unhandled error. Would you like to report it to the developer?</string>
+    <string name="error_msg">Ah, shoot. Seems like Ruthless faced an unhandled error. Would you like to report it to the
+        developer?
+    </string>
     <string name="report">Report</string>
-    <string name="white">Snow</string>
+    <string name="white">Snowfall</string>
     <string name="gray">Gloom</string>
     <string name="default_search_icon">Search bar icon</string>
     <string name="custom_text_color">Allapps text color</string>
@@ -243,5 +243,36 @@
     <string name="add">Add</string>
     <string name="add_hide_keyword">Add new</string>
     <string name="swipe_hold_recent">Allow swipe up + hold for recents</string>
+    <string name="debugger_mode">Show Bug reporter menu</string>
+    <string name="debugger_sum">When launcher encounters a bug</string>
+
+    <string name="fade_animation">Fade page transition</string>
+    <string name="hosescreen_summary">News feed, margin, and more</string>
+    <string name="hotseat_summary">Search widget, icons and more</string>
+    <string name="allapps_summary">Background Opacity, text color and more</string>
+    <string name="edge_margin">Horizontal margin</string>
+    <string name="playstore">Using Playstore</string>
+    <string name="all_apps_lable">Show "All apps" Title</string>
+    <string name="theme_auto_black">System with black</string>
+    <string name="invisible_widget">Empty screen widget visibility</string>
+
+
+
+    <string name="search_provider_title">Search provider</string>
+    <string name="search_provider_google">Google web</string>
+    <string name="search_provider_bing">Bing</string>
+    <string name="search_provider_duckduckgo">DuckDuckGo</string>
+    <string name="search_provider_yahoo">Yahoo!</string>
+    <string name="search_provider_yandex">Yandex</string>
+    <string name="search_provider_qwant">Qwant</string>
+    <string name="search_provider_qwant_lite">Qwant Lite</string>
+    <string name="search_provider_startpage">StartPage</string>
+    <string name="search_provider_ecosia">Ecosia</string>
+    <string name="search_provider_baidu">Baidu</string>
+    <string name="search_provider_naver">Naver</string>
+
+
+
+
 
 </resources>
