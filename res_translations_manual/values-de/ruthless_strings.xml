@@ -198,11 +198,11 @@
     </string>
 
     <string name="component_dock_bar_visibility">
-        Dock-Sichtbarkeit
+       Suchleiste in Dock anzeigen
     </string>
 
     <string name="component_dock_icons_visibility">
-        Dock-Icons (empfohlen bei ausgeblendetem Dock)
+        Dock anzeigen
     </string>
 
     <string name="component_scroll_position">
@@ -366,7 +366,7 @@
     </string>
 
     <string name="secure_apps_dialog_title">
-        Apps im Tresor können nur nach Authorisierung vom Launcher geöffnet werden
+        Apps im Tresor können nur nach Autorisierung vom Launcher geöffnet werden
     </string>
 
     <string name="secure_apps_auth_manager">
@@ -390,7 +390,7 @@
     </string>
 
     <string name="secure_apps_info_protected">
-        Gesicherte Apps können nur nach Authorisierung vom Launcher geöffnet werden
+        Gesicherte Apps können nur nach Autorisierung vom Launcher geöffnet werden
     </string>
 
     <string name="secrure_apps_title">
@@ -505,6 +505,6 @@
 
 
     <string name="get_feed">Get News feed</string>
-    <string name="get_feed_desc">On left of homescreen</string>
+    <string name="get_feed_desc">Links vom Startbildschirm</string>
     <string name="wallpaper_scrolling">Scrollen des Hintergrund-Bildes erlauben</string>
 </resources>
