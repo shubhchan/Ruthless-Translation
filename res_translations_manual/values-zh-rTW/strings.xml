@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="needs_usage_access" translatable="false">需要使用情況訪問權限</string>
+    <string name="msg_missing_usage_access">要顯示應用程式建議，您需要授予 <xliff:g id="name" example="My App">%1$s</xliff:g> 使用情況訪問權限</string>
+    <string name="app_info_subtext">向下滑動關閉應用程式信息。</string>
+    <string name="app_info_source">來源</string>
+    <string name="app_info_last_update">上次升級</string>
+    <string name="item_hidden">已隱藏的項目</string>
+    <string name="theme_title">強調色</string>
+    <string name="theme_campfire">篝火</string>
+    <string name="theme_sunset">日落</string>
+    <string name="theme_forest">森林</string>
+    <string name="theme_ocean">海洋</string>
+    <string name="theme_twilight">暮色</string>
+    <string name="theme_blossom">鮮花</string>
+    <string name="dock_search">搜尋工具</string>
+    <string name="feed_provider">Google feed</string>
+    <string name="grid_division">密度</string>
+    <string name="grid_division_dense">緊密（6*6）</string>
+    <string name="grid_division_normal">普通（5*5）</string>
+    <string name="grid_division_reasonable">分散（4*5）</string>
+    <string name="grid_division_big">大（4*4）</string>
+    <string name="grid_division_crazybig">超大（3*3）</string>
+    <string name="fading_transition">漸隱過渡</string>
+    <string name="fading_transition_desc">開啟應用程式時</string>
+    <string name="about_contact">聯繫我</string>
+    <string name="about_donate_desc">使用 Play 餘額</string>
+    <string name="shadespace_text_charging">捐贈給 %1$d%%</string>
+    <string name="search_hidden">@string/search_hidden_global</string>
+</resources>
