@@ -478,16 +478,17 @@
     <string name="layout_editing_is_disabled">
         Запрещено изменять разметку
     </string>
-
-
-    <string name="action_launch_app">Запустить приложение</string>
+    
+    <string name="action_launch_app">
+        Запустить приложение
+    </string>
 
     <string name="components_notification">
         Включить уведомления в "Самое главное"
     </string>
 
     <string name="components_opacity">
-        Прозрачность фона в "Все приложения"
+        Прозрачность фона
     </string>
 
     <string name="secure_apps_sub_title">
@@ -528,5 +529,124 @@
     
     <string name="get_feed_desc">
         Слева от рабочего стола
+    </string>
+    
+    <string name="style">
+        Стили
+    </string>
+    
+    <string name="style_sum">
+        Сетка, пакет значков, акцент и многое другое
+    </string>
+    
+    <string name="icon_masking">
+        Включить маскировку значков
+    </string>
+    
+    <string name="reset_app_icons_title">
+        Сбросить пользовательские значки приложений
+    </string>
+    
+    <string name="reset_app_icons_summary">
+        По умолчанию в системе
+    </string>
+    
+    <string name="hosescreen_summary">
+        Лента новостей, края и многое другое
+    </string>
+    
+    <string name="hotseat_summary">
+        Виджет поиска, значки и многое другое
+    </string>
+    
+    <string name="allapps_summary">
+        Прозрачность фона, цвет текста и многое другое
+    </string>
+    
+    <string name="edge_margin">
+        Горизонтальные края
+    </string>
+    
+    <string name="infinite_scrolling">
+        Включить бесконечную прокрутку
+    </string>
+    
+    <string name="fade_animation">
+        Переход между пустыми страницами
+    </string>
+    
+    <string name="swipe_hold_recent">
+        Свайп вверх с удержанием для вызова недавних приложений
+    </string>
+    
+    <string name="full_width_width_widgets_pref_title">
+        Виджеты в полную ширину
+    </string>
+    
+    <string name="invisible_widget">
+        Видимость виджета на пустом экране
+    </string>
+    
+    <string name="default_search_icon">
+        Значок панели поиска
+    </string>
+    
+    <string name="assistant_icon_visisbility">
+        Показывать иконку ассистента
+    </string>
+    
+    <string name="search_provider_title">
+        Поисковой провайдер
+    </string>
+    
+    <string name="custom_text_color">
+        Цвет текста приложений
+    </string>
+    
+    <string name="search_keywords">
+        Ключевое слово
+    </string>
+    
+    <string name="add">
+        Добавить
+    </string>
+    
+    <string name="add_hide_keyword">
+        Добавить новое
+    </string>
+    
+    <string name="secure_apps_manager_sum">
+        Аутентифицировать запуск приложений через Launcher
+    </string>
+    
+    <string name="welcome_info">
+        "Ruthless - это полностью бесплатное приложение без рекламы, поэтому оно не приносит дохода. Если вам нравится это приложение и вы хотите получать регулярные обновления, внесите свой вклад в его разработку, пожертвовав."
+    </string>
+    
+    <string name="error_msg">Похоже, что Ruthless столкнулся с необработанной ошибкой. Вы хотите сообщить об этом разработчику?
+    </string>
+    
+    <string name="rate_app">
+        Оценить приложение
+    </string>
+    
+    <string name="debugger_mode">
+        Показать меню средства сообщения об ошибках
+    </string>
+    
+    <string name="debugger_sum">
+        Когда лаунчер обнаруживает ошибку
+    </string>
+    
+    <string name="faq">
+        Часто задаваемые вопросы
+    </string>
+    
+    <string name="faq_sum">
+        Особенности, что да как, и так далее
+    </string>
+    
+    <string name="allapps_row_default">
+        Строки всех приложений
     </string>
 </resources>
