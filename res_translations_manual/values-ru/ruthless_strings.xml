@@ -68,7 +68,7 @@
     <string name="theme_system">Система</string>
 
     <string name="components_title">Дополнительные настройки</string>
-    <string name="components_summary">Показать и скрыть компоненты лаунчера</string>
+    <string name="components_summary">Показать и скрыть компоненты лончера</string>
     <string name="components_sum">Отключение записи скроет компонент или отключит его функциональность</string>
 
     <string name="component_dock_bar_visibility">Отображать поисковую строку в доке</string>
