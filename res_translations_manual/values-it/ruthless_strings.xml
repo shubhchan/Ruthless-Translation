@@ -16,7 +16,7 @@
 
 	<!-- GESTURES-->
 
-    <string name="action_app_drawer" >Apri app drawer</string>
+    <string name="action_app_drawer" >Apri menu applicazioni</string>
     <string name="action_app_search" >Apri ricerca app</string>
     <string name="action_canceled" >"Azione annullata dall'utente"</string>
     <string name="action_default_screen" >Apri menu a comparsa</string>
@@ -83,14 +83,14 @@
     <string name="grid_menu_switch">Abilita menu opzioni griglia</string>
     <string name="grid">Griglia</string>
     <string name="grid_menu_summary">Il valore predefinito è 5.</string>
-    <string name="dialog_summary">Tocca fuori dal dialog per cancellare.</string>
+    <string name="dialog_summary">Tocca fuori dal dialogo per cancellare.</string>
 
     <string name="homescreen_default">Schermata iniziale</string>
-    <string name="allapps_default">App drawer</string>
+    <string name="allapps_default">Menu applicazioni</string>
     <string name="icon_label_default">Etichetta icone</string>
     <string name="rows_default">Righe</string>
-    <string name="allapps_columns_default">Colonne app drawer</string>
-    <string name="hotseat_default">Hotseat</string>
+    <string name="allapps_columns_default">Colonne menu applicazioni</string>
+    <string name="hotseat_default">Barra schermata home</string>
     <string name="columns_default">Colonne</string>
 
     <string name="components_visibility_icon_label">Mostra etichetta icone</string>
@@ -113,13 +113,11 @@
 
 
 
-    <string name="developer">Brought to you by</string>
+    <string name="developer">portato a voi da</string>
     <string name="icons">Icone</string>
     <string name="reset">Reimposta</string>
 
-   <!-- <string name="permission_not_ok">Permission denied</string>
-    <string name="permission_ok">Permission granted</string>
-    <string name="permission_sum">Storage permission</string>-->
+
     <string name="export_error">Impossibile fare il backup</string>
     <string name="icon_import_success">Database icone ripristinato</string>
     <string name="layout_import_success">Layout ripristinato</string>
@@ -135,6 +133,7 @@
     <string name="state_applying">Valori applicati</string>
 
     <!-- Trust apps -->
+
     <string name="secure_apps_manager_name">App Protette</string>
     <string name="secure_apps_dialog_title">"Le app protette richiedono l'autenticazione per essere aperte dal launcher"</string>
     <string name="secure_apps_auth_manager">Sblocca per gestire le app protette del vault</string>
@@ -190,17 +189,20 @@
 
     <string name="layout_editing_is_disabled">La personalizzazione del layout è disattivata</string>
 
-    <string name="components_opacity">Trasparenza sfondo app drawer</string>
+    <string name="components_opacity">Trasparenza sfondo menu applicazioni</string>
     <string name="launch">Avvia</string>
 
     <string name="share">Condividi</string>
+
+    <string name="hidden_vault">App nascoste</string>
+    <string name= "hidden_vault_desc">"Nascondi le app dal menu applicazioni"</string>
 
     <string name="hidden_vault">App Nascoste</string>
     <string name= "hidden_vault_desc">"Nascondi le app dall'app drawer"</string>
 
     <string name="full_width_width_widgets_pref_title">Widgets a larghezza piena</string>
 
-    <string name="components_notification">Attiva notifiche nel widget at a glance</string>
+    <string name="components_notification">Attiva notifiche nel widget a colpo d'occhio</string>
     <string name="market">Store</string>
 
     <string name="component_page_indicator">Mostra indicatore pagine</string>
@@ -215,7 +217,8 @@
 
     <string name="reset_app_icons_description">Le app verranno ripristinate alle loro icone predefinite.</string>
     <string name="reset_app_icons_summary">Predefinite di sistema</string>
-    <string name="reset_app_icons_title">Ripristina icone dell app</string>
+    <string name="reset_app_icons_title">Ripristina icone delle app</string>
+ 
 
     <string name="allow_two_lines_label">Permetti etichette a due righe</string>
     <string name="allow_accent_hotseat">Mostra accento nelle icone della barra di ricerca</string>
