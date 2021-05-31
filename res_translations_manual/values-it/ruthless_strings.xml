@@ -117,9 +117,7 @@
     <string name="icons">Icone</string>
     <string name="reset">Reimposta</string>
 
-   <!-- <string name="permission_not_ok">Permesso negato</string>
-    <string name="permission_ok">Permesso concesso</string>
-    <string name="permission_sum">Permesso Storage</string>-->
+
     <string name="export_error">Impossibile fare il backup</string>
     <string name="icon_import_success">Database icone ripristinato</string>
     <string name="layout_import_success">Layout ripristinato</string>
@@ -135,7 +133,8 @@
     <string name="state_applying">Valori applicati</string>
 
     <!-- Trust apps -->
-    <string name="secure_apps_manager_name">App protette</string>
+
+    <string name="secure_apps_manager_name">App Protette</string>
     <string name="secure_apps_dialog_title">"Le app protette richiedono l'autenticazione per essere aperte dal launcher"</string>
     <string name="secure_apps_auth_manager">Sblocca per gestire le app protette del vault</string>
     <string name="secure_apps_auth_open_app">Per avviare %1$s</string>
@@ -174,7 +173,7 @@
 
 
     <!--icons-->
-    <string name="custom_icon_cleared">Icone personalizza riavviate!</string>
+    <string name="custom_icon_cleared">Icone personalizzate riavviate!</string>
     <string name="applying_icon">Applicazione icona …</string>
 
     <string name="available_icon_packs">Pacchetti icone disponibili</string>
@@ -198,6 +197,9 @@
     <string name="hidden_vault">App nascoste</string>
     <string name= "hidden_vault_desc">"Nascondi le app dal menu applicazioni"</string>
 
+    <string name="hidden_vault">App Nascoste</string>
+    <string name= "hidden_vault_desc">"Nascondi le app dall'app drawer"</string>
+
     <string name="full_width_width_widgets_pref_title">Widgets a larghezza piena</string>
 
     <string name="components_notification">Attiva notifiche nel widget a colpo d'occhio</string>
@@ -209,13 +211,14 @@
     <string name="icon_shape_tapered_rect">Ottagono</string>
     <string name="icon_shape_vessel">Vaso</string>
     <string name="amoled_mode">Usa tema nero amoled</string>
-    <string name="get_feed">Ottieni news feed</string>
+    <string name="get_feed">Ottieni notizie feed</string>
     <string name="get_feed_desc">A sinistra della schermata iniziale</string>
     <string name="wallpaper_scrolling">Permetti scorrimento sfondo</string>
 
     <string name="reset_app_icons_description">Le app verranno ripristinate alle loro icone predefinite.</string>
     <string name="reset_app_icons_summary">Predefinite di sistema</string>
     <string name="reset_app_icons_title">Ripristina icone delle app</string>
+ 
 
     <string name="allow_two_lines_label">Permetti etichette a due righe</string>
     <string name="allow_accent_hotseat">Mostra accento nelle icone della barra di ricerca</string>
