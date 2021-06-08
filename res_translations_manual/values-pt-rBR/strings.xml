@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="needs_usage_access" translatable="false">Acesso ao uso necessário</string>
-    <string name="msg_missing_usage_access">Para exibir Sugestões de Apps, habilite o acesso ao uso para <xliff:g id="name" example="Meu App">%1$s</xliff:g></string>
+    <string name="msg_missing_usage_access">Para exibir Sugestões de Aplicativos, habilite o acesso ao uso para <xliff:g id="name" example="Meu App">%1$s</xliff:g></string>
     <string name="app_info_subtext">Deslize para baixo para fechar as informações do app.</string>
     <string name="app_info_source">Fonte</string>
     <string name="app_info_last_update">Última atualização</string>
     <string name="item_hidden">Item escondido</string>
-    <string name="theme_title">Acento</string>
+    <string name="theme_title">Cor de destaque</string>
     <string name="theme_campfire">Fogueira</string>
     <string name="theme_sunset">Pôr-do-sol</string>
     <string name="theme_forest">Floresta</string>
@@ -22,7 +22,7 @@
     <string name="grid_division_big">Grande (4 por 4)</string>
     <string name="grid_division_crazybig">Gigante (3 por 3)</string>
     <string name="fading_transition">Transição em desvanecimento</string>
-    <string name="fading_transition_desc">Ao abrir apps</string>
+    <string name="fading_transition_desc">Ao abrir aplicativos</string>
     <string name="about_contact">Contato</string>
     <string name="about_donate_desc">Usando crédito do Play</string>
     <string name="shadespace_text_charging">Cobrado em %1$d%%</string>
