@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="reset_app_names_title">Redefinir nomes de apps personalizados</string>
-    <string name="reset_app_names_description">Isto redefinirá todos os nomes de apps personalizados para os seus padrões.</string>
-    <string name="tap_to_edit_app_name">Toque para editar o nome do app</string>
-    <string name="enter_new_app_name">Digite o novo nome do app</string>
+    <string name="reset_app_names_title">Redefinir nomes de aplicativos personalizados</string>
+    <string name="reset_app_names_description">Isto redefinirá todos os nomes de aplicativos personalizados para os seus padrões.</string>
+    <string name="tap_to_edit_app_name">Toque para editar o nome do aplicativo</string>
+    <string name="enter_new_app_name">Digite o novo nome do aplicativo</string>
     <!--RUTHLESS STRINGS-->
     <string name="double_tap_to_lock_title">Toque duplo para bloquear</string>
     <string name="double_tap_to_lock_summary">Na sua tela inicial</string>
-    <string name="double_tap_to_lock_hint">Para poder usar o toque duplo para bloquear você deve habilitar
+    <string name="double_tap_to_lock_hint">Para poder usar o toque duplo para bloquear, você deve habilitar
     o acesso administrativo para o Ruthless Launcher. Este é um bloqueio seguro,
     portanto você tem de digitar seu PIN para desbloquear, se você possui algum.</string>
-    <string name="double_tap_to_lock_disable_warning">Ao desabilitar o acesso administrativo você não será mais
+    <string name="double_tap_to_lock_disable_warning">Ao desabilitar o acesso administrativo, você não será mais
     capaz de utilizar o toque duplo para bloquear na sua tela inicial.</string>
     <string name="state_loading">Carrregando</string>
     <!-- GESTURES-->
-    <string name="action_app_drawer">Abrir gaveta de apps</string>
-    <string name="action_app_search">Abrir pesquisa de apps</string>
+    <string name="action_app_drawer">Abrir gaveta de aplicativos</string>
+    <string name="action_app_search">Abrir pesquisa de aplicativos</string>
     <string name="action_canceled">Ação cancelada pelo usuário</string>
     <string name="action_default_screen">Abrir o menu popup</string>
     <string name="action_nothing">Nada</string>
@@ -31,22 +31,22 @@
     <string name="action_assistant">Abrir o assistente</string>
     <string name="action_google_now">Google Now</string>
     <string name="action_lock_accessibility">Bloquear usando o serviço de acessibilidade</string>
-    <string name="action_launch_app">Lançar app</string>
+    <string name="action_launch_app">Lançar aplicativo</string>
     <string name="double_tap_to_lock_no_root">Fornecer acesso root</string>
-    <string name="recent_task_option_kill_app">Matar</string>
+    <string name="recent_task_option_kill_app">Encerrar</string>
     <string name="action_swipe_down_two_fingers">Deslizar dois dedos para baixo</string>
     <string name="action_swipe_down_one_fingers">Deslizar um dedo para baixo</string>
     <string name="home_action_title">Botão Home</string>
-    <string name="double_tap">Clique duplo</string>
-    <string name="long_tap">Clique longo</string>
+    <string name="double_tap">Toque duplo</string>
+    <string name="long_tap">Toque longo</string>
     <string name="one_finger_up">Deslizar um dedo para cima</string>
-    <string name="home_button">Botão_Home</string>
+    <string name="home_button">Botão Home</string>
     <string name="two_finger_up">Deslizar dois dedos para cima</string>
     <string name="two_finger_up_hotseat">Deslizar dois dedos para cima a partir do dock</string>
     <string name="one_finger_up_hotseat">Deslizar um dedo para cima a partir do dock</string>
     <string name="category_gestures">Gestos</string>
-    <string name="category_gestures_summary">Deslizar para baixo, clique longo e mais.</string>
-    <string name="recents_app_killed" translatable="false">App killed</string>
+    <string name="category_gestures_summary">Deslizar para baixo, toque longo e mais.</string>
+    <string name="recents_app_killed" translatable="false">Aplicativo encerrado</string>
     <string name="full_screen_mode">Exibir a barra de status</string>
     <!--ICON SIZES-->
     <string name="icon_text_size_title">Tamanho do título dos ícones</string>
@@ -62,23 +62,23 @@
     <string name="component_scroll_position">Lembrar da posição de rolagem</string>
     <string name="category_grids">Customização da grade</string>
     <string name="icon_size_switch">Habilitar o menu de tamanho personalizado do ícone</string>
-    <string name="icon_size_menu">Menu de tamanho do ícone</string>
-    <string name="Icon_menu_summary">Valores padrão são 100% do DPI.</string>
+    <string name="icon_size_menu">Tamanho do ícone do menu</string>
+    <string name="Icon_menu_summary">Valores padrão têm DPI de 100%.</string>
     <string name="grid_menu">Menu da grade</string>
     <string name="grid_menu_switch">Habilitar menu de grade personalizado</string>
     <string name="grid">Grade</string>
     <string name="grid_menu_summary">Valores padrão são 5 ícones em todos os campos.</string>
     <string name="dialog_summary">Toque fora da área da janela para cancelar.</string>
     <string name="homescreen_default">Tela de início</string>
-    <string name="allapps_default">Todos os apps</string>
+    <string name="allapps_default">Todos os aplicativos</string>
     <string name="icon_label_default">Título do ícone</string>
     <string name="rows_default">Linhas</string>
-    <string name="allapps_columns_default">Colunas de todos os apps</string>
-    <string name="allapps_row_default">Linhas de todos os apps</string>
+    <string name="allapps_columns_default">Colunas de todos os aplicativos</string>
+    <string name="allapps_row_default">Linhas de todos os aplicativos</string>
     <string name="hotseat_default">Dock</string>
     <string name="columns_default">Colunas</string>
     <string name="components_visibility_icon_label">Exibir títulos nos ícones</string>
-    <string name="backup_title">Backup &amp; Restauro</string>
+    <string name="backup_title">Backup &amp; Restauração</string>
     <string name="perform_backup">Backup</string>
     <string name="perform_restore">Restaurar</string>
     <string name="no_restore_file">
@@ -86,7 +86,7 @@
     </string>
     <string name="override_backup">Substituir backup</string>
     <string name="settings_backup_sum">Para uma das quatro localizações.</string>
-    <string name="settings_backup_subtitle">Clique aqui para a localização do arquivo, clique longo para navegar.</string>
+    <string name="settings_backup_subtitle">Toque aqui para a localização do arquivo, toque longo para navegar.</string>
     <string name="restarting">Reiniciar</string>
     <string name="visuals">Visuais</string>
     <string name="Dockbar">Barra de pesquisa</string>
@@ -99,19 +99,19 @@
     <string name="icon_import_success">Banco de dados de ícones restaurado</string>
     <string name="layout_import_success">Leiaute restaurado</string>
     <string name="import_error">Restauração falhou</string>
-    <string name="settings_export_success">Backup com sucesso</string>
+    <string name="settings_export_success">Backup realizado com sucesso</string>
     <string name="settings_import_success">Preferências restauradas</string>
     <string name="state_applying">Valores aplicados</string>
     <!-- Trust apps -->
     <string name="secure_apps_manager_name">Cofre seguro</string>
-    <string name="secure_apps_dialog_title">Apps protegidos requerem autenticação para serem abertos a partir do lançador</string>
-    <string name="secure_apps_auth_manager">Desbloqueie para gerenciar os apps protegidos no Cofre seguro</string>
+    <string name="secure_apps_dialog_title">Aplicativos protegidos requerem autenticação para serem abertos a partir do lançador</string>
+    <string name="secure_apps_auth_manager">Desbloqueie para gerenciar os aplicativos protegidos no Cofre seguro</string>
     <string name="secure_apps_auth_open_app">Para abrir %1$s</string>
     <string name="secure_apps_loading">"Carregando "</string>
-    <string name="secure_apps_no_lock_error">Por favor configure um bloqueio de tela seguro para restringir o acesso a apps</string>
+    <string name="secure_apps_no_lock_error">Por favor configure um bloqueio de tela seguro para restringir o acesso a aplicativos</string>
     <string name="secure_apps_help">Ajuda</string>
-    <string name="secure_apps_info_protected">Apps protegidos requerem autenticação para serem abertos a partir do lançador</string>
-    <string name="secure_apps_sub_title">Indica que um app está protegido</string>
+    <string name="secure_apps_info_protected">Aplicativos protegidos requerem autenticação para serem abertos a partir do lançador</string>
+    <string name="secure_apps_sub_title">Indica que um aplicativo está protegido</string>
     <string name="secrure_apps_title">Entre o padrão de desbloqueio, PIN, senha ou impressão digital</string>
     <string name="search_secured">Protegido</string>
     <string name="default_value">Padrão</string>
@@ -134,12 +134,12 @@
     <string name="icons_customisation">Personalização de ícones</string>
     <string name="set_as_default_app">Definir como app padrão"</string>
     <string name="privacy_policy">Política de privacidade</string>
-    <string name="layout_editing_is_disabled">A edição de leiaute está desabilitado</string>
+    <string name="layout_editing_is_disabled">A edição de leiaute está desabilitada</string>
     <string name="components_opacity">Opacidade do fundo</string>
     <string name="launch">Abrir</string>
     <string name="share">Compartilhar</string>
     <string name="hidden_vault">Cofre escondido</string>
-    <string name="hidden_vault_desc">Esconde apps de Todos os apps</string>
+    <string name="hidden_vault_desc">Esconde apps de Todos os aplicativos</string>
     <string name="full_width_width_widgets_pref_title">Widgets de largura completa</string>
     <string name="components_notification">Habilitar notificações no resumo</string>
     <string name="market">Play Store</string>
@@ -150,18 +150,18 @@
     <string name="icon_shape_vessel">Vaso</string>
     <string name="icon_shape_mallow">Malva</string>
     <string name="icon_shape_rounder_hexagon">Hexágono arredondado</string>
-    <string name="amoled_mode">Usar tema perto AMOLED</string>
+    <string name="amoled_mode">Usar tema preto AMOLED</string>
     <string name="get_feed">Baixar o Feed de Notícias</string>
     <string name="get_feed_desc">À esquerda da tela inicial</string>
     <string name="wallpaper_scrolling">Permitir a rolagem do fundo de tela</string>
-    <string name="reset_app_icons_description">Isto irá redefinir todos os ícones de apps para seus padrões.</string>
+    <string name="reset_app_icons_description">Isto irá redefinir todos os ícones de aplicativos para seus padrões.</string>
     <string name="reset_app_icons_summary">Para o padrão.</string>
-    <string name="reset_app_icons_title">Redefinir ícones de apps personalizados</string>
+    <string name="reset_app_icons_title">Redefinir ícones de aplicativos personalizados</string>
     <string name="allow_two_lines_label">Permitir títulos em duas linhas</string>
-    <string name="allow_accent_hotseat">Permitir cor de acento na barra de pesquisa</string>
+    <string name="allow_accent_hotseat">Permitir cor de destaque na barra de pesquisa</string>
     <string name="allow_full_width_widget">Widget de largura completa</string>
     <string name="icon_shape_clover">Trevo</string>
-    <string name="crash">Algo deu errado … reinicializando o Ruthless Launcher.</string>
+    <string name="crash">Algo deu errado… reinicializando o Ruthless Launcher.</string>
     <string name="icon_masking">Habilitar o mascaramento de ícones</string>
     <string name="about_donate_new_desc">Usando Paypal ou UPI</string>
     <string name="welcome_info">"Obrigado por escolher o Ruthless Launcher.\n \n O Ruthless é uma aplicação completamente livre de propagandas, portanto nenhuma receita é gerada por ela. Se você gostar desta aplicação e quer atualizações regulares então contribua generosamente em seu desenvolvimento ao doar.\n\n- Shubby 😅"
@@ -173,21 +173,21 @@
     <string name="white">Neve</string>
     <string name="gray">Obscuro</string>
     <string name="default_search_icon">Ícone da barra de pesquisa</string>
-    <string name="custom_text_color">Cor do texto de Todos os apps</string>
+    <string name="custom_text_color">Cor do texto de Todos os aplicativos</string>
     <string name="assistant_icon_visisbility">Exibir o ícone do assistente</string>
     <string name="search_keywords">Pesquisar palavra-chave</string>
     <string name="add">Adicionar</string>
     <string name="add_hide_keyword">Adicionar nova</string>
-    <string name="swipe_hold_recent">Permitir o deslizar para cima + segurar para Apps recentes</string>
-    <string name="debugger_mode">Exibir o menu de relatório de falhas</string>
+    <string name="swipe_hold_recent">Permitir o deslizar para cima + segurar para Aplicativos recentes</string>
+    <string name="debugger_mode">Exibir o Menu de relatório de falhas</string>
     <string name="debugger_sum">Quando o lançador encontrar um erro</string>
     <string name="fade_animation">Transição de página de desvanecer</string>
     <string name="hosescreen_summary">Feed de notícias, margens e mais</string>
     <string name="hotseat_summary">Widgets de pesquisa, ícones e mais</string>
     <string name="allapps_summary">Opacidade do fundo, cor do texto e mais</string>
     <string name="edge_margin">Margem horizontal</string>
-    <string name="playstore">Usando a Playstore</string>
-    <string name="all_apps_lable">Exibir o título "Todos os apps"</string>
+    <string name="playstore">Usando a Play Store</string>
+    <string name="all_apps_lable">Exibir o título "Todos os aplicativos"</string>
     <string name="theme_auto_black">Sistema com perto</string>
     <string name="invisible_widget">Visibilidade de widget de tela vazia</string>
     <string name="search_provider_title">Provedor de pesquisa</string>
