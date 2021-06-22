@@ -100,7 +100,7 @@
     <string name="components_visibility_icon_label">显示应用名称</string>
 
 
-    <string name="backup_title">备份 &amp; 恢复</string>
+    <string name="backup_title">备份与恢复</string>
     <string name="perform_backup">备份</string>
     <string name="perform_restore">恢复</string>
     <string name="no_restore_file">
@@ -203,12 +203,12 @@
     <string name="rate_app">评价</string>
 
     <string name="icon_shape_pebble">鹅卵石</string>
-    <string name="icon_shape_tapered_rect">锥形</string>
+    <string name="icon_shape_tapered_rect">倒角矩形</string>
     <string name="icon_shape_vessel">Vessel</string>
-    <string name="icon_shape_mallow">Mallow</string>
+    <string name="icon_shape_mallow">锦葵</string>
     <string name="icon_shape_rounder_hexagon">圆角六边形</string>
     <string name="amoled_mode">启用A屏黑主题</string>
-    <string name="get_feed">获得 Google feed 连接程序</string>
+    <string name="get_feed">获得新闻 Feed</string>
     <string name="get_feed_desc">负一屏</string>
     <string name="wallpaper_scrolling">允许壁纸滚动</string>
 
@@ -223,13 +223,13 @@
     <string name="crash">应用异常退出，正在重启。</string>
     <string name="icon_masking">启用图标遮罩</string>
     <string name="about_donate_new_desc">通过 Paypal 或 UPI 进行捐赠</string>
-    <string name="welcome_info">"感谢您使用 Ruthless Launcher.\n \n 正如您所见，Ruthless 是一个没有任何广告的免费应用，所以不会从中获得任何收入。如果您喜欢此应用，欢迎通过捐赠的方式为后续开发提供贡献。 \n\n- Shubby 😅"
+    <string name="welcome_info">"Ruthless 是一个没有任何广告的免费应用，所以不会从中获得任何收入。如果您喜欢此应用，欢迎通过捐赠的方式为后续开发提供贡献。"
     </string>
-    <string name="error_msg">似乎 Ruthless 遇到了一个未知的错误，您愿意提供错误日志给开发者吗？
+    <string name="error_msg">糟糕，似乎 Ruthless 遇到了一个未知的错误，您愿意提供错误日志给开发者吗？
     </string>
     <string name="report">报告</string>
     <string name="white">雪白</string>
-    <string name="gray">阴暗</string>
+    <string name="gray">灰暗</string>
     <string name="default_search_icon">搜索工具图标</string>
     <string name="custom_text_color">应用列表名称颜色</string>
 
@@ -237,13 +237,13 @@
     <string name="search_keywords">搜索关键词</string>
     <string name="add">添加</string>
     <string name="add_hide_keyword">添加隐藏关键词</string>
-    <string name="swipe_hold_recent">允许最近任务界面上滑与长按</string>
+    <string name="swipe_hold_recent">允许上滑打开最近任务</string>
     <string name="debugger_mode">显示错误报告菜单</string>
     <string name="debugger_sum">当桌面遇到错误时</string>
 
     <string name="fade_animation">页面淡入淡出</string>
-    <string name="hosescreen_summary">主页面设置</string>
-    <string name="hotseat_summary">Dock 栏设置</string>
+    <string name="hosescreen_summary">Feed、边距等</string>
+    <string name="hotseat_summary">搜索微件、图标等</string>
     <string name="allapps_summary">背景不透明度，文本颜色等</string>
     <string name="edge_margin">水平边距</string>
     <string name="playstore">通过 Playstore</string>
@@ -268,6 +268,20 @@
 
 
 
+    <string name="error_message_title">错误</string>
 
+    <string name="profiles_add">添加</string>
+    <string name="action_activities">启动 activity</string>
+   
+    <string name="translate">翻译</string>
+    <string name="telegram">Telegram</string>
+    <string name="email">电子邮件</string>
+    <string name="style">样式</string>
+    <string name="style_sum">网格、图标包、主题色</string>
+    <string name="faq">常见问题</string>
+    <string name="faq_sum">功能介绍、教程</string>
+
+   
+    <string name="infinite_scrolling">启用循环翻页</string>
 
 </resources>
