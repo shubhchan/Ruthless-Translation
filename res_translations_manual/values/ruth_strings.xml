@@ -333,8 +333,7 @@
     <string name="disable_entry_authentication">Disable entry authentication</string>
     <string name="welcome">Welcome</string>
     <string name="rate_sum">On play store</string>
-    <string name="full_nav_bar">Show nav bar(Warning unstable)</string>
-    <string name="full_nav_bar_sum">Requires manual restart after navigation mode change</string>
+  
     <string name="apps_by_me_title">Apps by me</string>
     <string name="apps_by_me_sum">On play store</string>
 
