@@ -1,510 +1,349 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="reset_app_names_title">Benutzerdefinierte App-Namen zurücksetzen</string>
+    <string name="reset_app_names_description">Dies setzt die benutzerdefinierten Namen aller Apps auf ihren Standard zurück</string>
+
+    <string name="tap_to_edit_app_name">Tippen, um den App-Namen zu bearbeiten</string>
+    <string name="enter_new_app_name">Neuen App-Namen eingeben</string>
+
+    <!--RUTHLESS STRINGS-->
+
+    <string name="double_tap_to_lock_title">Doppeltippen zum Sperren</string>
+    <string name="double_tap_to_lock_summary">Auf dem Startbildschirm</string>
+    <string name="double_tap_to_lock_hint">Um Doppeltippen zum Sperren zu verwenden, benötigt Ruthless Launcher Zugriff auf
+		die Geräteverwaltung. Dies ist eine abgesicherte Sperre, d.h. das nächste Entsperren erfordert die Eingabe von PIN,
+		Muster oder Passwort, wenn gesetzt.
+	</string>
+    <string name="double_tap_to_lock_disable_warning">Wenn der Zugriff auf die Geräteverwaltung entzogen wird, kann
+		Doppeltippen zum Sperren auf dem Startbildschirm nicht mehr verwendet werden.
+	</string>
+    <string name="state_loading">Lädt</string>
+
+    <!-- GESTURES-->
+
+    <string name="action_app_drawer">App-Drawer öffnen</string>
+    <string name="action_app_search">App-Suche öffnen</string>
+    <string name="action_canceled">Aktion vom Benutzer abgebrochen</string>
+    <string name="action_default_screen">Popup-Menü öffnen</string>
+    <string name="action_nothing">Nichts</string>
+    <string name="action_notifications">Benachrichtigungsleiste öffnen</string>
+    <string name="action_notifications_with_settings">Schnelleinstellungen öffnen</string>
+    <string name="action_overview">Widget-Auswahl öffnen</string>
+    <string name="action_quick_search">Schnellsuche</string>
+    <string name="action_settings">Geräte-Einstellungen</string>
+    <string name="action_voice_search">Sprachsuche</string>
+    <string name="action_screen_method_admin">Mit Geräteverwaltung sperren</string>
+    <string name="action_lock_screen_timeout">Mit Display automatisch ausschalten sperren</string>
+    <string name="action_screen_method_root">Mit Root sperren</string>
+    <string name="action_assistant">Assistenten öffnen</string>
+    <string name="action_google_now">Google Now</string>
+    <string name="action_lock_accessibility">Display mit Bedienungshilfen ausschalten</string>
+	<string name="action_launch_app">App starten</string>
+
+    <string name="double_tap_to_lock_no_root">Root-Zugriff erteilen</string>
+    <string name="recent_task_option_kill_app">Beenden erzwingen</string>
+    <string name="action_swipe_down_two_fingers">Mit zwei Fingern nach unten wischen</string>
+    <string name="action_swipe_down_one_fingers">Mit einem Finger nach unten wischen</string>
+    <string name="home_action_title">Home-Button</string>
+    <string name="double_tap">Doppeltippen</string>
+    <string name="long_tap">Gedrückt halten</string>
+    <string name="one_finger_up">Mit einem Finger nach oben wischen</string>
+    <string name="home_button">Home-Button</string>
+    <string name="two_finger_up">Mit zwei Fingern nach oben wischen</string>
+    <string name="two_finger_up_hotseat">Mit zwei Fingern vom Dock nach oben wischen</string>
+    <string name="one_finger_up_hotseat">Mit einem Finger vom Dock nach oben wischen</string>
+    <string name="category_gestures">Gesten</string>
+    <string name="category_gestures_summary">Wischen, gedrückt halten usw.</string>
+
+    <string name="recents_app_killed">Beenden erzwungen</string>
+
+    <string name="full_screen_mode">Statusleiste anzeigen</string>
+
+    <!--ICON SIZES-->
+    <string name="icon_text_size_title">Größe der Icon-Beschriftung</string>
+    <string name="icon_size_title">Icon-Größe</string>
+
+    <!-- Edit workspace -->
+    <string name="settings_edit_allow_title">Bearbeiten des Startbildschirms erlauben</string>
+
+    <string name="theme_system">System</string>
+
+    <string name="components_title">Zusätzliche Einstellungen</string>
+    <string name="components_sum">Deaktivieren eines Eintrags blendet die Komponente aus oder beschränkt ihre Funktion</string>
+
+    <string name="component_dock_bar_visibility">Suchleiste in Dock anzeigen</string>
+    <string name="component_dock_icons_visibility">Dock anzeigen</string>
+
+    <string name="component_scroll_position">Scroll-Position merken</string>
 
-    <string name="reset_app_names_title" >
-        Benutzerdefinierte App-Namen zurücksetzen
-    </string>
-
-    <string name="reset_app_names_description" >
-        Dies setzt die benutzerdefinierten Namen aller Apps auf ihren Standard zurück
-    </string>
-
-    <string name="tap_to_edit_app_name" >
-        Tippen, um den App-Namen zu bearbeiten
-    </string>
-
-    <string name="enter_new_app_name" >
-        Neuen App-Namen eingeben
-    </string>
-
-    <string name="double_tap_to_lock_title" >
-        Doppeltippen zum Sperren
-    </string>
-
-    <string name="double_tap_to_lock_summary">
-        Auf dem Startbildschirm
-    </string>
-
-    <string name="double_tap_to_lock_hint" >
-        Um Doppeltippen zum Sperren zu verwenden, benötigt Ruthless Launcher Zugriff auf die Geräteverwaltung. Dies ist eine abgesicherte Sperre, d.h. das nächste Entsperren erfordert die Eingabe von PIN, Muster oder Passwort, wenn gesetzt.
-    </string>
-
-    <string name="double_tap_to_lock_disable_warning" >
-        Wenn der Zugriff auf die Geräteverwaltung entzogen wird, kann Doppeltippen zum Sperren auf dem Startbildschirm nicht mehr verwendet werden.
-    </string>
-
-    <string name="state_loading" >
-        Lädt
-    </string>
-
-    <string name="action_app_drawer" >
-        App-Drawer öffnen
-    </string>
-
-    <string name="action_app_search" >
-        App-Suche öffnen
-    </string>
-
-    <string name="action_canceled" >
-        Aktion vom Benutzer abgebrochen
-    </string>
-
-    <string name="action_default_screen" >
-        Popup-Menü öffnen
-    </string>
-
-    <string name="action_nothing" >
-        Nichts
-    </string>
-
-    <string name="action_notifications" >
-        Benachrichtigungsleiste öffnen
-    </string>
-
-    <string name="action_notifications_with_settings" >
-        Schnelleinstellungen öffnen
-    </string>
-
-    <string name="action_overview" >
-        Widget-Auswahl öffnen
-    </string>
-
-    <string name="action_quick_search" >
-        Schnellsuche
-    </string>
-
-    <string name="action_settings" >
-        Geräte-Einstellungen
-    </string>
-
-    <string name="action_voice_search" >
-        Sprachsuche
-    </string>
-
-    <string name="action_screen_method_admin" >
-        Mit Geräteverwaltung sperren
-    </string>
-
-    <string name="action_lock_screen_timeout" >
-        Mit Display automatisch ausschalten sperren
-    </string>
-
-    <string name="action_screen_method_root" >
-        Mit Root sperren
-    </string>
-
-    <string name="action_assistant" >
-        Assistenten öffnen
-    </string>
-
-    <string name="action_google_now" >
-        Google Now
-    </string>
-
-    <string name="action_lock_accessibility">
-        Display mit Bedienungshilfen ausschalten
-    </string>
-
-    <string name="double_tap_to_lock_no_root">
-        Root-Zugriff erteilen
-    </string>
-
-    <string name="recent_task_option_kill_app" >
-        Beenden erzwingen
-    </string>
-
-    <string name="action_swipe_down_two_fingers">
-        Mit zwei Fingern nach unten wischen
-    </string>
-
-    <string name="action_swipe_down_one_fingers">
-        Mit einem Finger nach unten wischen
-    </string>
-
-    <string name="home_action_title">
-        Home-Button
-    </string>
-
-    <string name="double_tap" >
-        Doppeltippen
-    </string>
-
-    <string name="long_tap">
-        Gedrückt halten
-    </string>
-
-    <string name="one_finger_up">
-        Mit einem Finger nach oben wischen
-    </string>
-
-    <string name="home_button" >
-        Home-Button
-    </string>
-
-    <string name="two_finger_up" >
-        Mit zwei Fingern nach oben wischen
-    </string>
-
-    <string name="two_finger_up_hotseat" >
-        Mit zwei Fingern vom Dock nach oben wischen
-    </string>
-
-    <string name="one_finger_up_hotseat" >
-        Mit einem Finger vom Dock nach oben wischen
-    </string>
-
-    <string name="category_gestures">
-        Gesten
-    </string>
-
-    <string name="category_gestures_summary">
-        Wischen, gedrückt halten usw.
-    </string>
-
-    <string name="recents_app_killed" >
-        Beenden erzwungen
-    </string>
-
-    <string name="full_screen_mode">
-        Statusleiste anzeigen
-    </string>
-
-    <string name="icon_text_size_title">
-        Größe der Icon-Beschriftung
-    </string>
-
-    <string name="icon_size_title">
-        Icon-Größe
-    </string>
-
-    <string name="settings_edit_allow_title">
-        Bearbeiten des Startbildschirms erlauben
-    </string>
-
-    <string name="theme_system">
-        System
-    </string>
-
-    <string name="components_title">
-        Sichtbarkeit
-    </string>
-
-    <string name="components_summary">
-        Anzeigen &amp; Verbergen von Launcher-Komponenten
-    </string>
-
-    <string name="components_sum">
-        Deaktivieren eines Eintrags blendet die Komponente aus oder beschränkt ihre Funktion
-    </string>
-
-    <string name="component_dock_bar_visibility">
-       Suchleiste in Dock anzeigen
-    </string>
-
-    <string name="component_dock_icons_visibility">
-        Dock anzeigen
-    </string>
-
-    <string name="component_scroll_position">
-        Scroll-Position merken
-    </string>
-
-    <string name="category_grids">
-        Raster-Anpassung
-    </string>
-
-    <string name="icon_size_switch">
-        Icongröße-Menü aktivieren
-    </string>
-
-    <string name="icon_size_menu">
-        Icongröße-Menü
-    </string>
-
-    <string name="Icon_menu_summary">
-        Standardwert ist 100%, dpi-abhängig
-    </string>
-
-    <string name="grid_menu">
-        Raster-Menü
-    </string>
-
-    <string name="grid_menu_switch">
-        Raster-Menü aktivieren
-    </string>
-
-    <string name="grid">
-        Raster
-    </string>
-
-    <string name="grid_menu_summary">
-        Standardwert sind 5 Icons pro Achse
-    </string>
-
-    <string name="dialog_summary">
-        Zum Abbrechen neben das Dialogfeld tippen
-    </string>
-
-    <string name="homescreen_default">
-        Startbildschirm
-    </string>
-
-    <string name="allapps_default">
-        App-Übersicht
-    </string>
-
-    <string name="icon_label_default">
-        Icon-Beschriftung
-    </string>
-
-    <string name="rows_default">
-        Zeilen
-    </string>
-
-    <string name="allapps_columns_default">
-        Spalten in App-Übersicht
-    </string>
-
-    <string name="hotseat_default">
-        Dock
-    </string>
-
-    <string name="columns_default">
-        Spalten
-    </string>
-
-    <string name="components_visibility_icon_label">
-        Icon-Beschriftung anzeigen
-    </string>
-
-    <string name="backup_title">
-        Sichern &amp; Wiederherstellen
-    </string>
-
-    <string name="perform_backup">
-        Sichern
-    </string>
-
-    <string name="perform_restore">
-        Wiederherstellen
-    </string>
-
-    <string name="no_restore_file"><font color = "#FF939393">
-        Wiederherstellen
-    </font></string>
-
-    <string name="override_backup">
-        Sicherung überschreiben
-    </string>
-
-    <string name="settings_backup_sum">
-        von einem der vier Speicherplätze
-    </string>
-
-    <string name="settings_backup_subtitle">
-        Sicherungen werden hier gespeichert, zum Auswählen tippen
-    </string>
 
-    <string name="restarting">
-        Neustart
-    </string>
-
-    <string name="visuals">
-        Aussehen
-    </string>
-
-    <string name="Dockbar">
-        Suchleiste
-    </string>
-
-    <string name="icons">
-        Icons
-    </string>
-
-    <string name="reset">
-        Zurücksetzen
-    </string>
-
-    <string name="export_error">
-        Sichern fehlgeschlagen
-    </string>
-
-    <string name="icon_import_success">
-        Icon-Datenbank wiederhergestellt
-    </string>
-
-    <string name="layout_import_success">
-        Layout wiederhergestellt
-    </string>
+    <string name="category_grids">Raster-Anpassung</string>
 
-    <string name="import_error">
-        Wiederherstellen fehlgeschlagen
-    </string>
-
-    <string name="settings_export_success">
-        Sichern erfolgreich
-    </string>
+    <string name="icon_size_switch">Icongröße-Menü aktivieren</string>
+    <string name="icon_size_menu">Icongröße-Menü</string>
+    <string name="Icon_menu_summary">Standardwert ist 100%, dpi-abhängig</string>
 
-    <string name="settings_import_success">
-        Einstellungen wiederhergestellt
-    </string>
+    <string name="grid_menu">Raster-Menü</string>
+    <string name="grid_menu_switch">Raster-Menü aktivieren</string>
+    <string name="grid">Raster</string>
+    <string name="grid_menu_summary">Standardwert sind 5 Icons pro Achse</string>
+    <string name="dialog_summary">Zum Abbrechen neben das Dialogfeld tippen</string>
 
-    <string name="click">
-        Zum Sichern tippen
-    </string>
+    <string name="homescreen_default">Startbildschirm</string>
+    <string name="allapps_default">App-Übersicht</string>
+    <string name="icon_label_default">Icon-Beschriftung</string>
+    <string name="rows_default">Zeilen</string>
+    <string name="allapps_columns_default">Spalten in App-Übersicht</string>
+	<string name="allapps_row_default">Reihen in App-Übersicht</string>
+    <string name="hotseat_default">Dock</string>
+    <string name="columns_default">Spalten</string>
 
-    <string name="click2">
-        Zum Wiederherstellen tippen
-    </string>
+    <string name="components_visibility_icon_label">Icon-Beschriftung anzeigen</string>
 
-    <string name="state_applying">
-        Werte angewandt
-    </string>
 
-    <string name="secure_apps_manager_name">
-        App-Tresor
-    </string>
+    <string name="backup_title">Sichern &amp; Wiederherstellen</string>
+    <string name="perform_backup">Sichern</string>
+    <string name="perform_restore">Wiederherstellen</string>
+    <string name="no_restore_file">
+		<font color="#FF939393">Wiederherstellen</font>
+	</string>
+    <string name="override_backup">Sicherung überschreiben</string>
+    <string name="settings_backup_sum">Sichern und Wiederherstellen der Einstellungen</string>
 
-    <string name="secure_apps_dialog_title">
-        Apps im Tresor können nur nach Autorisierung vom Launcher geöffnet werden
-    </string>
+    <string name="settings_backup_subtitle">Hier klicken, um den Speicherort der Datei anzuzeigen. Lang klicken um zu durchsuchen.</string>
+    <string name="restarting">Neustart</string>
 
-    <string name="secure_apps_auth_manager">
-        Entsperren, um Apps im Tresor zu verwalten
-    </string>
+    <string name="visuals">Aussehen</string>
+    <string name="Dockbar">Suchleiste</string>
 
-    <string name="secure_apps_auth_open_app">
-        Zum Starten %1$s
-    </string>
 
-    <string name="secure_apps_loading">
-        "Lädt"
-    </string>
 
-    <string name="secure_apps_no_lock_error">
-        Bitte eine Displaysperre einrichten, um den App-Zugriff zu beschränken
-    </string>
+    <string name="icons">Icons</string>
+    <string name="reset">Zurücksetzen</string>
 
-    <string name="secure_apps_help">
-        Hilfe
-    </string>
 
-    <string name="secure_apps_info_protected">
-        Gesicherte Apps können nur nach Autorisierung vom Launcher geöffnet werden
-    </string>
+    <string name="export_error">Sichern fehlgeschlagen</string>
+    <string name="icon_import_success">Icon-Datenbank wiederhergestellt</string>
+    <string name="layout_import_success">Wiederhergestellt</string>
+    <string name="import_error">Wiederherstellen fehlgeschlagen</string>
+    <string name="settings_export_success">Sichern erfolgreich</string>
+    <string name="settings_import_success">Einstellungen wiederhergestellt</string>
+	<string name="confirmation">Bestätigung</string>
+    <string name="confirmation_sum">Klicken Sie auf ok, um den Wiederherstellungsprozess zu starten. Starten Sie die App manuell neu, falls die Änderungen nicht übernommen werden.</string>
 
-    <string name="secrure_apps_title">
-        PIN, Muster, Passwort oder Fingerabdruck eingeben
-    </string>
 
-    <string name="search_secured">
-        Gesicherte
-    </string>
 
-    <string name="default_value">
-        Standard
-    </string>
+    <string name="state_applying">Werte übernommen</string>
 
-    <string name="set_value">
-        Gesetzt
-    </string>
+    <!-- Trust apps -->
+    <string name="secure_apps_manager_name">App-Tresor</string>
+	<string name="secure_apps_manager_sum">Authentifizierung des App-Starts durch Launcher</string>
+    <string name="secure_apps_dialog_title">Apps im Tresor können nur nach Autorisierung vom Launcher geöffnet werden</string>
+    <string name="secure_apps_auth_manager">Entsperren, um Apps im Tresor zu verwalten</string>
+    <string name="secure_apps_auth_open_app">Zum Starten %1$s</string>
+    <string name="secure_apps_loading">"Lädt "</string>
+    <string name="secure_apps_no_lock_error">Bitte eine Displaysperre einrichten, um den App-Zugriff zu beschränken</string>
+    <string name="secure_apps_help">Hilfe</string>
+    <string name="secure_apps_info_protected">Gesicherte Apps können nur nach Autorisierung vom Launcher geöffnet werden
+	</string>
+	<string name="secure_apps_sub_title">Zeigt an, dass die Anwendung gesichert ist</string>
 
-    <string name="slide_up">
-        Hochschieben
-    </string>
 
-    <string name="blink">
-        Aufblitzen
-    </string>
+    <string name="secrure_apps_title">PIN, Muster, Passwort oder Fingerabdruck eingeben</string>
+	
+	
 
-    <string name="fade">
-        Einblenden
-    </string>
+    <string name="search_secured">Gesichert</string>
 
-    <string name="zoom">
-        Zoomen
-    </string>
+    <string name="default_value">Standard</string>
+    <string name="set_value">Gesetzt</string>
 
-    <string name="fly_in">
-        Hereinschweben
-    </string>
 
-    <string name="fall_down">
-        Herunterfallen
-    </string>
+    <string name="slide_up">Hochschieben</string>
 
-    <string name="app_open_animation">
-        Animation
-    </string>
+    <string name="blink">Aufblitzen</string>
+    <string name="fade">Einblenden</string>
+    <string name="zoom">Zoomen</string>
+    <string name="fly_in">Hereinschweben</string>
+    <string name="fall_down">Herunterfallen</string>
+    <string name="app_open_animation">Animation</string>
 
-    <string name="gestures_sum">
-        Die Ausführung von Sperrgesten erfordert die Erteilung entsprechender Berechtigungen durch den Nutzer.
+    <string name="gestures_sum">Die Ausführung von Sperrgesten erfordert die Erteilung entsprechender Berechtigungen durch
+		den Nutzer.
     </string>
 
-    <string name="location_help_1">
-        "Einen der vier"
-    </string>
+    <string name="location_help_1">"Einen der vier"</string>
+    <string name="location_help_2">"Speicherplätze wählen"</string>
 
-    <string name="location_help_2">
-        "Speicherplätze wählen"
-    </string>
 
-    <string name="applying_icon">
-        Wende Icon an…
-    </string>
 
-    <string name="available_icon_packs">
-        Verfügbare Icon-Pakete
-    </string>
 
-    <string name="translator_info">
-        Übersetzung
-    </string>
+    <string name="available_icon_packs">Verfügbare Icon-Pakete</string>
 
-    <string name="misc">
-        Verschiedenes
-    </string>
+    <string name="translator_info">Übersetzung</string>
 
-    <string name="icons_customisation">
-        Icon-Anpassung
-    </string>
+    <string name="misc">Verschiedenes</string>
+    <string name="icons_customisation">Icon-Anpassung</string>
+    <string name="set_as_default_app">Als Standard-App setzen</string>
+    <string name="privacy_policy">Datenschutz-Bestimmungen</string>
 
-    <string name="set_as_default_app">
-        Als Standard-App setzen
-    </string>
 
-    <string name="privacy_policy">
-        Datenschutz-Bestimmungen
-    </string>
+    <string name="layout_editing_is_disabled">Startbildschirm-Anpassung ist deaktiviert</string>
 
-    <string name="layout_editing_is_disabled">
-        Startbildschirm-Anpassung ist deaktiviert
-    </string>
-    <string name="components_opacity">Hintergrund-Deckkraft der App-Übersicht</string>
+    <string name="components_opacity">Hintergrund-Transparenz</string>
     <string name="launch">Starten</string>
 
     <string name="share">Teilen</string>
-
-    <string name="hidden_vault">Apps ausblenden</string>
-    <string name= "hidden_vault_desc">Apps aus der App-Übersicht ausblenden</string>
+	
 
     <string name="full_width_width_widgets_pref_title">Widgets auf Bildschirmbreite</string>
 
+	<string name="components_notification">Benachrichtigung auf einen Blick aktivieren</string>
     <string name="market">App-Store</string>
+	
+	<string name="component_page_indicator">Seiten-Indikator anzeigen</string>
+    <string name="rate_app">Diese App bewerten</string>
 
     <string name="icon_shape_pebble">Kiesel</string>
     <string name="icon_shape_tapered_rect">Abgeschrägtes Rechteck</string>
     <string name="icon_shape_vessel">Gefäß</string>
+	<string name="icon_shape_mallow">Malve</string>
+    <string name="icon_shape_rounder_hexagon">Hexagon</string>
     <string name="amoled_mode">Schwarzes AMOLED-Thema verwenden</string>
-    <string name="device_theme_black">Schwarz</string>
-
-    <string name="components_notification">At-a-Glance-Benachrichtigungen aktivieren</string>
-
-
-    <string name="component_page_indicator">Seiten-Indikator anzeigen</string>
-
-
-    <string name="get_feed">Get News feed</string>
+    <string name="get_feed">Nachrichtenfeed abrufen</string>
     <string name="get_feed_desc">Links vom Startbildschirm</string>
     <string name="wallpaper_scrolling">Scrollen des Hintergrund-Bildes erlauben</string>
+	
+	<string name="reset_app_icons_description">Dadurch werden die App-Drawer-Symbole auf ihre Systemvorgaben zurückgesetzt.</string>
+    <string name="reset_app_icons_summary">Zum System-Standard</string>
+    <string name="reset_app_icons_title">Benutzerdefinierte App-Symbole zurücksetzen</string>
+
+    <string name="allow_two_lines_label">Erlaube zweizeilige Beschriftung</string>
+    <string name="allow_accent_hotseat">Erlaube Akzent in Suchleistensymbolen</string>
+    <string name="allow_full_width_widget">Widget auf Bildschirmbreite</string>
+    <string name="icon_shape_clover">Klee</string>
+    <string name="crash">Etwas ist schief gelaufen ... Starte Ruthless Launcher neu.</string>
+    <string name="icon_masking">Icon-Umrandung einschalten</string>
+    <string name="about_donate_new_desc">Mit Paypal oder UPI</string>
+    <string name="welcome_info">Ruthless ist eine völlig kostenlose Anwendung ohne Werbung, so dass keine Einnahmen damit erzielt werden.
+        Wenn Ihnen diese Anwendung gefällt und Sie regelmäßige Aktualisierungen wünschen, tragen Sie bitte durch eine Spende zu ihrer Entwicklung bei.
+    </string>
+    <string name="error_msg">Ach, Mist. Anscheinend ist Ruthless ein unbehandelter Fehler unterlaufen. Willst du das dem Entwickler
+		melden?
+    </string>
+    <string name="report">Report</string>
+    <string name="white">Schneefall</string>
+    <string name="gray">Dunkelheit</string>
+    <string name="default_search_icon">Suchleistensymbol</string>
+    <string name="custom_text_color">Textfarbe der App-Übersicht</string>
+
+    <string name="assistant_icon_visisbility">Assistenten-Icon anzeigen</string>
+    <string name="search_keywords">Versteckter Suchbegriff</string>
+    <string name="add_hide_keyword">Neues hinzufügen</string>
+    <string name="swipe_hold_recent">Hoch wischen und halten für letzte Apps erlauben.</string>
+    <string name="debugger_mode">Menü Fehlerbericht anzeigen</string>
+    <string name="debugger_sum">Wenn der Launcher auf einen Fehler stößt</string>
+
+    <string name="fade_animation">Seitenübergang überblenden</string>
+    <string name="hosescreen_summary">Nachrichtenfeed, Ränder, und mehr</string>
+    <string name="hotseat_summary">Such-Widget, Icons und mehr</string>
+    <string name="allapps_summary">Hintergrund-Transparenz, Textfarbe und mehr</string>
+    <string name="edge_margin">Horizontaler Rand</string>
+    <string name="playstore">Playstore verwenden</string>
+    <string name="all_apps_lable">" ''Alle apps'' " Titel anzeigen</string>
+    <string name="theme_auto_black">System mit schwarz</string>
+    <string name="invisible_widget">Sichtbarkeit des Widgets Leerer Bildschirm</string>
+
+
+
+    <string name="search_provider_title">Search provider</string>
+    <string name="search_provider_google">Google web</string>
+    <string name="search_provider_bing">Bing</string>
+    <string name="search_provider_duckduckgo">DuckDuckGo</string>
+    <string name="search_provider_yahoo">Yahoo!</string>
+    <string name="search_provider_yandex">Yandex</string>
+    <string name="search_provider_qwant">Qwant</string>
+    <string name="search_provider_qwant_lite">Qwant Lite</string>
+    <string name="search_provider_startpage">StartPage</string>
+    <string name="search_provider_ecosia">Ecosia</string>
+    <string name="search_provider_baidu">Baidu</string>
+    <string name="search_provider_naver">Naver</string>
+
+
+
+    <string name="error_message_title">Fehler</string>
+
+    <!-- App picker -->
+    <string name="profile_applist_title">Apps</string>
+    <string name="profile_choose_app">App auswählen</string>
+    <string name="profiles_add">Hinzufügen</string>
+    <string name="action_activities">Aktivität starten</string>
+    <string name="custom_action">Benutzerdefiniert</string>
+    <string name="select_custom_app_title">Benutzerdefinierte Anwendung auswählen</string>
+    <string name="select_custom_activity_title">Benutzerdefinierte Aktivität auswählen</string>
+    <string name="no_last_app">Keine letzte Anwendung gefunden</string>
+    <string name="translate">Übersetze</string>
+    <string name="telegram">Telegram</string>
+    <string name="email">Email</string>
+    <string name="style">Styles</string>
+    <string name="style_sum">Raster, Icon Pack, Akzente und mehr</string>
+    <string name="faq">Häufig gestellte Fragen</string>
+    <string name="faq_sum">Funktionen, Anleitungen, etc.</string>
+
+    <string name="smart_folder_title">Intelligenter Ordner</string>
+    <string name="smart_folder_summary_one">Wischen - erste App starten \nTippen - Ordner öffnen</string>
+    <string name="smart_folder_summart_two">Wischen - Ordner öffnen \nTippen - erste App starten</string>
+    <string name="infinite_scrolling">Unendliches Scrollen aktivieren</string>
+
+    <string name="dock_height">Dock Höhe</string>
+    <string name="folder_child_label">Beschriftung im Ordner anzeigen</string>
+
+    <string name="pack_name">Paketname</string>
+    <string name="copy_pack_name">In die Zwischenablage kopiert</string>
+    <string name="icon_color_extraction">Farbauszug aus Icon</string>
+    <string name="extractor_white">Weiß</string>
+    <string name="extractor_dark">Hauptfarbe des Icons, dunkel</string>
+    <string name="extractor_light">Hauptfarbe des Icons, hell</string>
+    <string name="extractor_exact">Hauptfarbe des Icons</string>
+    <string name="two_row_dock">Erlaube zweizeiliges Dock</string>
+
+    <string name="hide_app_drawer">Ausblenden der App-Übersicht nach dem Start einer App</string>
+    <string name="show_fast_scroll">Bildlaufleiste anzeigen</string>
+
+    <!-- Categories -->
+    <string name="pref_category">App-Kategorie</string>
+    <string name="pref_category_sum">Apps in der App-Übersicht kategorisieren</string>
+    <string name="category_favorites">Favoriten</string>
+    <string name="category_media">Medien</string>
+    <string name="category_social">Sozial</string>
+    <string name="category_utility">Dienstprogramm</string>
+    <string name="category_travel">Reisen</string>
+    <string name="category_ignored">Ignoriert</string>
+
+
+    <string name="accented">"Hervorgehobenes Icon"</string>
+    <string name="monochrome_">"Monochromes Icon"</string>
+    <string name="accented_gppgle">"Hervorgehobenes Google Icon"</string>
+    <string name="monochrome_google">"Monochromes Google Icon"</string>
+    <string name="colored">"Farbiges Google-Icon"</string>
+    <string name="invisible">"Unsichtbares Icon"</string>
+
+    <string name="disable_default_keyword">Standard-Schlüsselwörter deaktivieren</string>
+    <string name="disable_overscroll_gesture">Overscroll-Geste deaktivieren</string>
+    <string name="disable_entry_authentication">Eingabeauthentifizierung deaktivieren</string>
+    <string name="welcome">Willkommen</string>
+    <string name="rate_sum">im Play Store</string>
+  
+    <string name="apps_by_me_title">Apps von mir</string>
+    <string name="apps_by_me_sum">im Play Store</string>
+
+    <string name="transparent_navigation_bar_title">Transparente Navigationsleiste einschalten</string>
+    <string name="category_mode">Kategorie Abkürzung</string>
+    <string name="category_mode_1">Innerhalb der Suchleiste</string>
+    <string name="category_mode_2">Unsichtbar + innerhalb der Suchleiste</string>
+    <string name="category_mode_3">Unten Mitte</string>
+    <string name="category_mode_4">Unten rechts</string>
+
+
+    <string name="category_info">Wische nach rechts über die Kategoriefelder oben, um die Kategorie zu ändern. Die Kategorie "Versteckt" befindet sich an vorletzter Stelle und an letzter Stelle steht die Kategorie Ignorierte Apps (Apps ohne Kategorie).</string>
 </resources>
