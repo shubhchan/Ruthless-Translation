@@ -70,7 +70,7 @@
     <string name="components_sum">Вимкнення пункту сховає компонент або вимкне його функціональність</string>
 
     <string name="component_dock_bar_visibility">Показати панель пошуку</string>
-    <string name="component_dock_icons_visibility">Показати іконки док-панеі</string>
+    <string name="component_dock_icons_visibility">Показати іконки док-панелі</string>
 
     <string name="component_scroll_position">Пам'ятати позицію прокрутки</string>
 
@@ -108,153 +108,151 @@
     <string name="override_backup">Перезаписати резервну копію</string>
     <string name="settings_backup_sum">Зберегти або відновити ваші налаштування.</string>
 
-    <string name="settings_backup_subtitle">Click here for file location, long click to browse.</string>
-    <string name="restarting">Restart</string>
+    <string name="settings_backup_subtitle">Натисніть щоб вибрати розташування файлу, натисніть і утримуйте щоб відкрити провідник.</string>
+    <string name="restarting">Перезапуск</string>
 
-    <string name="visuals">Visuals</string>
-    <string name="Dockbar">Searchbar</string>
-
-
-
-    <string name="icons">Icons</string>
-    <string name="reset">Reset</string>
-
-
-    <string name="export_error">Couldn\'t backup</string>
-    <string name="icon_import_success">Icons database restored</string>
-    <string name="layout_import_success">Restored</string>
-    <string name="import_error">Couldn\'t restore</string>
-    <string name="settings_export_success">Backup successful</string>
-    <string name="settings_import_success">Preference restored</string>
-    <string name="confirmation">Confirmation</string>
-    <string name="confirmation_sum">Press ok to start restoration process, restart the app manually if changes are not applied.</string>
+    <string name="visuals">Візуальні</string>
+    <string name="Dockbar">Панель пошуку</string>
 
 
 
-    <string name="state_applying">Values applied</string>
+    <string name="icons">Піктограми</string>
+    <string name="reset">Скинути</string>
+
+
+    <string name="export_error">Неможливо зберегти</string>
+    <string name="icon_import_success">Базу піктограм відновлено</string>
+    <string name="layout_import_success">Відновлено</string>
+    <string name="import_error">Неможливо відновити</string>
+    <string name="settings_export_success">Резервне копіювання успішне</string>
+    <string name="settings_import_success">Налаштування відновлено</string>
+    <string name="confirmation">Підтвердження</string>
+    <string name="confirmation_sum">Натисніть ОК, щоб почати відновлення, перезапустіть застосунок вручну, якщо зміни не застосуються.</string>
+
+
+
+    <string name="state_applying">Значення застосовано</string>
 
     <!-- Trust apps -->
-    <string name="secure_apps_manager_name">Secured vault</string>
-    <string name="secure_apps_manager_sum">Authenticate app launch through Launcher</string>
-    <string name="secure_apps_dialog_title">Secured apps require authentication to be opened from the launcher</string>
-    <string name="secure_apps_auth_manager">Unlock to manage the secured apps in Secured vault</string>
-    <string name="secure_apps_auth_open_app">To Launch %1$s</string>
-    <string name="secure_apps_loading">"Loading "</string>
-    <string name="secure_apps_no_lock_error">Please set up a secure lock screen to restrict app access</string>
-    <string name="secure_apps_help">Help</string>
-    <string name="secure_apps_info_protected">Secured apps require authentication to be opened from the launcher
+    <string name="secure_apps_manager_name">Захищене сховище</string>
+    <string name="secure_apps_manager_sum">Автентифікація для запуску застосунку через Лаунчер</string>
+    <string name="secure_apps_dialog_title">Захищені застосунки поребують Автентифікації для запуску</string>
+    <string name="secure_apps_auth_manager">Розблокуйте, щоб керувати застосунками в Захищеному сховищі</string>
+    <string name="secure_apps_auth_open_app">Щоб запустити %1$s</string>
+    <string name="secure_apps_loading">"Завантаження "</string>
+    <string name="secure_apps_no_lock_error">Налаштуйте захищений екран блокуванн щоб обмежити доступ до застосунків</string>
+    <string name="secure_apps_help">Допомога</string>
+    <string name="secure_apps_info_protected">Захищені застосунки поребують Автентифікації для запуску
     </string>
-    <string name="secure_apps_sub_title">Indicates app is secured</string>
+    <string name="secure_apps_sub_title">Показує чи застосунок захищено</string>
 
 
-    <string name="secrure_apps_title">Enter phone screen lock pattern, PIN, password or fingerprint</string>
+    <string name="secrure_apps_title">Введіть ключ екрану блокування, PIN, пароль або відбиток пальця</string>
 
 
 
-    <string name="search_secured">Secured</string>
+    <string name="search_secured">Захищено</string>
 
-    <string name="default_value">Default</string>
-    <string name="set_value">Set</string>
+    <string name="default_value">Стандартні</string>
+    <string name="set_value">Встановити</string>
 
 
-    <string name="slide_up">Slide up</string>
+    <string name="slide_up">Проведіть вгору</string>
 
-    <string name="blink">Blink</string>
-    <string name="fade">Fade</string>
-    <string name="zoom">Zoom</string>
-    <string name="fly_in">Fly in</string>
-    <string name="fall_down">Fall down</string>
-    <string name="app_open_animation">Animation</string>
+    <string name="blink">Блимання</string>
+    <string name="fade">Згасання</string>
+    <string name="zoom">Збільшення</string>
+    <string name="fly_in">Підліт</string>
+    <string name="fall_down">Падіння</string>
+    <string name="app_open_animation">Анімація</string>
 
-    <string name="gestures_sum">Lock gestures require their respective permissions by the user to perform their
-        actions.
+    <string name="gestures_sum">Жести блокування потребують відповідних прав кристувача, щоб працювати.
     </string>
 
-    <string name="location_help_1">"select a location"</string>
-    <string name="location_help_2">"from above four"</string>
+    <string name="location_help_1">"виберіть розташування"</string>
+    <string name="location_help_2">"з верхніх чотирьох"</string>
 
 
 
 
-    <string name="available_icon_packs">Available icon packs</string>
+    <string name="available_icon_packs">Доступні пакети піктограм</string>
 
-    <string name="translator_info">Translation</string>
+    <string name="translator_info">Переклад</string>
 
-    <string name="misc">Miscellaneous</string>
-    <string name="icons_customisation">Icon customisation</string>
-    <string name="set_as_default_app">Set as default app"</string>
-    <string name="privacy_policy">Privacy policy</string>
-
-
-    <string name="layout_editing_is_disabled">Desktop editing is disabled</string>
-
-    <string name="components_opacity">Background opacity</string>
-    <string name="launch">Launch</string>
-
-    <string name="share">Share</string>
+    <string name="misc">Різне</string>
+    <string name="icons_customisation">Кастомізація піктограм</string>
+    <string name="set_as_default_app">Встановити як головний застосунок"</string>
+    <string name="privacy_policy">Політика конфіденційності</string>
 
 
-    <string name="full_width_width_widgets_pref_title">Full width widgets</string>
+    <string name="layout_editing_is_disabled">Редагування робочого столу дозволено</string>
 
-    <string name="components_notification">Enable notification in at a glance</string>
-    <string name="market">Market</string>
+    <string name="components_opacity">Прозорість фону</string>
+    <string name="launch">Запустити</string>
 
-    <string name="component_page_indicator">Show page indicator</string>
-    <string name="rate_app">Rate this app</string>
+    <string name="share">Поділитись</string>
+
+
+    <string name="full_width_width_widgets_pref_title">Віджети повної ширини</string>
+
+    <string name="components_notification">Увімкнути сповіщення at a glance</string>
+    <string name="market">Маркет</string>
+
+    <string name="component_page_indicator">Показати індикатор сторінки</string>
+    <string name="rate_app">Оцінити цей додаток</string>
 
     <string name="icon_shape_pebble">Pebble</string>
     <string name="icon_shape_tapered_rect">Tapered rect</string>
     <string name="icon_shape_vessel">Vessel</string>
     <string name="icon_shape_mallow">Mallow</string>
-    <string name="icon_shape_rounder_hexagon">Rounded hexagon</string>
-    <string name="amoled_mode">Use amoled black theme</string>
-    <string name="get_feed">Get News feed</string>
-    <string name="get_feed_desc">On left of Home screen</string>
-    <string name="wallpaper_scrolling">Allow wallpaper scroll</string>
+    <string name="icon_shape_rounder_hexagon">Заокруглений шестикутник</string>
+    <string name="amoled_mode">Використовувати чорну тему AMOLED</string>
+    <string name="get_feed">Отримати стрічку новин</string>
+    <string name="get_feed_desc">Зліва на головному екрані</string>
+    <string name="wallpaper_scrolling">Дозволити прокрутку шпалер</string>
 
-    <string name="reset_app_icons_description">This will reset App drawer icons to their system default.</string>
-    <string name="reset_app_icons_summary">To system default</string>
-    <string name="reset_app_icons_title">Reset Custom app icons</string>
+    <string name="reset_app_icons_description">Це скине піктограми в меню до стандартних.</string>
+    <string name="reset_app_icons_summary">До стандартних системи</string>
+    <string name="reset_app_icons_title">Скинути змінені піктограми</string>
 
-    <string name="allow_two_lines_label">Allow two lines label</string>
-    <string name="allow_accent_hotseat">Allow accent in search bar icons</string>
-    <string name="allow_full_width_widget">Full width widget</string>
+    <string name="allow_two_lines_label">Назва в два рядки</string>
+    <string name="allow_accent_hotseat">Колір акценту в панелі пошуку</string>
+    <string name="allow_full_width_widget">Віджети повної ширини</string>
     <string name="icon_shape_clover">Clover</string>
-    <string name="crash">Something went wrong … restarting Ruthless Launcher.</string>
-    <string name="icon_masking">Enable Icon masking</string>
-    <string name="about_donate_new_desc">Using Paypal or UPI</string>
-    <string name="welcome_info">Ruthless is a completely free application with no advertisements, hence no revenue is generated by it.
-        If you like this application and want regular updates then kindly contribute in its development by donating.
+    <string name="crash">Щось пішло не так … перезапускаємо Ruthless Launcher.</string>
+    <string name="icon_masking">Увімкнути маски піктограм</string>
+    <string name="about_donate_new_desc">Використовуючи Paypal або UPI</string>
+    <string name="welcome_info">Ruthless це повністю безкоштовний застосунок без реклами, він не генерує прибутку.
+        Якщо вам подобається цей застосунок та ви хочете регулярні оновлення тоді закиньте пару гривень розробнику.
     </string>
-    <string name="error_msg">Ah, shoot. Seems like Ruthless faced an unhandled error. Would you like to report it to the
-        developer?
+    <string name="error_msg">От халепа. Схоже, що сталася неочікувана помилка. Чи бажаєте ви надіслати звіт розробнику?
     </string>
-    <string name="report">Report</string>
-    <string name="white">Snowfall</string>
-    <string name="gray">Gloom</string>
-    <string name="default_search_icon">Search bar icon</string>
-    <string name="custom_text_color">App drawer text color</string>
+    <string name="report">Звіт</string>
+    <string name="white">Снігопад</string>
+    <string name="gray">Сірий</string>
+    <string name="default_search_icon">Піктограма паелі пошуку</string>
+    <string name="custom_text_color">Колір тексту в меню застосунків</string>
 
-    <string name="assistant_icon_visisbility">Show assistant icon</string>
-    <string name="search_keywords">Hidden Search keyword</string>
-    <string name="add_hide_keyword">Add new</string>
-    <string name="swipe_hold_recent">Allow swipe up + hold for recents</string>
-    <string name="debugger_mode">Show Bug reporter menu</string>
-    <string name="debugger_sum">When launcher encounters a bug</string>
+    <string name="assistant_icon_visisbility">Показати піктограму Асистента</string>
+    <string name="search_keywords">Ключове слово для прихованих</string>
+    <string name="add_hide_keyword">Додати новий</string>
+    <string name="swipe_hold_recent">Проведіть вгору та утримуйте для неавніх</string>
+    <string name="debugger_mode">Показати меню звітів помилок</string>
+    <string name="debugger_sum">Коли лаунчер зустріне баг</string>
 
     <string name="fade_animation">Fade page transition</string>
-    <string name="hosescreen_summary">News feed, margin, and more</string>
-    <string name="hotseat_summary">Search widget, icons and more</string>
-    <string name="allapps_summary">Background Opacity, text color and more</string>
-    <string name="edge_margin">Horizontal margin</string>
-    <string name="playstore">Using Playstore</string>
-    <string name="all_apps_lable">Show " ''All apps'' " Title</string>
+    <string name="hosescreen_summary">Стрічка новин, відступи таінше</string>
+    <string name="hotseat_summary">Віджет пошуку, піктограми та інше</string>
+    <string name="allapps_summary">Прозорість фону, колір тексту та інше</string>
+    <string name="edge_margin">Горизонтальні відступи</string>
+    <string name="playstore">Використовуючи Play Store</string>
+    <string name="all_apps_lable">Показати заголовок " ''Усі застосунки'' "</string>
     <string name="theme_auto_black">System with black</string>
     <string name="invisible_widget">Empty screen widget visibility</string>
 
 
 
-    <string name="search_provider_title">Search provider</string>
+    <string name="search_provider_title">Провайдер пошуку</string>
     <string name="search_provider_google">Google web</string>
     <string name="search_provider_bing">Bing</string>
     <string name="search_provider_duckduckgo">DuckDuckGo</string>
@@ -269,31 +267,31 @@
 
 
 
-    <string name="error_message_title">Error</string>
+    <string name="error_message_title">Помилка</string>
 
     <!-- App picker -->
-    <string name="profile_applist_title">Apps</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="profiles_add">Add</string>
-    <string name="action_activities">Launch activity</string>
+    <string name="profile_applist_title">Застосунки</string>
+    <string name="profile_choose_app">Виберіть застосунок</string>
+    <string name="profiles_add">Додати</string>
+    <string name="action_activities">Запустити дію в застосунку</string>
     <string name="custom_action">Custom</string>
     <string name="select_custom_app_title">Select custom app</string>
     <string name="select_custom_activity_title">Select custom activity</string>
     <string name="no_last_app">No last app found</string>
-    <string name="translate">Translate</string>
+    <string name="translate">Перекласти</string>
     <string name="telegram">Telegram</string>
     <string name="email">Email</string>
-    <string name="style">Styles</string>
-    <string name="style_sum">Grid, Icon pack, accent and more</string>
-    <string name="faq">Frequently Asked Questions</string>
-    <string name="faq_sum">Features, how to, etc</string>
+    <string name="style">Стилі</string>
+    <string name="style_sum">Сітка, Піктограми, Кольори та інше</string>
+    <string name="faq">Часті запитання</string>
+    <string name="faq_sum">Можливості, Інструкції і т. д.</string>
 
-    <string name="smart_folder_title">Smart folder</string>
+    <string name="smart_folder_title">Розумна папка</string>
     <string name="smart_folder_summary_one">Swipe - launch first app \nTouch - open folder</string>
     <string name="smart_folder_summart_two">Swipe - open folder \nTouch - launch first app</string>
     <string name="infinite_scrolling">Enable infinite scrolling</string>
 
-    <string name="dock_height">Dock height</string>
+    <string name="dock_height">Висота док-панелі</string>
     <string name="folder_child_label">Show label inside folder</string>
 
     <string name="pack_name">Package name</string>
