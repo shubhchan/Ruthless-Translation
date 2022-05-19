@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="needs_usage_access" translatable="false">Потрібен доступ до даних про використаня</string>
+    <string name="msg_missing_usage_access">Щоб показати пропозиції увімкніть доступ до даних про використання <xliff:g id="name" example="My App">%1$s</xliff:g></string>
+    <string name="app_info_subtext">Проведіть донизу, щоб закрити інформацію про застосунок.</string>
+    <string name="app_info_source">Джерело</string>
+    <string name="app_info_last_update">Оновлено</string>
+    <string name="item_hidden">Пункт приховано</string>
+    <string name="theme_title">Акцент</string>
+    <string name="theme_campfire">Вогонь</string>
+    <string name="theme_sunset">Захід сонця</string>
+    <string name="theme_forest">Ліс</string>
+    <string name="theme_ocean">Океан</string>
+    <string name="theme_twilight">Сутінки</string>
+    <string name="theme_blossom">Цвіт</string>
+    <string name="dock_search">Віджет пошуку</string>
+    <string name="feed_provider">Стрічка новин</string>
+    <string name="grid_division">Відступи сітки</string>
+    <string name="grid_division_dense">Щільна (6 на 6)</string>
+    <string name="grid_division_normal">Нормальна (5 на 5)</string>
+    <string name="grid_division_reasonable">Простора (4 на 5)</string>
+    <string name="grid_division_big">Велика (4 на 4)</string>
+    <string name="grid_division_crazybig">Гігантська (3 на 3)</string>
+    <string name="fading_transition">Згасаючий перехід</string>
+    <string name="fading_transition_desc">Коли відкривається застосунок</string>
+    <string name="about_contact">Зв'язатись</string>
+    <string name="about_donate_desc">Використовуючи баланс Play</string>
+    <string name="shadespace_text_charging">Заряджено на %1$d%%</string>
+    <string name="search_hidden">@string/search_hidden_global</string>
+</resources>
