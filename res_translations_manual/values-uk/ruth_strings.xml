@@ -48,8 +48,8 @@
     <string name="one_finger_up">Провести вверх одним пальцем</string>
     <string name="home_button">кнопка «Додому»</string>
     <string name="two_finger_up">провести вверх двома пальцями</string>
-    <string name="two_finger_up_hotseat">провести вверх двома пальцями з доку</string>
-    <string name="one_finger_up_hotseat">провести вверх одним пальцем з доку</string>
+    <string name="two_finger_up_hotseat">провести вверх двома пальцями з док-панелі</string>
+    <string name="one_finger_up_hotseat">провести вверх одним пальцем з док-панелі</string>
     <string name="category_gestures">Жести</string>
     <string name="category_gestures_summary">Провести вниз, довгий тап та інше.</string>
 
@@ -195,16 +195,16 @@
 
     <string name="full_width_width_widgets_pref_title">Віджети повної ширини</string>
 
-    <string name="components_notification">Увімкнути сповіщення at a glance</string>
+    <string name="components_notification">Увімкнути сповіщення в віджеті At a Glance</string>
     <string name="market">Маркет</string>
 
     <string name="component_page_indicator">Показати індикатор сторінки</string>
     <string name="rate_app">Оцінити цей додаток</string>
 
-    <string name="icon_shape_pebble">Pebble</string>
-    <string name="icon_shape_tapered_rect">Tapered rect</string>
-    <string name="icon_shape_vessel">Vessel</string>
-    <string name="icon_shape_mallow">Mallow</string>
+    <string name="icon_shape_pebble">Галька</string>
+    <string name="icon_shape_tapered_rect">Обрізаний квадрат</string>
+    <string name="icon_shape_vessel">Бочка</string>
+    <string name="icon_shape_mallow">Мальва</string>
     <string name="icon_shape_rounder_hexagon">Заокруглений шестикутник</string>
     <string name="amoled_mode">Використовувати чорну тему AMOLED</string>
     <string name="get_feed">Отримати стрічку новин</string>
@@ -218,7 +218,7 @@
     <string name="allow_two_lines_label">Назва в два рядки</string>
     <string name="allow_accent_hotseat">Колір акценту в панелі пошуку</string>
     <string name="allow_full_width_widget">Віджети повної ширини</string>
-    <string name="icon_shape_clover">Clover</string>
+    <string name="icon_shape_clover">Конюшина</string>
     <string name="crash">Щось пішло не так … перезапускаємо Ruthless Launcher.</string>
     <string name="icon_masking">Увімкнути маски піктограм</string>
     <string name="about_donate_new_desc">Використовуючи Paypal або UPI</string>
@@ -240,20 +240,20 @@
     <string name="debugger_mode">Показати меню звітів помилок</string>
     <string name="debugger_sum">Коли лаунчер зустріне баг</string>
 
-    <string name="fade_animation">Fade page transition</string>
+    <string name="fade_animation">Анімація згасання сторінки</string>
     <string name="hosescreen_summary">Стрічка новин, відступи таінше</string>
     <string name="hotseat_summary">Віджет пошуку, піктограми та інше</string>
     <string name="allapps_summary">Прозорість фону, колір тексту та інше</string>
     <string name="edge_margin">Горизонтальні відступи</string>
     <string name="playstore">Використовуючи Play Store</string>
     <string name="all_apps_lable">Показати заголовок " ''Усі застосунки'' "</string>
-    <string name="theme_auto_black">System with black</string>
-    <string name="invisible_widget">Empty screen widget visibility</string>
+    <string name="theme_auto_black">Системна з чорним</string>
+    <string name="invisible_widget">Показати порожній віджет</string>
 
 
 
     <string name="search_provider_title">Провайдер пошуку</string>
-    <string name="search_provider_google">Google web</string>
+    <string name="search_provider_google">Google Web</string>
     <string name="search_provider_bing">Bing</string>
     <string name="search_provider_duckduckgo">DuckDuckGo</string>
     <string name="search_provider_yahoo">Yahoo!</string>
@@ -274,10 +274,10 @@
     <string name="profile_choose_app">Виберіть застосунок</string>
     <string name="profiles_add">Додати</string>
     <string name="action_activities">Запустити дію в застосунку</string>
-    <string name="custom_action">Custom</string>
-    <string name="select_custom_app_title">Select custom app</string>
-    <string name="select_custom_activity_title">Select custom activity</string>
-    <string name="no_last_app">No last app found</string>
+    <string name="custom_action">Інше</string>
+    <string name="select_custom_app_title">Вибрати інший застосунок</string>
+    <string name="select_custom_activity_title">Вибрати іншу дію в застосунку</string>
+    <string name="no_last_app">Останній застосунок не знайдено</string>
     <string name="translate">Перекласти</string>
     <string name="telegram">Telegram</string>
     <string name="email">Email</string>
@@ -287,60 +287,60 @@
     <string name="faq_sum">Можливості, Інструкції і т. д.</string>
 
     <string name="smart_folder_title">Розумна папка</string>
-    <string name="smart_folder_summary_one">Swipe - launch first app \nTouch - open folder</string>
-    <string name="smart_folder_summart_two">Swipe - open folder \nTouch - launch first app</string>
-    <string name="infinite_scrolling">Enable infinite scrolling</string>
+    <string name="smart_folder_summary_one">Проведення - запустити перший застосунок \nДотик - відкрити папку</string>
+    <string name="smart_folder_summart_two">Проведення - відкрити папку \nДотик - запустити перший застосунок</string>
+    <string name="infinite_scrolling">Увімкнути нескінченну прокрутку</string>
 
     <string name="dock_height">Висота док-панелі</string>
-    <string name="folder_child_label">Show label inside folder</string>
+    <string name="folder_child_label">Показувати назву всередині папки</string>
 
-    <string name="pack_name">Package name</string>
-    <string name="copy_pack_name">Copied to clipboard</string>
-    <string name="icon_color_extraction">Color extraction</string>
-    <string name="extractor_white">White</string>
-    <string name="extractor_dark">Primary Dark</string>
-    <string name="extractor_light">Primary Light</string>
-    <string name="extractor_exact">Primary</string>
-    <string name="two_row_dock">Enable two row dock</string>
+    <string name="pack_name">Ім'я пакету</string>
+    <string name="copy_pack_name">Зкопійовано в буфер обміну</string>
+    <string name="icon_color_extraction">Колір піктограми</string>
+    <string name="extractor_white">Білий</string>
+    <string name="extractor_dark">Первинний Темний</string>
+    <string name="extractor_light">Первинний Світлий</string>
+    <string name="extractor_exact">Первинний</string>
+    <string name="two_row_dock">Два рядки в док-панелі</string>
 
-    <string name="hide_app_drawer">Hide app drawer after app launch</string>
-    <string name="show_fast_scroll">Show scroll bar</string>
+    <string name="hide_app_drawer">Сховати меню після запуску застосунку</string>
+    <string name="show_fast_scroll">Показати полосу прокрутки</string>
 
     <!-- Categories -->
-    <string name="pref_category">App Category</string>
-    <string name="pref_category_sum">Categorise apps in app drawer</string>
-    <string name="category_favorites">Favorites</string>
-    <string name="category_media">Media</string>
-    <string name="category_social">Social</string>
-    <string name="category_utility">Utility</string>
-    <string name="category_travel">Travel</string>
-    <string name="category_ignored">Ignored</string>
+    <string name="pref_category">Категорія застосунку</string>
+    <string name="pref_category_sum">Категоризувати меню застосунків</string>
+    <string name="category_favorites">Улюблені</string>
+    <string name="category_media">Медіа</string>
+    <string name="category_social">Соціальні</string>
+    <string name="category_utility">Інструменти</string>
+    <string name="category_travel">Подорожі</string>
+    <string name="category_ignored">Без категорії</string>
 
 
-    <string name="accented">"Accented icon"</string>
-    <string name="monochrome_">"Monochrome icon"</string>
-    <string name="accented_gppgle">"Accented google icon"</string>
-    <string name="monochrome_google">"Monochrome google icon"</string>
-    <string name="colored">"Colored google icon"</string>
-    <string name="invisible">"Invisible icon"</string>
+    <string name="accented">"Піктограма з акцентом"</string>
+    <string name="monochrome_">"Монохромна піктограма"</string>
+    <string name="accented_gppgle">"Іконка Google з акцентом"</string>
+    <string name="monochrome_google">"Монохромна іконка Google"</string>
+    <string name="colored">"Кольорова іконка Google"</string>
+    <string name="invisible">"Невидима піктограма"</string>
 
-    <string name="disable_default_keyword">Disable default keywords</string>
-    <string name="disable_overscroll_gesture">Disable overscroll gesture</string>
-    <string name="disable_entry_authentication">Disable entry authentication</string>
-    <string name="welcome">Welcome</string>
-    <string name="rate_sum">On play store</string>
+    <string name="disable_default_keyword">Вимкнути стандартні ключові слова</string>
+    <string name="disable_overscroll_gesture">Вимкнути жест перепрокрутки</string>
+    <string name="disable_entry_authentication">Вимкнути запис автентифікації</string>
+    <string name="welcome">Ласкаво просимо</string>
+    <string name="rate_sum">В Play Store</string>
   
-    <string name="apps_by_me_title">Apps by me</string>
-    <string name="apps_by_me_sum">On play store</string>
+    <string name="apps_by_me_title">Застосунки розроблені мною</string>
+    <string name="apps_by_me_sum">В Play Store</string>
 
-    <string name="transparent_navigation_bar_title">Enable transparent navigation nar</string>
-    <string name="category_mode">Category shortcut</string>
-    <string name="category_mode_1">Inside search bar</string>
-    <string name="category_mode_2">Invisible + inside search bar</string>
-    <string name="category_mode_3">Bottom center</string>
-    <string name="category_mode_4">Bottom right</string>
+    <string name="transparent_navigation_bar_title">Увімкнути прозору панель навігації</string>
+    <string name="category_mode">Ярлик категорії</string>
+    <string name="category_mode_1">Всередині панелі пошуку</string>
+    <string name="category_mode_2">Невидима + Невидима панель пошуку</string>
+    <string name="category_mode_3">По центру знизу</string>
+    <string name="category_mode_4">Зправа знизу</string>
 
 
-    <string name="category_info">Swipe right over the category boxes above to change category. Hidden category is kept at the second last place and last place has Ignored apps (apps with no category) category.</string>
+    <string name="category_info">Проведіть вправо над категоріями, щоб змінити категорію. Прихована категорія на передостанньому місці, на останньому застосунки без категорії.</string>
 
 </resources>
